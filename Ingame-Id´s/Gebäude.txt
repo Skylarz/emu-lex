@@ -1,0 +1,41 @@
+IDs :
+
+50000 Druidenturm
+50001 Hängebrücke
+50002 Zeppelinhaus
+50003 Baumhäuserkette
+50004 Übergang
+50005 Zerstörter Turm
+50006 Großes Haus
+50007 Hausruine
+50008 TaurenFlugturm
+50009 Steinbrücke
+50010 Piratenschiff
+50011 Biokuppel
+50012 Zerstörter Pilz
+50013 Fels
+50014 Steinkopf
+50015 Brunnen
+50016 Trommel 1
+50017 Trommel 2
+50018 Trommel 3
+50019 Große Vase
+50020 Pflanze 1
+50021 Pflanze 2 (Farn)
+50022 Explosion
+50023 Baustein
+50024 Holzsteg
+50025 Absperrung
+50026 Kirche
+50027 Sägewerk
+50028 Kleines Haus
+50029 Baum (Herbst)
+50030 Turm
+50031 Stein (klein)
+50032 Gras
+50033 Blume
+50034 Busch
+50035 Stall
+50036 Schrein (lol)
+50037 Tanne (Groß)
+50038 Löwenstatur
