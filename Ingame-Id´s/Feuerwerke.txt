@@ -1,0 +1,39 @@
+feuerwerke:
+
+181886 Firework Rocket, Promotion
+180854 Firework Rocket, Type 1 Blue
+180861 Firework Rocket, Type 1 Blue BIG
+180855 Firework Rocket, Type 1 Green
+180862 Firework Rocket, Type 1 Green BIG
+180851 Firework Rocket, Type 1 Red
+180860 Firework Rocket, Type 1 Red BIG
+180857 Firework Rocket, Type 1 White
+180864 Firework Rocket, Type 1 White BIG
+180858 Firework Rocket, Type 1 Yellow
+180865 Firework Rocket, Type 1 Yellow BIG
+180720 Firework, Show, Type 1 Blue
+180722 Firework, Show, Type 1 Blue BIG
+180724 Firework, Show, Type 1 Green
+180726 Firework, Show, Type 1 Green BIG
+180741 Firework, Show, Type 1 Purple BIG
+180703 Firework, Show, Type 1 Red
+180728 Firework, Show, Type 1 White
+180729 Firework, Show, Type 1 White BIG
+180736 Firework, Show, Type 1 Yellow
+180737 Firework, Show, Type 1 Yellow BIG
+180707 Firework, Show, Type 1, Red BIG
+180721 Firework, Show, Type 2 Blue
+180723 Firework, Show, Type 2 Blue BIG
+180727 Firework, Show, Type 2 Green
+180725 Firework, Show, Type 2 Green BIG
+180740 Firework, Show, Type 2 Purple
+180733 Firework, Show, Type 2 Purple BIG
+180704 Firework, Show, Type 2 Red
+180730 Firework, Show, Type 2 White
+180731 Firework, Show, Type 2 White BIG
+180738 Firework, Show, Type 2 Yellow
+180739 Firework, Show, Type 2 Yellow BIG
+180708 Firework, Show, Type 2, Red BIG
+180771 Firework Launcher
+180850 Firework Launcher
+180868 Firework Launcher
