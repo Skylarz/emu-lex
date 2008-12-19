@@ -1,0 +1,1638 @@
+Hallo
+Wenn ihr ein Player Treff Bauen wollt und noch die passenden Sachen sucht seid ihr hier genau richtig !!!! Dies ist eine Sammlung von Vendoren bis zu objects, mounts und vieles mehr
+
+Vendoren
+
+Bag Verkauf : 18947
+Munition Verkauf : 21488
+Arenaverkäufer 1 Verkauf : 25177
+Arenaverkäufer 2 Verkauf : 25178
+Arenaverkäufer 3 Verkauf : 25179
+Arenaveranstalter : 26012
+Auktionator : 8661
+Bankier : 16615
+Gildentresor (Objekt) : 187334
+
+
+Portale (.go sp = .gobject spawn)
+
+.go sp 176501 Unterstadt
+.go sp 176500 Donnerfles
+.go sp 182351 Exodar
+.go sp 181146 Karazhan
+.go sp 182352 Silbermond
+.go sp 183384 Shattrath
+.go sp 184604 Socrethar's Seat
+.go sp 184605 Nethersturm
+.go sp 176497 Eisenschmiede
+.go sp 176296 Sturmwind
+.go sp 176499 Orgrimmar
+.go sp 176498 Darnassus
+.go sp 200001 Portal zu den Allianz-Schlachtfeldern
+
+
+--->Zum Platten tragen 750
+--->Zum Leder tragen 9077
+--->Zum Schwererüstung tragen 8737
+--->Zum Stoff tragen 9078
+
+
+--->Für das Einhandschwert 201
+--->Für das Zweihandschwer 202
+--->Für die Einhandaxt 196
+--->Für die Zweihandaxt 197
+--->Für den Einhandstreitkolben 198
+--->Für den Zweihandstreitkolben 199
+--->Für den Dolch 1180
+--->Für die Stangenwaffe 200
+--->Für den Stab 227
+--->Für den Zauberstab 6057
+--->Für den Bogen 264
+--->Für die Armbrust 5757
+--->Für die Wurfwaffe 2567
+--->Für die Schusswaffe 266
+-->Für das Schild 9116
+--->Für die Beidhändigkeit 674
+--->Für die Verteidigung 204
+--->Für das Unbewaffnet 203
+
+Allianze
+--->Priester= 376
+--->Paladin= 928
+--->Schamane= 20407
+--->Druide= 4218
+--->Magier= 331
+--->Hexenmeister= 5496
+--->Dämonenausbilder= 5520
+--->Schurke= 918
+--->Krieger= 914
+--->Jäger= 5516
+--->Tierausbilderin= 2879
+
+
+--->Verzauberkunst = 18773
+--->Alchimie = 18802
+--->Kräuterkunde = 18776
+--->Bergbau = 18779
+--->Schmiedekunst = 21209
+--->Ingenieur = 11037
+--->Juwelenschleifen = 18774
+--->Lederverarbeitung = 18771
+--->Kürschnerei = 18777
+--->Schneider = 18772
+--->Erste Hilfe = 6094
+--->Kochkunst = 17246
+--->Angeln = 16774
+
+Horde
+
+--->Priester =4607
+--->Paladin =16681
+--->Schamane =3032
+--->Druide =3034
+--->Magier =16653
+--->Hexenmeister =16646
+--->Dämonenausbilder =16649
+--->Schurke =16684
+--->Giftlieferantin =16683
+--->Krieger =4594
+--->Jäger =16674
+--->Tierausbilderin =16675
+
+--->Verzauberkunst = 19252
+--->Alchimie = 16588
+--->Kräuterkunde = 18748
+--->Bergbau = 18747
+--->Schmiedekunst = 16583
+--->Ingenieur = 16667
+--->Juwelenschleifen = 18751
+--->Lederverarbeitung = 19187
+--->Kürschnerei = 18755
+--->Schneider = 18749
+--->Erste Hilfe = 2798
+--->Kochkunst = 16253
+--->Angeln = 5941
+
+Wenn ihr ein Player Treff bauen wolte für beide Frahtionen dan klicke auf den geweiligen npc und benutze den befehl ".modyfy faction 35 1" damit ist diese "neutral".
+
+Mounts
+
+
+Blauer Windreiter 25475
+Gelbbrauner Windreiter 25474
+Goldener Greif 25470
+Grüner Windreiter 25476
+Schneller blauer Greif 25473
+Schneller gelber Windreiter 25532
+Schneller grüner Greif 25528
+Schneller grüner Windreiter 25531
+Schneller lila Greif 25529
+Schneller lila Windreiter 25533
+Schneller roter Greif 25527
+Schneller roter Windreiter 25477
+Schwarzer Greif 25471
+Frostwidder 13329
+Graublauer Kodo 15293
+Großer blauer Elekk 29745
+Großer brauner Kodo 18794
+Großer grauer Kodo 18795
+Großer grüner Elekk 29746
+Großer lila Elekk 29747
+Großer weißer Kodo 18793
+Grüner Kodo 15292
+Grünes Skelettschlachtross 13334
+Horn des arktischen Wolfs 12351
+Horn des Frostwolfheulers 19029
+Horn des roten Wolfs 12330
+Horn des schnellen braunen Wolfs 18796
+Horn des schnellen Grauwolfs 18798
+Horn des schnellen Waldwolfs 18797
+Horn des schwarzen Kriegswolfs 29469
+Palominozaumzeug 12354
+Pfeife des elfenbeinfarbenen Raptors 13317
+Pfeife des scheckigen roten Raptors 8586
+Pfeife des schwarzen Kriegsraptors 29472
+Purpurnes Skelettschlachtross 18791
+Rotes Skelettschlachtross 29470
+Schimmelzaumzeug 12353
+Schneller blauer Raptor 18788
+Schneller Brauner 18777
+Schneller brauner Widder 18786
+Schneller gelber Roboschreiter 18774
+Schneller grauer Widder 18787
+Schneller grüner Falkenschreiter 29223
+Schneller grüner Roboschreiter 18772
+Schneller lila Falkenschreiter 29224
+Schneller olivfarbener Raptor 18789
+Schneller orangener Raptor 18790
+Schneller pinkfarbener Falkenschreiter 28936
+Schneller Razzashiraptor 19872
+Schneller weißer Roboschreiter 18773
+Schneller weißer Widder 18785
+Schneller zulianischer Tiger 19902
+Schnelles Palomino 18776
+Schnelles weißes Ross 18778
+Schwarzer Kriegskodo 29466
+Schwarzer Kriegswidder 29467
+Schwarzer Schlachtenschreiter 29465
+Schwarzer Widder 13328
+Schwarzes Schlachtrosszaumzeug 29468
+Streitwidder der Sturmlanzen 19030
+Weißer Roboschreiter Mod. A 13326
+Zügel des braunen Kriegstalbuks 29105
+Zügel des braunen Kriegstalbuks 29230
+Zügel des braunen Reittalbuks 31834
+Zügel des braunen Reittalbuks 31833
+Zügel des dunklen Kriegstalbuks 29228
+Zügel des dunklen Reittalbuks 28915
+Zügel des Frostsäblers 12302
+Zügel des kobaltblauen Kriegstalbuks 29227
+Zügel des kobaltblauen Kriegstalbuks 29102
+Zügel des kobaltblauen Reittalbuks 31830
+Zügel des kobaltblauen Reittalbuks 31829
+Zügel des Nachtsäblers 12303
+Zügel des schnellen Frostsäblers 18766
+Zügel des schnellen Schattensäblers 18767
+Zügel des schnellen Sturmsäblers 18902
+Zügel des schwarzen Kriegstigers 29471
+Zügel des silbernen Kriegstalbuks 29104
+Zügel des silbernen Kriegstalbuks 29229
+Zügel des silbernen Reittalbuks 31832
+Zügel des silbernen Reittalbuks 31831
+Zügel des Todesstreitrosses 13335
+Zügel des weißen Kriegstalbuks 29103
+Zügel des weißen Kriegstalbuks 29231
+Zügel des weißen Reittalbuks 31835
+Zügel des weißen Reittalbuks 31836
+Zügel des Winterquellfrostsäblers 13086
+
+Rüstung Set´s
+
+-KRIEGER-
+
+Tier 1: 209
+Tier 2: 218
+Tier 3: 523
+Tier 4(1): 654
+Tier 4(2): 655
+Tier 5(1): 656
+Tier 5(2): 657
+Tier 6(1): 672
+Tier 6(2): 673
+
+-PALADIN-
+
+Tier 1: 208
+Tier 2: 217
+Tier 3: 528
+Tier 4(1): 624
+Tier 4(2): 625
+Tier 4(3): 626
+Tier 5(1): 627
+Tier 5(2): 628
+Tier 5(3): 629
+Tier 6(1): 627
+Tier 6(2): 680
+Tier 6(3): 681
+
+-JÄGER-
+
+Tier 1: 206
+Tier 2: 215
+Tier 3: 530
+Tier 4: 651
+Tier 5: 652
+Tier 6: 669
+
+-SCHURKE-
+
+Tier 1: 204
+Tier 2: 213
+Tier 3: 524
+Tier 4: 621
+Tier 5: 622
+Tier 6: 668
+
+-PRIESTER-
+
+Tier 1: 202
+Tier 2: 211
+Tier 3: 525
+Tier 4(1): 663
+Tier 4(2): 664
+Tier 5(1): 665
+Tier 5(2): 666
+Tier 6(1): 674
+Tier 6(2): 675
+
+-SCHAMANE-
+
+Tier 1: 207
+Tier 2: 216
+Tier 3: 527
+Tier 4(1): 631
+Tier 4(2): 632
+Tier 4(3): 633
+Tier 5(1): 634
+Tier 5(2): 635
+Tier 5(3): 636
+Tier 6(1): 682
+Tier 6(2): 683
+Tier 6(3): 684
+
+-MAGIER-
+
+Tier 1: 201
+Tier 2: 210
+Tier 3: 526
+Tier 4: 648
+Tier 5: 649
+Tier 6: 671
+
+-HEXENMEISTER-
+
+Tier 1: 203
+Tier 2: 212
+Tier 3: 529
+Tier 4: 645
+Tier 5: 646
+Tier 6: 670
+
+-DRUIDE-
+
+Tier 1: 205
+Tier 2: 214
+Tier 3: 521
+Tier 4(1): 638
+Tier 4(2): 639
+Tier 4(3): 640
+Tier 5(1): 641
+Tier 5(2): 642
+Tier 5(3): 643
+Tier 6(1): 676
+Tier 6(2): 677
+Tier 6(3): 678
+
+
+-Krieger-
+
+Dungeon Set 1: 189
+Dungeon Set 2: 511
+Dungeon Set 3(1): 653
+Dungeon Set 3(2): 661
+
+
+-Paladin-
+
+Dungeon Set 1: 188
+Dungeon Set 2: 516
+Dungeon Set 3: 623
+
+-Jäger-
+
+Dungeon Set 1: 186
+Dungeon Set 2: 515
+Dungeon Set 3: 650
+
+-Schurke-
+
+Dungeon Set 1: 184
+Dungeon Set 2: 512
+Dungeon Set 3: 620
+
+-Priester-
+
+Dungeon Set 1: 182
+Dungeon Set 2: 514
+Dungeon Set 3: 662
+
+-Schamane-
+
+Dungeon Set 1: 187
+Dungeon Set 2: 519
+Dungeon Set 3: 630
+
+-Magier-
+
+Dungeon Set 1: 181
+Dungeon Set 2: 517
+Dungeon Set 3: 647
+
+-Hexenmeister-
+
+Dungeon Set 1: 184
+Dungeon Set 2: 518
+Dungeon Set 3: 644
+
+-Druide-
+
+Dungeon Set 1: 185
+Dungeon Set 2: 513
+Dungeon Set 3: 637
+
+Horde PVP Set´s
+-Krieger-
+
+Feldherren-Set: 537
+Kriegsfürsten-Set: 383
+Oberstes-Kriegsfürsten-Set: 588
+Die Entweihten Set: 487
+
+-Paladin-
+
+Oberstes-Kriegsfürsten-Set(1): 587
+Oberstes-Kriegsfürsten-Set(2): 608
+Oberstes-Kriegsfürsten-Set(3): 694
+
+-Jäger-
+
+Feldherren-Set: 543
+Kriegsfürsten-Set: 396
+Oberstes-Kriegsfürsten-Set: 596
+Die Entweihten Set: 483
+
+-Schurke-
+
+Feldherren-Set: 522
+Kriegsfürsten-Set: 393
+Oberstes-Kriegsfürsten-Set: 606
+Die Entweihten Set: 486
+
+-Prister-
+
+Feldherren-Set: 540
+Kriegsfürsten-Set: 390
+Oberstes-Kriegsfürsten-Set(1): 598
+Oberstes-Kriegsfürsten-Set(2): 692
+Die Entweihten Set: 485
+
+-Schamane-
+
+Feldherren-Set: 538
+Kriegsfürsten-Set: 386
+Oberstes-Kriegsfürsten-Set(1): 594
+Oberstes-Kriegsfürsten-Set(2): 604
+Oberstes-Kriegsfürsten-Set(3): 696
+Die Entweihten Set: 484
+
+
+-Magier-
+
+Feldherren-Set: 542
+Kriegsfürsten-Set: 387
+Oberstes-Kriegsfürsten-Set: 600
+Die Entweihten Set: 485
+
+-Hexenmeister-
+
+Feldherren-Set: 541
+Kriegsfürsten-Set: 391
+Oberstes-Kriegsfürsten-Set: 592
+Die Entweihten Set: 485
+
+-Druide-
+
+
+Feldherren-Set: 551
+Kriegsfürsten-Set: 397
+Oberstes-Kriegsfürsten-Set(1): 601
+Oberstes-Kriegsfürsten-Set(2): 610
+Oberstes-Kriegsfürsten-Set(3): 689
+Die Entweihten Set: 488
+
+Ally PvP Set´s
+
+-Krieger-
+
+Feldkommandanten-Set: 545
+Feldmarschall-Set: 384
+Großmarschall-Set: 590
+Bund von Arathor Set: 467
+
+-Paladin-
+
+Feldkommandanten-Set: 544
+Feldmarschall-Set: 402
+Großmarschall-Set(1): 589
+Großmarschall-Set(2): 607
+Großmarschall-Set(3): 693
+Bund von Arathor Set: 468
+
+-Jäger-
+
+Feldkommandanten-Set: 550
+Feldmarschall-Set: 395
+Großmarschall-Set: 595
+Bund von Arathor Set: 469
+
+-Schurke-
+
+Feldkommandanten-Set: 522
+Feldmarschall-Set: 394
+Großmarschall-Set: 605
+Bund von Arathor Set: 471
+
+-Prister-
+
+Feldkommandanten-Set: 549
+Feldmarschall-Set: 389
+Großmarschall-Set(1): 597
+Großmarschall-Set(2): 691
+Bund von Arathor Set: 473
+
+-Schamane-
+
+
+Großmarschall-Set(1): 593
+Großmarschall-Set(2): 603
+Großmarschall-Set(3): 695
+
+-Magier-
+
+
+Feldkommandanten-Set: 546
+Feldmarschall-Set: 388
+Großmarschall-Set: 599
+Bund von Arathor Set: 473
+
+-Hexenmeister-
+
+Feldkommandanten-Set: 547
+Feldmarschall-Set: 392
+Großmarschall-Set: 591
+Bund von Arathor Set: 473
+
+-Druide-
+
+Feldkommandanten-Set: 551
+Feldmarschall-Set: 397
+Großmarschall-Set(1): 601
+Großmarschall-Set(2): 609
+Großmarschall-Set(3): 688
+Bund von Arathor Set: 472
+
+und natürlich die Gameobjects
+
+179694 <-- gezakter Holz zaun
+179553 <-- Holz Pfahl
+180035 <-- Zaun
+179880 <-- Leuchtstein
+177193 <-- Stein mit rotem Licht
+177243 <-- Demonen Portal
+19587 <-- Gitiger Nebel
+142179 <-- Riesiger Stein Paviliong
+141859 <-- Schwebender Kristall
+31 <-- Löwen Statur
+177673 <-- Schlangen Statur
+2576 <-- Altar aus Stein
+170353 <-- Zwergen Hologram
+170555 <-- Wasserrad
+170556 <-- Tor
+2871 <-- Steintisch Nachtelfen mit kugel
+157923 <-- Riesige Tore,echt gigantisch aber cool
+164838 <-- Roter mittelgroßer Kristall ( leuchtend )
+164927 <-- Gelber kleiner Kristall ( leuchtend )
+164957 <-- Pylon
+2711 <-- Nachtelfen Stein
+148503 <-- Lavasäule
+106528 <-- Großes Glühwürmchen
+19538 <-- Kleines Glühwürmchen
+16394 <-- Grüne Flame
+19544 <-- Weisser Rauch
+5622 <-- Rosa Aura
+6751 <-- Baum ( Quest )
+6752 <-- Baum ( Quest )
+7923 <-- Pferde Tränke
+179778 <-- Stuhl
+12144 <-- Buch ( Stopper )
+12665 <-- Feuerstelle Tisch
+13891 <-- Schlangenflaum Blume
+13952 <-- Rene die Vogelscheuche
+17190 <-- Ofen ( Schmiede )
+18077 <-- Regal ( Rauchständer )
+19547 <-- Venture Co. Explodirender Wagon
+177237 <-- Gewölbe Tor
+101851 <-- Tor 1
+7146 <-- Schlüssel 1
+150137 <-- Tor 2
+5396 <-- Schlüssel 2
+180038 <-- Heuballen ( Würfel )
+180006 <-- Klo
+179917 <-- Holzhaufentür die zerfällt ( Grob )
+179916 <-- Holzhaufentür die zerfällt ( Fein )
+179910 <-- Picknic Korb
+179908 <-- Werkzeug Koffer
+179880 <-- Leuchtstein (quest)
+179879 <-- Befehlts Leuchtkugel
+179871 <-- Leuchtende Kiste mit Stiefel ( Super Beschleuniger )
+179784 <-- Art Säule
+179782 <-- Reagenz Gläser
+179781 <-- Bank
+178645 <-- Lichterkette
+24622 <-- kleine SteinBank ohne Rückenlehne
+179755 <-- Kleine Pfanne mit Glut
+179724 <-- Großes gartentor
+179708 <-- hellseher Kugel
+179699 <-- Aufgehengter halber mann
+179696 <-- Aufgehengter ganzer mann
+179674 <-- glocke
+179673 <-- fliegende Kerze
+179561 <-- Schwert Klinge
+179553 <-- holtz Pfahl
+179552 <-- Bauplan
+179551 <-- Stein Sarg oben Deckel
+179544 <-- Skelett
+179511 <-- Fuß Fessel
+180025 <-- Heu haufen
+178647 <-- Untoter Weinachtsbaum
+178609 <-- Schneehaufen
+178570 <-- Verderbnis-Spucker
+178569 <-- Sporen Baum
+178560 <-- Stein der sich dreht
+178559 <-- Larven spucker
+178465 <-- Boden zeichen
+178146 <-- Gnom Schredder
+177746 <-- Wetter Station
+177724 <-- Tisch in Groß
+177524 <-- Blubbernder Felsspalt
+178304 <-- Kasten der springt
+177223 <-- Käfer Gong
+180698 <-- Party Tisch klein
+186422 <-- Kleiner runder Tisch
+184434 <-- Leuchtender Tisch
+2562 <-- Brot
+180006 <-- Toilette
+176210 <-- Kleines Komandozelt
+180031 <-- Großes Zelt
+180032 <-- Souvenirs Zelt
+180034 <-- Kleines Nachtelfen Zelt
+180039 <-- Kleines Nachtelfen Zelt
+180030 <-- Kleines Nachtelfen Zelt
+180042 <-- Verkaufsstand
+183355 <-- Kochstelle Verkauf Offen
+210286 <-- Pavillion
+211022 <-- Großes Normaden Zelt
+181254 <-- Kleines Normaden Zelt
+186681 <-- Braufest EssZelt
+186682 <-- Braufest Bierzelt
+2870 <-- Gelbe Aura
+4171 <-- Fahrstuhl hoch
+4170 <-- Fahrstuhl runter
+17631 <-- Bankier
+187334 <-- Gildenbank
+8719 <-- Auktionator
+178670 <--Cicle of Calling (Boden Platte)
+
+
+Band Objekte :
+
+.go spawn 186300 -Stage ( Die Bühne )
+.go spawn 186393 -Bleachers ( Sitzplatz )
+
+WoW Band :
+
+.npc spawn 23619 ( Utoter Gitarre )
+.npc spawn 23623 ( Taur Drumset )
+.npc spawn 23624 ( Troll Gitarre )
+.npc spawn 23625 ( Ork Sänger )
+.npc spawn 23626 ( Blutelf Gitarre )
+
+
+WAFFEN:
+
+1-Hand-Schwerter:
+
+Andosius, Der Seelenschlächter-22736
+Uralter Qirajizerfetzer-21650
+Magierklinge des Azurlieds-17103
+Finsterer Streiter-19168
+Klinge der ewigen Gerechtigkeit-21395
+Klinge der behüteten Geheimnisse-21413
+Klinge der Zauberei-31336
+Klinge des Erzmagiers-29153
+Lodernder Zorn-28427
+Lodernder Wächter-28426
+Blendschlag-31332
+Teufelsstahllangschwert-23540
+Chromatisch gehärtetes Schwert-19352
+
+2-Hand-Schwerter:
+
+Aschenbringer-13262
+Ashkandi, Großschwert der Bruderschaft-19364
+Schwarzklinge von Shahram-12592
+Klinge von Hanna-2801
+Knochenhäschers Schneide-17076
+Verderbter Aschenbringer-22691
+
+1-Hand-Äxte:
+
+Uralter Menschentöter der Hakkari-19852
+Axt des Tiefwaldes-811
+Schwarze Planaraxt-28432
+Gesegnete Qirajikriegsaxt-21242
+Crul'shorukh, Schneide des Chaos-19363
+
+2-Hand-Äxte:
+
+Axt der Gronnlords-28794
+Blutmond-28436
+Hirnhacker-1263
+Dunkle Schneide des Irrsinns-21134
+Drachischer Rächer-19354
+
+1-Hand-Streitkolben:
+
+Kriegshammer des Anubisath-21837
+Inbrünstiger Hüter-868
+Aurasteinhammer-17105
+Gesegneter Qirajikriegshammer-21268
+
+2-Hand-Streitkolben:
+
+Tiefendonner-28441
+Drachischer Schlägel-19358
+Erderschütterer-17073
+Erdenwächter-29171
+
+Stäbe:
+
+Bewahrer des Bernsteinsiegels-17113
+Bannfluch-18609
+Atiesh, Hohestab des Wächters-22589
+
+Dolche:
+
+Klinge der ewigen Dunkelheit-17780
+Gesegneter Qirajipugio-21244
+Klaue von Chromaggus-19347
+Kernhundzahn-18805
+
+<---------------------------------------------->
+
+
+RÜSTUNGEN:
+
+
+Kopf-Stoff:
+
+Kapuze des Schlachtenzaubers-24267
+Kappe des scharlachroten Wissenden-12752
+Reif der Flamme-11808
+Halsband von Cho'gall-28804
+
+Kopf-Leder:
+
+Malornes Geweih-29093
+Kobraschuppenkapuze-29502
+Kutte der Herausforderung-28732
+Kutte des Naturodems-28803
+
+Kopf-Schwere Rüstung:
+
+Helm von Narv-2245
+Helm des Himmelszorns-20134
+Eisschuppenhelmkappe-23033
+Verstärkter Helm des Vorarbeiters-23839
+
+Kopf-Platte:
+
+Löwenherzhelm-12640
+Helm der unendlichen Rage-19372
+Dunkeleisenhelm-19148
+Helm der Seelenschmiede-22091
+
+<------------------------------------------->
+
+
+Schultern-Stoff:
+
+Flimmerkernmantel-16980
+Mantel der Pechschwingenkabale-19370
+Schreckenszwirnmantel des Gladiators-24554
+Reifbedeckter Mantel-22983
+
+Schultern-Leder:
+
+Schiftung des wilden Wachstums-18810
+Unnatürliche Lederschiftung-20633
+Schulterstücke der Knochensense-22479
+Polarschulterpolster-22941
+
+Schultern-Schwere Rüstung:
+
+Tiefenerdschiftung-18829
+Eisschuppenschiftung-22967
+Sperrfeuerschultern-21699
+Mantel des Wüstenzorns-21684
+
+Schultern-Platte:
+
+Drachenkrallenschulterstücke-19394
+Eisfluchschulterstücke-22940
+Mantel von Horusath-21453
+Säurebeschriebene Schulterstücke-20637
+
+<----------------------------------------->
+
+Brust-Stoff:
+
+Gletscherweste-22652
+Goldgewebte Tunika-28052
+->ist nichs gutes dabei!
+
+Brust-Leder:
+
+Brustplatte des Blutdurstes-12757
+Malfurions gesegnetes Bollwerk-19405
+Geflochtener Schattenwams-19439
+Weste des Todesboten-21364
+
+Brust-Schwere Rüstung:
+
+Unverwundbarer Panzer-12641
+Blutbefleckte runenverzierte Halsberge-19904
+Traumschuppenbrustplatte-20380
+Eisschuppenbrustplatte-22664
+
+Brust-Platte:
+
+Brustplatte des chromatischen Drachenschwarms-12895
+Brustschutz aus Silithidenknochenpanzer-21652
+Brustplatte der Vernichtung-21814
+Gepanzerter Monstrositätenbrustkorb-23000
+
+<------------------------------------------------>
+
+Gütel-Stoff:
+
+Gürtel des Erzmagiers-18405
+Schärpe der geflüsterten Geheimnisse-18809
+Mana entfachende Kordel-19136
+Feuerschwingens Griff-19400
+
+Gütel-Leder:
+
+Schärpe der Gnade-14553
+Lavagürtel-19149
+Kernhundgürtel-19162
+Geschmolzener Gürtel-19163
+
+Gürtel-Schwere Rüstung:
+
+Feuriger Kettengurt-16989
+Gekettelter Taillenschutz des Primalisten-19393
+Therazanes Zusammenhalt-19380
+Griff des gefallenen Imperators-21607
+
+Gürtel-Platte:
+
+Gurt des Ansturms-19137
+Gurt des gefallenen Kreuzfahrers-19392
+Königlicher Qirajigürtel-21598
+Gurt des Mentors-23219
+
+<------------------------------------------>
+
+Armschinen-Stoff:
+
+Flimmerkernwickeltücher-18263
+Schwarzflammenarmschienen-19135
+Armschienen der arkanen Präzision-19374
+Handgelenksschoner der Dryade-19595
+
+Armschinen-Leder:
+
+Armschienen des Waldpirschers-19590
+Drachenspitzwickeltücher-20615
+Polararmschienen-22663
+Armschienen der Täuschung-22668
+
+Armschinen-Schwere Rüstung:
+
+Handgelenksschutz des wahren Flugs-18812
+Handgelenksschutz des Windsprechers-19584
+Eisschuppenarmschienen-22665
+
+Armschinen-Platte:
+
+Dunkeleisenarmschienen-17014
+Berserkerarmschienen-19578
+Drachenknochenhandgelenksschutz-20616
+Tiefsteinarmschienen-21184
+
+<---------------------------------------------->
+
+Hose-Stoff:
+
+Gamaschen des Manasturms-18872
+Beinlinge der Arkanen Überlegenheit-18545
+Teufelserfüllte Gamaschen-19133
+Energieerfüllte Gamaschen-19385
+
+Hose-Leder:
+
+Beinkleider der Genesis-21356
+Gamaschen der bodenlosen Tiefe-21698
+Gamaschen der Apokalypse-23071
+Echsenlederhose der Schildwache-22750
+
+Hose-Schwere Rüstung:
+
+Beinschützer des chromatischen Widersetzers-12903
+Gekettelter Beinschützer des Primalisten-19401
+Sandzwirngamaschen-19433
+Uralte zerfressene Gamaschen-20617
+
+Hose-Platte:
+
+Beinplatten des Wolkenbehüters-14554
+Feuerschuppenbeinplatten-18861
+Beinschützer des gefallenen Kreuzfahrers-19402
+Blutgetränkte Beinplatten-19855
+
+<------------------------------------------------->
+
+Stiefel-Stoff:
+
+Stiefel des reinen Gedankens-19437
+Ringos Blizzardstiefel-19438
+Schneeblindschuhe-19131
+Stiefel des Verräters-19897
+
+Stiefel-Leder:
+
+Kernhundstiefel-16982
+Stiefel der Schattenflamme-19381
+Stiefel des Schreckens-20634
+Zwangsarbeiterstiefel-21532
+
+Stiefel-Schwere Rüstung:
+
+Sabatons des Flammenwandlers-19144
+Stiefel des endlosen Moors-20621
+Heimtückische Fußschützer-20629
+Stiefel des gefallenen Propheten-21705
+
+Stiefel-Platte:
+
+Stiefel des gefallenen Helden-21688
+Stiefel der widerrufenen Prophezeiung-21704
+Stiefel des standhaften Willens-21706
+Schienbeinschützer des Eroberers-21333
+
+
+Haltungen
+
+
+Berserkerhaltung : 2458
+Verteidigungshaltung : 71
+Kampfhaltung : 2457
+
+Weihnachten
+
+
+Gameobjects
+
+178746 - Smokywood Pastures
+178666 - Gypsy Wagon
+178671 - Greatfather Winter's Chair
+178649 - Wreath scale 0.75
+178437 - Wreath scale 1.00
+178556 - Wreath scale 1.20
+178647 - Christmas Tree (Medium)
+178557 - Christmas Tree (Medium)
+178426 - Christmas Tree (Large) (Horde)
+178425 - Christmas Tree (Large) (Alliance)
+178645 - Lights x3
+178745 - Lights x3, Broken
+178551 - Lights, Broken
+178438 - Lights
+178609 - Holiday Snow
+178554 - Mistletoe
+178436 - Stocking
+178435 - Stocking
+178434 - Stocking
+178433 - Present
+178432 - Present
+178431 - Present
+178430 - Present
+178429 - Present
+178428 - Present
+
+
+Creatures
+
+13636 - Strange Snowman
+15745 - GreatFather Winter (Alliance (Dward)) upps, it stood helper, but it's the greatfather.
+15746 - Great-Father Winter (Horde(Orc)) upps, it stood helper, but it's the greatfather.
+15698 - Father ''s Helper
+15706 - Winter Reindeer
+13418 - Kaymard Copperpinch
+13420 - Penney Copperpinch
+13429 - Nardstrum Copperpinch
+13430 - Jaycrue Copperpinch
+13431 - Whulwert Copperpinch
+13432 - Seersa Copperpinch
+13433 - Wulmort Jinglepocket
+13434 - Macey Jinglepocket
+13435 - Khole Jinglepocket
+13436 - Guchie Jinglepocket
+14961 - Mirvyna Jinglepocket
+14962 - Dillord Copperpinch
+14963 - Gapp Jinglepocket
+14964 - Hecht Copperpinch
+9550 - Furmund (Horde)
+1365 - Goli Krumn (Alliance)
+15760 - Winter Reveler
+18785 Vinterveil Blood Elf Female
+18793 Vinterveil Blood Elf Male
+
+
+Items
+
+3216 - Warm Winter Robe
+17402 - Greatfather's Winter Ale
+17712 - Winter Veil Disguise Kit
+17725 - Formula: Enchant Weapon - Winter's Might
+17735 - The Feast of Winter Veil
+21235 - Winter Veil Roast
+21241 - Winter Veil Eggnog
+21254 - Winter Veil Cookie
+21524 - Red Winter Hat
+21525 - Green Winter Hat
+23022 - Curmudgeon's Payoff
+21215 - Graccu's Mince Meat Fruitcake
+21216 - Smokywood Pastures Extra-Special Gift
+21270, 21271 - Gently Shaken Gift
+21301 - Green Helper Box
+21305 - Red Helper Box
+21308 - Jingling Bell
+21309 - Snowman Kit
+21310 - Gaily Wrapped Present
+21314 - Metzen's Letters and Notes
+21315 - Smokywood Satchel
+21327 - Ticking Present
+21363 - Festive Gift
+21212 - Fresh Holly
+21213 - Preserved Holly
+17202 - Snowball
+17194 - Holiday Spices
+17195 - Fake Mistletoe
+17196 - Holiday Spirits
+17197 - Gingerbread Cookie
+17198 - Egg Nog
+17200 - Recipe: Gingerbread Cookie
+17201 - Recipe: Egg Nog
+17303 - Blue Ribboned Wrapping Paper
+17304 - Green Ribboned Wrapping Paper
+17307 - Purple Ribboned Wrapping Paper
+17344 - Candy Cane
+17407 - Graccu's Homemade Meat Pie
+17408 - Spicy Beefstick
+17406 - Holiday Cheesewheel
+17404 - Blended Bean Brew
+17405 - Green Garden Tea
+17403 - Steamwheedle Fizzy Spirits
+17726 - Smokywood Pastures Special Gift
+17727 - Smokywood Pastures Gift Pack
+21831 - Wrappered Gift
+21191 - Carefully Wrapped Present
+
+
+Hallow's End
+
+Items
+
+20397 - Hallowed Wand - Pirate
+20398 - Hallowed Wand - Ninja
+20399 - Hallowed Wand - Leper Gnome
+20409 - Hallowed Wand - Ghost
+20410 - Hallowed Wand - Bat
+20411 - Hallowed Wand - Skeleton
+20413 - Hallowed Wand - Random
+20414 - Hallowed Wand - Wisp
+20400 - Pumpkin Bag
+20387 - Forsaken Stink Bomb Cluster
+20388 - Lollipop
+20389 - Candy Corn
+20390 - Candy Bar
+20391 - Flimsy Male Gnome Mask
+20392 - Flimsy Female Gnome Mask
+20561 - Flimsy Male Dwarf Mask
+20562 - Flimsy Female Dwarf Mask
+20563 - Flimsy Female Nightelf Mask
+20564 - Flimsy Male Nightelf Mask
+20565 - Flimsy Female Human Mask
+20566 - Flimsy Male Human Mask
+20567 - Flimsy Female Troll Mask
+20568 - Flimsy Male Troll Mask
+20569 - Flimsy Female Orc Mask
+20570 - Flimsy Male Orc Mask
+20571 - Flimsy Female Tauren Mask
+20572 - Flimsy Male Tauren Mask
+20573 - Flimsy Male Undead Mask
+20574 - Flimsy Female Undead Mask
+20604 - Stink Bomb Cleaner
+20605 - Rotten Eggs
+20557 - Hallow's End Pumpkin Treat
+18635 - Bellara's Nutterbar
+7228 - Tigule and Foror's Strawberry Ice Cream
+18632 - Moonbrook Riot Taffy
+18633 - Styleen's Sour Suckerpop
+20516 - Bobbing Apple
+
+
+Game Objects
+
+180523 - Apple Bob
+180405 - Pumpkin 1
+180431 - Pumpkin 1 scale 4.0
+180406 - Pumpkin 2
+180407 - Pumpkin 3
+180410 - Hanging Skeleton1
+180471 - Hanging Skull Light 1
+180472 - HangingSkullLight 2
+180408 - Witch Hat 1
+180429 - Witch Hat 2
+180411 - Ghost
+180412 - Candy Bucket
+180415 - Black Candle
+180425 - Skull Candle
+180426 - Bat 1 (Flying)
+180427 - Bat 2 (Flying)
+180428 - Witch Broom
+180433 - The Wickerman
+
+
+Creatures
+
+15309 - Spoops
+15310 - Jesper
+15197 - Darkcaller Yanka (Horde)
+15199 - Sergeant Hartman (Alliance)
+15353 - Katrina Shimmerstar
+15354 - Rachelle Gothena
+
+
+New Year
+
+Creatures
+
+15908 - Orgrimmar Reveler
+15907 - Undercity Reveler
+15723 - Booty Bay Reveler
+15906 - Ironforge Reveler
+15719 - Thunder Bluff Reveler
+15694 - Stormwind Reveler
+15905 - Darnassus Reveler
+8116 - Ziggle Sparks
+8117 - Wizbang Booms
+8118 - Lillian Singh
+8121 - Jaxxil Sparks
+8122 - Kizzak Sparks
+
+
+Gameobjects
+
+180728 - Firework, Show, Type 1 White
+475 - Festive Mug
+
+
+Items
+
+21569 - Firework Launcher
+21570 - Cluster Launcher
+21571 - Blue Rocket Cluster
+21574 - Green Rocket Cluster
+21576 - Red Rocket Cluster
+21747 - Festival Firecracker
+21171 - Filled Festive Mug
+21174 - Empty Festive Mug
+
+
+
+Vallentine
+
+Items
+
+21816-21823 - Heart Candy (Different comments on the candy)
+21815 - Love Token
+21833 - Cologne Bottle
+21829 - Perfume Bottle
+21813- Bag of Candies
+21812 - Box of Chocolates
+22145 - Guardian's Moldy Card
+22144 - Bluffwatcher's Card
+22143 - Stormwind Guard's Card
+22142 - Grunt's Card
+22141- Ironforge Guard's Card
+22140 - Sentinel's Card
+22136 - Orgrimmar Gift Collection
+22135 - Thunder Bluff Gift Collection
+22134 - Undercity Gift Collection
+22133 - Darnassus Gift Collection
+22132 - Ironforge Gift Collection
+22131 - Stormwind Gift Collection
+22123 - Pledge of Loyalty: Orgrimmar
+22122 - Pledge of Loyalty: Thunder Bluff
+22121 - Pledge of Loyalty: Undercity
+22120 - Pledge of Loyalty: Darnassus
+22119 - Pledge of Loyalty: Ironforge
+22117 - Pledge of Loyalty: Stormwind
+22140 - Sentinel's Card
+22141 - Ironforge Guard's Card
+22142 - Grunt's Card
+22143 - Stormwind Guard's Card
+22144 - Bluffwatcher's Card
+22145 - Guardian's Moldy Card
+22154 - Pledge of Adoration: Ironforge
+22155 - Pledge of Adoration: Darnassus
+22156 - Pledge of Adoration: Orgrimmar
+22157 - Pledge of Adoration: Undercity
+22158 - Pledge of Adoration: Thunder Bluff
+22159 - Pledge of Friendship: Darnassus
+22160 - Pledge of Friendship: Ironforge
+22161 - Pledge of Friendship: Orgrimmar
+22162 - Pledge of Friendship: Thunder Bluff
+22163 - Pledge of Friendship: Undercity
+22178 - Pledge of Friendship: Stormwind
+22164 - Gift of Adoration: Orgrimmar
+22165 - Gift of Adoration: Thunder Bluff
+22166 - Gift of Adoration: Undercity
+22167 - Gift of Friendship: Darnassus
+22168 - Gift of Friendship: Ironforge
+22169 - Gift of Friendship: Orgrimmar
+22170 - Gift of Friendship: Stormwind
+22171 - Gift of Friendship: Thunder Bluff
+22172 - Gift of Friendship: Undercity
+22173 - Dwarven Homebrew
+22174 - Romantic Poem
+22175 - Freshly Baked Pie
+22176 - Homemade Bread
+22177 - Freshly Picked Flowers
+22178 - Pledge of Friendship: Stormwind
+22259 - Unbestowed Friendship Bracelet
+22260 - Friendship Bracelet
+22261 - Love Fool
+22262 - Alliance Gift Collection
+22263 - Horde Gift Collection
+22264 - Carefully Written Letter
+22265 - Lovingly Composed Letter
+22276 - Lovely Red Dress
+22277 - Red Dinner Suit
+22278 - Lovely Blue Dress
+22279 - Lovely Black Dress
+22280 - Lovely Purple Dress
+22281 - Blue Dinner Suit
+22282 - Purple Dinner Suit
+22283 - Sack of Homemade Bread
+22284 - Bundle of Cards
+22285 - Stormwind Pledge Collection
+22286 - Ironforge Pledge Collection
+22287 - Parcel of Cards
+22288 - Case of Homebrew
+22289 - Stack of Cards
+22290 - Darnassus Pledge Collection
+22291 - Box of Woodcrafts
+22292 - Box of Fresh Pies
+22293 - Package of Cards
+22294 - Orgrimmar Pledge Collection
+22295 - Satchel of Cards
+22296 - Basket of Flowers
+22297 - Thunder Bluff Pledge Collection
+22298 - Book of Romantic Poems
+22299 - Sheaf of Cards
+22300 - Undercity Pledge Collection
+21920 - Creased Letter
+21921 - Carefully Penned Note
+21925 - Immaculate Letter
+21926 - Slightly Creased Note
+21830 - Empty Wrapper
+22236 - Buttermilk Delight
+22237 - Dark Desire
+22238 - Very Berry Cream
+22239 - Sweet Surprise
+
+Creatures
+
+16007 - Orok Deathbane
+16003 - Deathguard Tor
+16008 - Temma of the Wells
+16004 - Elenia Haydon
+16001 - Aldris Fourclouds
+16009 - Tormek Stoneriver
+16005 - Lieutenant Jocryn Heldric
+16002 - Colara Dean
+
+
+
+Easter
+
+Gameobjects
+
+113769 - Easter Egg
+113771 - Easter Egg
+
+
+Items
+
+7809 - Easter Dress
+7806 - Lollipop
+7807 - Candy Bar
+7808 - Chocolate Square
+
+
+
+
+
+
+Winterhauchfest
+
+GOs
+
+178746 - Smokywood Pastures
+178666 - Gypsy Wagon
+178671 - Greatfather Winter's Chair
+178649 - Wreath scale 0.75
+178437 - Wreath scale 1.00
+178556 - Wreath scale 1.20
+178647 - Christmas Tree (Medium)
+178557 - Christmas Tree (Medium)
+178426 - Christmas Tree (Large) (Horde)
+178425 - Christmas Tree (Large) (Alliance)
+178645 - Lights x3
+178745 - Lights x3, Broken
+178551 - Lights, Broken
+178438 - Lights
+178609 - Holiday Snow
+178554 - Mistletoe
+178436 - Stocking
+178435 - Stocking
+178434 - Stocking
+178433 - Present
+178432 - Present
+178431 - Present
+178430 - Present
+178429 - Present
+178428 - Present
+
+
+NPCs
+
+13636 - Strange Snowman
+15745 - GreatFather Winter (Alliance (Dward)) upps, it stood helper, but it's the greatfather.
+15746 - Great-Father Winter (Horde(Orc)) upps, it stood helper, but it's the greatfather.
+15698 - Father ''s Helper
+15706 - Winter Reindeer
+13418 - Kaymard Copperpinch
+13420 - Penney Copperpinch
+13429 - Nardstrum Copperpinch
+13430 - Jaycrue Copperpinch
+13431 - Whulwert Copperpinch
+13432 - Seersa Copperpinch
+13433 - Wulmort Jinglepocket
+13434 - Macey Jinglepocket
+13435 - Khole Jinglepocket
+13436 - Guchie Jinglepocket
+14961 - Mirvyna Jinglepocket
+14962 - Dillord Copperpinch
+14963 - Gapp Jinglepocket
+14964 - Hecht Copperpinch
+9550 - Furmund (Horde)
+1365 - Goli Krumn (Alliance)
+15760 - Winter Reveler
+18785 Vinterveil Blood Elf Female
+18793 Vinterveil Blood Elf Male
+
+
+Items
+
+3216 - Warm Winter Robe
+17402 - Greatfather's Winter Ale
+17712 - Winter Veil Disguise Kit
+17725 - Formula: Enchant Weapon - Winter's Might
+17735 - The Feast of Winter Veil
+21235 - Winter Veil Roast
+21241 - Winter Veil Eggnog
+21254 - Winter Veil Cookie
+21524 - Red Winter Hat
+21525 - Green Winter Hat
+23022 - Curmudgeon's Payoff
+21215 - Graccu's Mince Meat Fruitcake
+21216 - Smokywood Pastures Extra-Special Gift
+21270, 21271 - Gently Shaken Gift
+21301 - Green Helper Box
+21305 - Red Helper Box
+21308 - Jingling Bell
+21309 - Snowman Kit
+21310 - Gaily Wrapped Present
+21314 - Metzen's Letters and Notes
+21315 - Smokywood Satchel
+21327 - Ticking Present
+21363 - Festive Gift
+21212 - Fresh Holly
+21213 - Preserved Holly
+17202 - Snowball
+17194 - Holiday Spices
+17195 - Fake Mistletoe
+17196 - Holiday Spirits
+17197 - Gingerbread Cookie
+17198 - Egg Nog
+17200 - Recipe: Gingerbread Cookie
+17201 - Recipe: Egg Nog
+17303 - Blue Ribboned Wrapping Paper
+17304 - Green Ribboned Wrapping Paper
+17307 - Purple Ribboned Wrapping Paper
+17344 - Candy Cane
+17407 - Graccu's Homemade Meat Pie
+17408 - Spicy Beefstick
+17406 - Holiday Cheesewheel
+17404 - Blended Bean Brew
+17405 - Green Garden Tea
+17403 - Steamwheedle Fizzy Spirits
+17726 - Smokywood Pastures Special Gift
+17727 - Smokywood Pastures Gift Pack
+21831 - Wrappered Gift
+21191 - Carefully Wrapped Present
+
+
+
+
+Halloween
+Items
+
+20397 - Hallowed Wand - Pirate
+20398 - Hallowed Wand - Ninja
+20399 - Hallowed Wand - Leper Gnome
+20409 - Hallowed Wand - Ghost
+20410 - Hallowed Wand - Bat
+20411 - Hallowed Wand - Skeleton
+20413 - Hallowed Wand - Random
+20414 - Hallowed Wand - Wisp
+20400 - Pumpkin Bag
+20387 - Forsaken Stink Bomb Cluster
+20388 - Lollipop
+20389 - Candy Corn
+20390 - Candy Bar
+20391 - Flimsy Male Gnome Mask
+20392 - Flimsy Female Gnome Mask
+20561 - Flimsy Male Dwarf Mask
+20562 - Flimsy Female Dwarf Mask
+20563 - Flimsy Female Nightelf Mask
+20564 - Flimsy Male Nightelf Mask
+20565 - Flimsy Female Human Mask
+20566 - Flimsy Male Human Mask
+20567 - Flimsy Female Troll Mask
+20568 - Flimsy Male Troll Mask
+20569 - Flimsy Female Orc Mask
+20570 - Flimsy Male Orc Mask
+20571 - Flimsy Female Tauren Mask
+20572 - Flimsy Male Tauren Mask
+20573 - Flimsy Male Undead Mask
+20574 - Flimsy Female Undead Mask
+20604 - Stink Bomb Cleaner
+20605 - Rotten Eggs
+20557 - Hallow's End Pumpkin Treat
+18635 - Bellara's Nutterbar
+7228 - Tigule and Foror's Strawberry Ice Cream
+18632 - Moonbrook Riot Taffy
+18633 - Styleen's Sour Suckerpop
+20516 - Bobbing Apple
+
+
+GOs
+
+180523 - Apple Bob
+180405 - Pumpkin 1
+180431 - Pumpkin 1 scale 4.0
+180406 - Pumpkin 2
+180407 - Pumpkin 3
+180410 - Hanging Skeleton1
+180471 - Hanging Skull Light 1
+180472 - HangingSkullLight 2
+180408 - Witch Hat 1
+180429 - Witch Hat 2
+180411 - Ghost
+180412 - Candy Bucket
+180415 - Black Candle
+180425 - Skull Candle
+180426 - Bat 1 (Flying)
+180427 - Bat 2 (Flying)
+180428 - Witch Broom
+180433 - The Wickerman
+
+
+NPCs
+
+15309 - Spoops
+15310 - Jesper
+15197 - Darkcaller Yanka (Horde)
+15199 - Sergeant Hartman (Alliance)
+15353 - Katrina Shimmerstar
+15354 - Rachelle Gothena
+
+Neues Jahr
+
+NPCs
+
+15908 - Orgrimmar Reveler
+15907 - Undercity Reveler
+15723 - Booty Bay Reveler
+15906 - Ironforge Reveler
+15719 - Thunder Bluff Reveler
+15694 - Stormwind Reveler
+15905 - Darnassus Reveler
+8116 - Ziggle Sparks
+8117 - Wizbang Booms
+8118 - Lillian Singh
+8121 - Jaxxil Sparks
+8122 - Kizzak Sparks
+
+
+GOs
+
+180728 - Firework, Show, Type 1 White
+475 - Festive Mug
+
+
+Items
+
+21569 - Firework Launcher
+21570 - Cluster Launcher
+21571 - Blue Rocket Cluster
+21574 - Green Rocket Cluster
+21576 - Red Rocket Cluster
+21747 - Festival Firecracker
+21171 - Filled Festive Mug
+21174 - Empty Festive Mug
+
+
+ValentinstagItems
+
+21816-21823 - Heart Candy (Different comments on the candy)
+21815 - Love Token
+21833 - Cologne Bottle
+21829 - Perfume Bottle
+21813- Bag of Candies
+21812 - Box of Chocolates
+22145 - Guardian's Moldy Card
+22144 - Bluffwatcher's Card
+22143 - Stormwind Guard's Card
+22142 - Grunt's Card
+22141- Ironforge Guard's Card
+22140 - Sentinel's Card
+22136 - Orgrimmar Gift Collection
+22135 - Thunder Bluff Gift Collection
+22134 - Undercity Gift Collection
+22133 - Darnassus Gift Collection
+22132 - Ironforge Gift Collection
+22131 - Stormwind Gift Collection
+22123 - Pledge of Loyalty: Orgrimmar
+22122 - Pledge of Loyalty: Thunder Bluff
+22121 - Pledge of Loyalty: Undercity
+22120 - Pledge of Loyalty: Darnassus
+22119 - Pledge of Loyalty: Ironforge
+22117 - Pledge of Loyalty: Stormwind
+22140 - Sentinel's Card
+22141 - Ironforge Guard's Card
+22142 - Grunt's Card
+22143 - Stormwind Guard's Card
+22144 - Bluffwatcher's Card
+22145 - Guardian's Moldy Card
+22154 - Pledge of Adoration: Ironforge
+22155 - Pledge of Adoration: Darnassus
+22156 - Pledge of Adoration: Orgrimmar
+22157 - Pledge of Adoration: Undercity
+22158 - Pledge of Adoration: Thunder Bluff
+22159 - Pledge of Friendship: Darnassus
+22160 - Pledge of Friendship: Ironforge
+22161 - Pledge of Friendship: Orgrimmar
+22162 - Pledge of Friendship: Thunder Bluff
+22163 - Pledge of Friendship: Undercity
+22178 - Pledge of Friendship: Stormwind
+22164 - Gift of Adoration: Orgrimmar
+22165 - Gift of Adoration: Thunder Bluff
+22166 - Gift of Adoration: Undercity
+22167 - Gift of Friendship: Darnassus
+22168 - Gift of Friendship: Ironforge
+22169 - Gift of Friendship: Orgrimmar
+22170 - Gift of Friendship: Stormwind
+22171 - Gift of Friendship: Thunder Bluff
+22172 - Gift of Friendship: Undercity
+22173 - Dwarven Homebrew
+22174 - Romantic Poem
+22175 - Freshly Baked Pie
+22176 - Homemade Bread
+22177 - Freshly Picked Flowers
+22178 - Pledge of Friendship: Stormwind
+22259 - Unbestowed Friendship Bracelet
+22260 - Friendship Bracelet
+22261 - Love Fool
+22262 - Alliance Gift Collection
+22263 - Horde Gift Collection
+22264 - Carefully Written Letter
+22265 - Lovingly Composed Letter
+22276 - Lovely Red Dress
+22277 - Red Dinner Suit
+22278 - Lovely Blue Dress
+22279 - Lovely Black Dress
+22280 - Lovely Purple Dress
+22281 - Blue Dinner Suit
+22282 - Purple Dinner Suit
+22283 - Sack of Homemade Bread
+22284 - Bundle of Cards
+22285 - Stormwind Pledge Collection
+22286 - Ironforge Pledge Collection
+22287 - Parcel of Cards
+22288 - Case of Homebrew
+22289 - Stack of Cards
+22290 - Darnassus Pledge Collection
+22291 - Box of Woodcrafts
+22292 - Box of Fresh Pies
+22293 - Package of Cards
+22294 - Orgrimmar Pledge Collection
+22295 - Satchel of Cards
+22296 - Basket of Flowers
+22297 - Thunder Bluff Pledge Collection
+22298 - Book of Romantic Poems
+22299 - Sheaf of Cards
+22300 - Undercity Pledge Collection
+21920 - Creased Letter
+21921 - Carefully Penned Note
+21925 - Immaculate Letter
+21926 - Slightly Creased Note
+21830 - Empty Wrapper
+22236 - Buttermilk Delight
+22237 - Dark Desire
+22238 - Very Berry Cream
+22239 - Sweet Surprise
+
+NPCs
+
+16007 - Orok Deathbane
+16003 - Deathguard Tor
+16008 - Temma of the Wells
+16004 - Elenia Haydon
+16001 - Aldris Fourclouds
+16009 - Tormek Stoneriver
+16005 - Lieutenant Jocryn Heldric
+16002 - Colara Dean
+
+
+
+
+
+Ostern
+GOs
+
+113769 - Easter Egg
+113771 - Easter Egg
+
+
+Items
+
+7809 - Easter Dress
+7806 - Lollipop
+7807 - Candy Bar
+7808 - Chocolate Square
