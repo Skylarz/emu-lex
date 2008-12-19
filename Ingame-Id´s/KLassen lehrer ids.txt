@@ -1,0 +1,22 @@
+KLASSEN LEHRER:
+
+Druide: 5504
+
+Hexenmeister: 461
+
+Dämonen: 5520
+
+Jäger: 5515
+
+Krieger: 914
+
+Magier: 331
+
+Paladin: 928
+
+Priest: 376
+
+Schamane: 13417
+
+schurken: 3401
+
