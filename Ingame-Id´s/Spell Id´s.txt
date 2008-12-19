@@ -1,0 +1,66 @@
+Magier ; 27619 eisblock
+Druiden IDs
+
+Katzengestalt 768
+Reisegestalt 783
+Wassergestalt 1066
+Bärengestalt 5487
+Terrorbärengestalt 9634
+Schnelle Fluggestalt 40120
+
+Schurken IDs
+
+Sofort wirkendes Gift 26892
+Verstümmeln 34411
+Blutsturz 17348
+
+Krieger IDs
+
+Rache 30357
+Tödlicher Stoß 30330
+Heldenhafter Stoß 30324
+Spott 355
+Abfangen 25275
+Toben 30033
+Spalten 25231
+Berserkerhaltung 2458
+Verteidigungshaltung 71
+
+Schamanen IDs
+
+Steinhauttotem 25509
+Verbrennungstotem 25533
+Totem des heilenden Flusses 25567
+
+Jäger IDs
+
+Tier ausbilden 5149
+Tier wiederbeleben 982
+
+Hexenmeister IDs
+
+Sukkubus 712
+Leerwandler 697
+Teufelsjäger 691
+Wichtel 688
+Schreckensross (100%) 23161
+
+Paladin IDs
+Erlösung / Rezzen 20773
+Mount (60%) 13819
+Epic Mount (100%) 23214
+
+Spezialisierungs IDs
+
+Rüstungsschmied 9788
+Axtschmied 17041
+Schwertschmied 17039
+Hammerschmied 17040
+Elementarlederer 10658
+Drachenlederer 10656
+Stammeslederer 10660
+Mondstoffschneider 26798
+Schattenzwirnschneider 26801
+Zauberfeuerschneider 26796
+Gnomeningenieur 20219
+Gobliningenieur 20222
