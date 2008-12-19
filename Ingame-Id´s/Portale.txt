@@ -1,0 +1,25 @@
+
+
+
+
+176500	portal nach Donnerfels
+176501	portal nach Unterstadt
+176499	portal nach Orgrimmar
+182352	portal nach Silbermond	
+
+176296	portal nach Sturmwind
+176497	portal nach Eisenschmiede
+182351	portal nach Exodar	
+176498	portal nach Darnassus
+
+184594	Portal nach Shattrath	
+187056  Portal to Isle of Quel´Danas
+
+
+184380	Sichtbares Banner (Horde)  	Displayid 5773
+184381	Sichtbares Banner (Allianz) 	Displayid 5771
+
+
+
+173047	Briefkasten Horde
+164618  Briefkasten Allianz
