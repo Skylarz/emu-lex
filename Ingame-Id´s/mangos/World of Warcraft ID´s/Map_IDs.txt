@@ -1,0 +1,371 @@
+/* MapID - List
+ * for projectsilvermoon.net */
+
+
+#############
+# ID  Name  #
+#############
+
+0   Azeroth / Eastern Kingdom
+1   Kalimdor / Kalimdor
+13  test / Testing
+25  ScottTest / Scott Test
+29  Test / CashTest
+30  PVPZone01 / Alterac Valley
+33  Shadowfang / Shadowfang Keep
+34  StormwindJail / Stormwind Stockade
+35  StormwindPrison / <unused>StormwindPrison
+36  DeadminesInstance / Deadmines
+37  PVPZone02 / Azshara Crater
+42  Collin / Collin's Test
+43  WailingCaverns / Wailing Caverns
+44  Monastery / <unused> Monastery
+47  RazorfenKraulInstance / Razorfen Kraul
+48  Blackfathom / Blackfathom Deeps
+70  Uldaman / Uldaman
+90  GnomereganInstance / Gnomeregan
+109 SunkenTemple / Sunken Temple
+129 Razorfen Downs / Razorfen Downs
+169 EmeraldDream / Emerald Dream
+189 MonasteryInstances / Scarlet Monastery
+209 TanarisInstance / Zul'Farrak
+229 BlackRockSpire / Blackrock Spure
+230 BlackrockDepths / Blackrock Depths
+249 OnyxiaLairInstance / Onyxia's Lair
+269 CavernsofTime / Opening of the Dark Portal
+289 SchoolofNecromancy / Scholomance
+309 Zul'gurub / Zul'Gurub
+329 Stratholme / Stratholme
+349 Maraudon / Maraudon
+369 DeeprunTram / Deeprum Tram
+389 OrgrimmarInstance / Ragefire Chasm
+409 MoltenCore / Molten Core
+429 DireMaul / Dire Maul
+449 AlliancePVPBarracks / Alliance PVP Barracks
+450 HordePVPBarracks / Alliance PVP Barracks
+451 development / Development Land
+469 BlackwingLair / Blackwing Lair
+489 PVPZone03 / Warsong Gulch
+509 AhnQiraj / Ruins of Ahn'Qiraj
+529 PVPZone04 / Arathi Basin
+530 Expansion01 / Outland
+531 AhnQirajTemple / Ahn'Qiraj Temple
+532 Karazahn / Karazhan
+533 Stratholme Raid / Naxxramas
+534 HyjalPast / The Battle for Mount Hyjal
+540 HellfireMilitary / Hellfire Citadel: The Shattered Halls
+542 HellfireDemon / Hellfire Citadel : The Blood Furnace
+543 HellfireRampart / Hellfire Citadel : Ramparts
+544 HellfireRaid / Magtheridon's Lair
+545 CoilfangPumping / Coilfang: The Steamvault
+546 CoilfangMarsh / Coilfang: The Unterbog
+547 CoilfangDraenai / Coilfang: The Slave Pens
+548 CoilfangRaid / Coilfang: Serpentshrine Cavern
+550 TempestKeepRaid / Tempest Keep
+552 TempestKeepArcane / Tempest Keep: The Arcatraz 
+553 TempestKeepAtrium / Tempest Keep: The Botanica
+554 TempestKeepFactory / Tempest Keep: The Mechanar
+555 AuchindounShadow / Auchindoun: Shadow Labyrinth
+556 AuchindounDemon / Auchindoun: Sethekk Halls
+557 AuchindounEthereal / Auchindoun: Mana-Tombs
+558 AuchindounDraenei / Auchindoun: AuchenaiCrypts
+559 PVPZone05 / Nagrand Arena
+560 HillsbradPast / The Escape From Durnholde
+562 bladesedgearena / Blade's Edge Arena
+564 BlackTemple / BlackTemple
+565 GruulsLair / Gruul's Lair
+566 NetherstormBG / Eye of the Storm
+568 Zul'Aman / Zul'Aman
+572 PVPLordaeron / Ruins of Lordaeron
+582 Transport176244 / Transport: Rut'theran to Auberdine
+584 Transport176231 / Transport: Menethil to Theramore
+586 Transport181645 / Transport: Exodar to Auberdine
+587 Transport177233 / Transport: Feathermoon Ferry
+588 Transport176310 / Transport: Menethil to Auberdine
+589 Transport175080 / Transport: Orgrimmar to Grom'Gol
+590 Transport176495 / Transport: Grom'Gol to Undercity
+591 Transport164871 / Transport: Undercity to Ogrimmar
+593 Transport20808 / Transport: Booty Bay to Ratchet
+
+## List from 2.3 DBC files
+
+# or a bit cleaner.. (just one name)
+0   Eastern Kingdoms
+1   Kalimdor
+13  Testing
+25  Scott Test
+29  CashTest
+30  Alterac Valley
+33  Shadowfang Keep
+34  Stormwind Stockade
+35  <unused>StormwindPrison
+36  Deadmines
+37  Azshara Crater
+42  Collin's Test
+43  Wailing Caverns
+44  <unused> Monastery
+47  Razorfen Kraul
+48  Blackfathom Deeps
+70  Uldaman
+90  Gnomeregan
+109 Sunken Temple
+129 Razorfen Downs
+169 Emerald Dream
+189 Scarlet Monastery
+209 Zul'Farrak
+229 Blackrock Spire
+230 Blackrock Depths
+249 Onyxia's Lair
+269 Opening of the Dark Portal
+289 Scholomance
+309 Zul'Gurub
+329 Stratholme
+349 Maraudon
+369 Deeprun Tram
+389 Ragefire Chasm
+409 Molten Core
+429 Dire Maul
+449 Alliance PVP Barracks
+450 Horde PVP Barracks
+451 Development Land
+469 Blackwing Lair
+489 Warsong Gulch
+509 Ruins of Ahn'Qiraj
+529 Arathi Basin
+530 Outland
+531 Ahn'Qiraj Temple
+532 Karazhan
+533 Naxxramas
+534 The Battle for Mount Hyjal
+540 Hellfire Citadel: The Shattered Halls
+542 Hellfire Citadel: The Blood Furnace
+543 Hellfire Citadel: Ramparts
+544 Magtheridon's Lair
+545 Coilfang: The Steamvault
+546 Coilfang: The Underbog
+547 Coilfang: The Slave Pens
+548 Coilfang: Serpentshrine Cavern
+550 Tempest Keep
+552 Tempest Keep: The Arcatraz
+553 Tempest Keep: The Botanica
+554 Tempest Keep: The Mechanar
+555 Auchindoun: Shadow Labyrinth
+556 Auchindoun: Sethekk Halls
+557 Auchindoun: Mana-Tombs
+558 Auchindoun: Auchenai Crypts
+559 Nagrand Arena
+560 The Escape From Durnholde
+562 Blade's Edge Arena
+564 Black Temple
+565 Gruul's Lair
+566 Eye of the Storm
+568 Zul'Aman
+572 Ruins of Lordaeron
+582 Transport: Rut'theran to Auberdine
+584 Transport: Menethil to Theramore
+586 Transport: Exodar to Auberdine
+587 Transport: Feathermoon Ferry
+588 Transport: Menethil to Auberdine
+589 Transport: Orgrimmar to Grom'Gol
+590 Transport: Grom'Gol to Undercity
+591 Transport: Undercity to Orgrimmar
+593 Transport: Booty Bay to Ratchet
+
+----
+
+### Posted by Utsjitimmie
+
+The new Burning Crusade maps:
+
+269 - black morass (CoT)
+530 - Outland
+532 - Karazhan
+534 - Hyjal Summit (CoT)
+540 - The Shattered Halls (HC)
+542 - The Blood Furnace (HC)
+543 - Hellfire Ramparts (HC)
+544 - Magtheridon's Lair (HC)
+545 - The Steamvault (CFR)
+546 - The Underbog (CFR)
+547 - The Slave Pens (CFR)
+548 - Serpentshrine Cavern (CFR)
+550 - Eye of the Storm (TK)
+552 - The Arcatraz (TK)
+553 - The Botanica (TK)
+554 - The Mechanar (TK)
+555 - Shadow Labyrinth (AD)
+556 - Sethekk Halls (AD)
+557 - Mana-Tombs (AD)
+558 - Auchenai Crypts (AD)
+559 - Nagrand Arena
+560 - Hillsbrad Hills Past (CoT)
+562 - Blade's Edge Arena
+564 - Black Temple
+565 - Gruul's Lair
+566 - Eye of the Storm
+568 - Zul'Aman
+
+
+Coördinates for teleporting:
+
+=============Random Locations=============
+.worldport 0 -8919.284180 -117.894028 82.339821 = human starting area 
+.worldport 1 1484.36 -4417.93 24.4709 = Ogrimmar 
+.worldport 169 2732.93 -3319.63 101.284 = emerald forest 
+.worldport 530 -248.136032 958.184509 84.349197 = Dark portal outlands 
+.worldport 0 1786.82 47.9279 -29.1457 = Undercity magic quarter 
+.worldport 530 10207.8 -6347.07 30.8409 = Blood Elf starting area 
+.worldport 530 -4074.687744 -13766.423828 74.768860 = Draenei starting area 
+.worldport 269 -1494.65 7038.54 32.4018 = Caverns of time inside 
+.worldport 169 -2128.12 -1005.89 132.213 = Strange place (Emerald?) 
+.worldport 530 9851 -7500 -4 - Silvermoon City 
+
+===============OUTLANDS=================== 
+.worldport 530 2342 2642 27 - Netherstorm 
+.worldport 530 1114 7091 123 - Blades Edge Mountains 
+.worldport 530 8481 -5565 1 - North Sea - Eversong Woods 
+.worldport 530 9851 -7500 -4 - Silvermoon City 
+.worldport 530 -703 2724 94 - Honor Hold 
+.worldport 530 7557 -6889 96 - Tranquillien 
+.worldport 530 -4020.4766 -13783.3340 73.9001 - Azuremyst Isle 
+.worldport 530 7880 -6193 21 - Ghostlands 
+.worldport 530 -248 956 85 - Hellfire Penisula 
+.worldport 530 1587 8607 -33 - Zangarmarsh 
+.worldport 530 -526 8440 47 - Nagrand 
+.worldport 530 -2721.6763 -12208.9297 9.0882 - Bloodmyst Isle 
+.worldport 530 -1177 5336 30 - Terokkar Forest entrance 
+.worldport 530 -2848 3190 8 - Shadowmoon Valley 
+.worldport 530 -4020.4766 -13783.3340 73.900 - Crash Site 
+.worldport 530 6862.0913 -7576.3403 85.6041 - Amani Pass 
+.worldport 530 3606.8525 5260.4902 3.1724 - Blades Edge Mountain 
+.worldport 530 -3579 -23 275 - Top of the Black Temple 
+.worldport 530 -236.9099 963.2751 282.0297 - On Top of the Dark Portal
+.worldport 530 -305.7143 3056.9558 -2.6005 - Hellfire Citadel Enterance 
+.worldport 530 2280.6804 2520.7498 115.2777 - Netherstorm 
+.worldport 530 573 8655 19.3 - Twilight Portal 
+.worldport 530 10459.0205 -6366.3696 39.7917 - Sunstrider Isle 
+.worldport 530 -247.0472 938.1437 84.3426 - Stairway of Destiny 
+
+==============Instances=================== 
+.worldport 540 -41 -22 -14 - Hellfire Military 
+.worldport 542 -3 11 -45 - Hellfire Demon 
+.worldport 532 -11109.36 -2002.97 49.9 - Karazhan 
+.worldport 532 -11061.4326 -1957.6160 273.2524 - Top of Karazhan 
+.worldport 560 -1752.68 -288.79 73.05 - Old Hillsbrad 
+.worldport 546 331 -331 22 - coilfang 
+.worldport 269 1116.7 -323.5 68.5 - Black Morass 
+.worldport 559 4156.1919 2827.0188 51.1325 - Nagrand PVP Arena 
+.worldport 562 6400 256 0 - Blades Edge Arena 
+.worldport 533 3005.4951 -3433.6279 304.1954 - Naxxarmas 
+.worldport 560 2000 100 500 - Old Hyjal 
+.worldport 564 943 750 310 - Black Temple 
+.worldport 550 0 0 0 - Tempest Keep 
+.worldport 568 120.438 1772.12 43.4402 - Zul'Aman 
+
+==============GM Stuff==================== 
+.worldport 1 16222.1 16252.1 12.6 - Gm Isle 
+.worldport 451 16391.8 16341.2 69.5 - Programmer Isle 
+.worldport 451 16303.5 -16173.5 40.5 - Designers Isle 
+.worldport 0 269 359 45 - Inside the Dalaran Bubble 
+
+========================================== 
+
+.worldport 0 -5019.7295 -835.6979 496.6619 Ironforge 
+.worldport 0 -4843.0874 -1066.9552 500.9893 Old Ironforge 
+.worldport 0 1876.1116 237.8327 61.5105 Undercity 
+.worldport 0 -9075.6650 425.8427 93.0560 Stormwind City 
+.worldport 1 9987.8008 2006.5902 1328.0952 Darnassus 
+.worldport 1 -1023.7902 -82.3533 59.6219 Thunder Bluff 
+.worldport 1 1384.2094 -4369.2202 26.6785 Orgrimmar 
+.worldport 30 767.4766 -490.8593 97.7670 Alterac Valley - Alliance Start 
+.worldport 30 -886.1016 -536.9648 55.2434 Alterac Valley - Horde Start 
+.worldport 33 -227.8457 2111.7126 76.8899 Shadowfang Keep 
+.worldport 34 49.5494 0.9678 -16.6128 Stormwind Stockade 
+.worldport 36 -14.7243 -384.9828 62.2603 The Deadmines 
+.worldport 37 -112.7209 847.5630 293.2967 Azshara Crater 
+.worldport 43 -163.5589 134.6543 -73.5364 The Wailing Caverns 
+.worldport 44 34.2502 -0.7552 9.7810 Scarlet Monastery (Original) 
+.worldport 47 1942.2904 1543.1372 81.4717 Razorfen Kraul 
+.worldport 48 -150.0377 105.3537 -40.0085 Blackfathom Deeps 
+.worldport 70 -228.2409 46.9608 -46.0203 Uldaman - Main Entrance 
+.worldport 70 -213.0395 390.3918 -39.2016 Uldaman - Back Entrance 
+.worldport 90 -332.1519 -2.6040 -152.8454 Gnomeregan - Main Entrance 
+.worldport 90 -732.3842 1.6808 -248.6984 Gnomeregan - Workshop Entrance 
+.worldport 109 -316.1572 99.1812 -131.8486 The Temple of Atal'Hakkar 
+.worldport 129 2592.8118 1107.5568 51.2831 Razorfen Downs 
+.worldport 189 1687.2983 1052.7498 18.6774 Scarlet Monastery - Graveyard 
+.worldport 189 254.7799 -208.7762 18.6774 Scarlet Monastery - Library 
+.worldport 189 1608.4215 -323.7315 18.6729 Scarlet Monastery - Armory 
+.worldport 189 853.5711 1321.2988 18.6717 Scarlet Monastery - Cathedral 
+.worldport 209 1216.5499 842.0000 8.9951 Zul'Farrak 
+.worldport 229 78.0384 -228.2451 49.6842 Blackrock Spire 
+.worldport 230 457.2431 32.7569 -69.8176 Blackrock Depths 
+.worldport 249 31.0050 -56.5847 -5.2661 Onyxia's Lair 
+.worldport 269 -2063.5754 7123.3340 30.0819 Caverns of Time - The Black Morass
+.worldport 289 190.8452 126.7041 137.2098 Scholomance 
+.worldport 309 -11916.6143 -1237.0503 92.5342 Zul'Gurub 
+.worldport 329 3392.0125 -3379.0000 142.7257 Stratholme - Main Entrance 
+.worldport 329 3590.3000 -3643.5679 138.4907 Stratholme - Service Entrance 
+.worldport 349 753.4187 -619.3070 -33.0472 Maraudon - Orange Entrance 
+.worldport 349 1014.9235 -457.9709 -43.4736 Maraudon - Purple Entrance 
+.worldport 389 3.6572 -8.7495 -15.8352 Ragefire Chasm 
+.worldport 409 1115.219971 -462.959015 -95.014801 Molten Core 
+.worldport 429 52.7125 -155.6232 -2.7139 Dire Maul East - Main Entrance 
+.worldport 429 -202.9003 -325.5672 -2.7226 Dire Maul East - Back Entrance 
+.worldport 429 251.5480 -25.0410 -2.5596 Dire Maul North 
+.worldport 429 42.3262 155.8390 -3.4699 Dire Maul West - Entrance 1 
+.worldport 429 -70.2564 159.4407 -3.4661 Dire Maul West - Entrance 2 
+.worldport 469 -7671.9287 -1107.7375 396.6518 Blackwing Lair 
+.worldport 489 1519.53 1481.87 352.024 Warsong Gulch - Alliance Start 
+.worldport 489 933.331 1433.72 345.536 Warsong Gulch - Horde Start 
+.worldport 509 -8437.5342 151.8475 31.9070 Ruins of Ahn'Qiraj 
+.worldport 529 1312.1321 1310.0991 -9.0102 Arathi Basin - Alliance Start 
+.worldport 529 684.9337 681.7779 -12.9162 Arathi Basin - Horde Start 
+.worldport 530 -3971.4819 -13915.2119 98.9930 Ammen Vale 
+.worldport 530 -4010.1379 -11888.6494 -1.6709 The Exodar 
+.worldport 530 10459.0205 -6366.3696 39.7917 Sunstrider Isle 
+.worldport 530 9416.0996 -6780.8979 14.8920 Silvermoon City 
+.worldport 530 9334.1855 -7277.1816 14.5106 Silvermoon City - The Sheperd's Gate 
+.worldport 530 -247.0472 938.1437 84.3426 The Stair of Destiny 
+.worldport 531 -8220.4014 2012.8542 129.0715 Ahn'Qiraj 
+.worldport 532 -11110.9463 -2003.9845 49.8927 Karazhan 
+.worldport 533 3005.4951 -3433.6279 304.1954 Naxxramas - Main Entrance 
+.worldport 533 3497.7803 -5351.4893 144.9707 Naxxramas - Sapphiron's Lair 
+.worldport 534 4608.4888 -3904.1729 944.1841 Caverns of Time - Mount Hyjal 
+.worldport 540 -41.5824 -23.0868 -13.6441 Hellfire Citadel - The Shattered Halls 
+.worldport 542 -3.9967 14.6363 -44.8009 Hellfire Citadel - The Blood Furnace 
+.worldport 543 -1360.6732 1632.5004 68.4421 Hellfire Citadel - Hellfire Ramparts 
+.worldport 544 187.8426 35.9232 67.9252 Hellfire Citadel - Magtheridon's Lair 
+.worldport 545 -13.8425 6.7542 -4.2586 Coilfang Reservoir - The Steamvault 
+.worldport 546 9.7292 -21.3373 -2.7538 Coilfang Reservoir - The Underbog 
+.worldport 547 119.1046 -130.5463 -0.3474 Coilfang Reservoir - The Slave Pens 
+.worldport 548 11.7795 15.4273 -57.3773 Coilfang Reservoir - Serpentshrine Cavern 
+.worldport 550 -10.4403 -1.1654 -2.4283 Tempest Keep - Eye of the Storm
+.worldport 552 0.0000 0.0000 -0.2055 Tempest Keep - The Arcatraz 
+.worldport 553 153.5272 391.7262 -27.2532 Tempest Keep - The Botanica 
+.worldport 554 -26.3356 0.1234 -1.8124 Tempest Keep - The Mechanar 
+.worldport 555 0.0000 0.0000 -1.1279 Auchindoun - Shadow Labyrinth 
+.worldport 556 0.0000 0.0000 0.0062 Auchindoun - Sethekk Halls 
+.worldport 557 0.0191 0.9478 -0.9543 Auchindoun - Mana-Tombs 
+.worldport 558 -21.8975 0.1600 -0.1206 Auchindoun - Auchenai Crypts 
+.worldport 559 4054.8218 2956.2664 11.9387 Nagrand Arena 
+.worldport 560 2080.5410 213.1412 64.8747 Caverns of Time - Hillsbrad Hills Past
+.worldport 562 6215.0063 331.1178 9.0974 Blade's Edge Arena 
+.worldport 564 439.6234 -169.7441 8.5809 Black Temple 
+.worldport 564 946.7537 760.759 302.8977 Black Temple - Beyond Gap 
+.worldport 565 61.8337 39.4399 -4.37842 - Gruul's Lair 
+.worldport 566 2183.2463 1571.4164 1159.3687 - Eye of the Storm 
+.worldport 568 120.438 1772.12 43.4402 - Zul'Aman 
+.worldport 37 1154.43 -165.231 313.603 - Azshara Crater Ally Entrance 
+.worldport 37 344.8 508.784 293.522 - Azshara Crater Horde Entrance 
+.worldport 1 -8508.67 -4557.75 -211.161 - Caverns of Time - Tanaris 
+.worldport 530 4215.75 3009.33 339.232 - party netherstorm 
+.worldport 1 16226.738281 16404.632813 -64379326 - GM Cube 
+.worldport 534 4708 -1620 1310 - old hyjal
+.worldport 35 -0.91 40.57 -24.23 - Stormwind Vaults - Good place for custom instance!
+
+I don't believe Northrend and the Undermines are ingame yet, Zul'Aman was already there in the testversion of BC (and still is), coörds:
+.worldport 568 120.438 1772.12 43.4402 - Zul'Aman
+
+### Taken from Utsjitimmie
+http://projectsilvermoon.net/index.php?showtopic=4662

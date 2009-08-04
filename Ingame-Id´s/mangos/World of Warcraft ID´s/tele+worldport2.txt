@@ -1,0 +1,987 @@
+Name	Entsprechender .worldport Befehl
+AbyssalSands	.worldport .1. .-8109.34. .-3067.48. .38.9773. .0.
+AddlesStead	.worldport .0. .-10992.6. .268.794. .27.5101. .0.
+AeriePeak	.worldport .0. .327.814. .-1959.99. .197.724. .0.
+AgamandMills	.worldport .0. .2803.27. .847.119. .111.841. .0.
+AgmondsEnd	.worldport .0. .-7027.81. .-3330.11. .241.51. .0.
+AgolWatha	.worldport .0. .339.304. .-3469.39. .118.433. .0.
+AlcazIsland	.worldport .1. .-2657.63. .-4896.05. .21.3726. .0.
+Aldrassil	.worldport .1. .10455.7. .798.455. .1346.75. .0.
+AlexstonFarmsted	.worldport .0. .-10644.8. .1681.3. .42.0338. .0.
+AlgazStation	.worldport .0. .-4909.52. .-2726.76. .329.06. .0.
+Altar of Storms A	.worldport .0. .-11272.8. .-2547.59. .102.02. .0.
+Altar of Storms B	.worldport .0. .-7613.13. .-761.492. .190.807. .0.
+AltarOfStorms	.worldport .0. .-11272.8. .-2547.59. .102.02. .0.
+AltarOfStorms	.worldport .0. .-7613.13. .-761.492. .190.807. .0.
+AltarOfZul	.worldport .0. .-295.384. .-3459.12. .194.005. .0.
+AlteracValley	.worldport .30. .628.53. .-207.67. .39.0523. .0.
+AlthersMill	.worldport .0. .-9168.66. .-2726.31. .90.0426. .0.
+Ambermill	.worldport .0. .-126.954. .815.624. .66.0224. .0.
+AmethAran	.worldport .1. .5732.53. .116.359. .31.5681. .0.
+AngorFortress	.worldport .0. .-6380.77. .-3139.89. .301.111. .0.
+Anvilmar	.worldport .0. .-6110.8. .388.517. .395.542. .0.
+ApocryphansRest	.worldport .0. .-6894.29. .-2465.82. .247.978. .0.
+ArathiBasin	.worldport .529. .1181.62. .1183.39. .-45.329. .0.
+ArathiHighlands	.worldport .0. .-907.865. .-3534.24. .83.7878. .0.
+Arc	.worldport .0. .2953.42. .-4013.08. .101.429. .0.
+Arena	.worldport .0. .-13152.9. .342.729. .52.1328. .0.
+AridensCamp	.worldport .0. .-10443.6. .-2140.79. .90.7795. .0.
+Ashenvale	.worldport .1. .3469.43. .847.62. .5.36476. .0.
+Astranaar	.worldport .1. .2745.85. .-378.33. .108.253. .0.
+Auberdine	.worldport .1. .6438.69. .485.38. .7.382. .0.
+Azshara	.worldport .1. .2717.1. .-5968.91. .106.4. .0.
+Azshara	.worldport .1. .4260.73. .-6273.64. .90.2289. .0.
+AzsharaNagaCity	.worldport .1. .3546.8. .-5287.96. .109.935. .0.
+Azureload Human Town	.worldport .0. .-11033. .-3095.22. .89.8189. .0.
+AzurelodeMine	.worldport .0. .-821.604. .-544.654. .15.0387. .0.
+Bael Modan	.worldport .1. .-4095.7. .-2305.74. .124.914. .0.
+BaelDunDigside	.worldport .1. .-1897.98. .400.675. .134.787. .0.
+BaelModan	.worldport .1. .-4074.33. .-2094.19. .93.2936. .0.
+BallalRuins	.worldport .0. .-11977.4. .332.254. .3.20626. .0.
+BalnirFarmstead	.worldport .0. .2032.01. .-432.954. .35.4329. .0.
+Balwark	.worldport .0. .1716.02. .-788.217. .56.844. .0.
+BaradinBay	.worldport .0. .-2955. .-1022.21. .10.0919. .0.
+Barrens	.worldport .1. .90.1003. .-1943.44. .79.4727. .0.
+Barrens Field of Giants	.worldport .1. .-3120.86. .-2327.89. .93.1243. .0.
+Barrens Gnoll Outpost	.worldport .1. .-4319.38. .-2110.38. .80.8662. .0.
+Barrens The Great Lift	.worldport .1. .-4619.15. .-1850.91. .86.0563. .0.
+BarrensMerchantCoast	.worldport .1. .-1719.08. .-3824.99. .12.0836. .0.
+BashalAran	.worldport .1. .6735.43. .6.71422. .42.7028. .0.
+Beezil's Zepellins Wreck	.worldport .1. .-4006.19. .-3777.83. .40.6804. .0.
+BeggarsHaunt	.worldport .0. .-10359.9. .-1531.75. .91.5352. .0.
+Behind The Greymane Wall	.worldport .0. .-987.449. .1585.69. .53.4298. .0.
+Big Broken Gates	.worldport .0. .-3465.16. .-3727.56. .64.5778. .0.
+Big Feralas Ruins	.worldport .1. .-5566.04. .1449.82. .20.1135. .0.
+Black Morass Portal	.worldport .269. .-2033.5. .7120.97. .23.5189. .0.
+Black Morass Underground Entrance	.worldport .269. .-2014.12. .6583.5. .-154.654. .0.
+Black Morass Underground Exit	.worldport .269. .-2061.12. .6635.97. .-144.596. .0.
+BlackfathomDeep	.worldport .48. .-152.984. .106.33. .-40.0953. .0.
+BlackMorass	.worldport .269. .-2061.12. .6635.97. .-144.596. .0.
+BlackphantomDeeps	.worldport .1. .4252.37. .756.974. .-23.0632. .0.
+Blackrock Mountain	.worldport .0. .-7317.34. .-1072.33. .277.069. .0.
+BlackrockCamp	.worldport .0. .-9713.81. .-3188.39. .58.6835. .0.
+BlackrockDepths	.worldport .230. .596.432. .-188.498. .-50. .0.
+BlackrockMountain	.worldport .0. .-7317.34. .-1072.33. .277.069. .0.
+BlackrockSpire	.worldport .229. .73.5083. .-215.044. .52.3869. .0.
+BlackrockStronghold	.worldport .0. .-7728.12. .-1504.22. .132.837. .0.
+BlackrokMountain	.worldport .0. .-7813.25. .-1133.33. .214.069. .0.
+BlackwingLair	.worldport .469. .-7375.32. .-1240.14. .494.28. .0.
+BlackwolfRiver	.worldport .1. .1160.25. .51.3229. .1.072. .0.
+BlackwoodDen	.worldport .1. .4641.19. .55.3801. .66.6307. .0.
+BlackwoodLake	.worldport .0. .2515.84. .-4251.86. .76.3568. .0.
+Bladefist Bay	.worldport .1. .1525.73. .-4968.13. .17.1397. .0.
+BlastedLands	.worldport .0. .-11204.5. .-2730.61. .14.8972. .0.
+BloodhoofVillage	.worldport .1. .-2366.7. .-345.983. .-1.29313. .0.
+BloodsailCompound	.worldport .0. .-13274.4. .769.951. .2.45505. .0.
+BloodvenomFalls	.worldport .1. .5280.03. .-713.61. .346.129. .0.
+BootyBay	.worldport .0. .-14406.6. .419.353. .22.3907. .0.
+BoughShadow	.worldport .1. .3141.82. .-3707.34. .121.05. .0.
+BoulderfistHall	.worldport .0. .-1969.08. .-2789.04. .81.2105. .0.
+BouldersideRavine	.worldport .1. .-122.391. .388.013. .94.4856. .0.
+BrackenwallOrcVillage	.worldport .1. .-3129.38. .-2864.51. .34.8711. .0.
+BrackwellPumpkinPatch	.worldport .0. .-9772.44. .-869.693. .39.5096. .0.
+BramblebladeRavine	.worldport .1. .-3037.04. .-1050.56. .49.1447. .0.
+BrewnallVillage	.worldport .0. .-5368.81. .319.498. .394.123. .0.
+Brightwater Lake	.worldport .0. .2685.13. .-198.851. .31.4095. .0.
+BrightwoodGrove	.worldport .0. .-10649.7. .-884.01. .50.8196. .0.
+Brill	.worldport .0. .2255.5. .288.511. .34.1138. .0.
+Bulwark	.worldport .0. .1636.09. .-1011.36. .76.1124. .0.
+Caer Darrow The Dark Portal	.worldport .0. .1125.31. .-2541.35. .78.3562. .0.
+CaerDarrow	.worldport .0. .1025.59. .-2517. .59.1416. .0.
+Camp Cosh	.worldport .0. .-6247.73. .-3776.6. .249.06. .0.
+CampBoff	.worldport .0. .-7033.94. .-3669.89. .245.91. .0.
+CampCagg	.worldport .0. .-7147.67. .-2430.87. .240.51. .0.
+CampCosh	.worldport .0. .-6247.73. .-3776.6. .249.06. .0.
+CampMojache	.worldport .1. .-4369.68. .242.294. .25.4133. .0.
+CampNarache	.worldport .1. .-2893.04. .-240.87. .53.5445. .0.
+CampTaurajo	.worldport .1. .-2388.95. .-1918.82. .96.7422. .0.
+CampTaurajo	.worldport .1. .-2372.51. .-1991.64. .120.975. .0.
+CathedralOfLight	.worldport .0. .-8561.54. .823.383. .106.519. .0.
+CathedralSquare	.worldport .0. .-8624.12. .774.104. .96.6506. .0.
+Cauldron	.worldport .0. .-6892.24. .-1342.38. .239.913. .0.
+CavernsOfTime	.worldport .1. .-8195.94. .-4500.13. .8.60819. .0.
+CenarionEnclave	.worldport .1. .10118.4. .2538.5. .1321.52. .0.
+CenarionHold	.worldport .1. .-6824.15. .821.273. .49.6675. .4.8137.
+ChampionHall	.worldport .449. .-0.199573. .-1.59112. .-0.255884. .0.
+CharredVale	.worldport .1. .821.99. .1599.07. .-21.1896. .0.
+ChillwindPoint	.worldport .0. .322.373. .-1487.85. .43.7201. .0.
+Circle of East Binding	.worldport .0. .-842.604. .-3270.04. .78.3588. .0.
+Circle of Outer Binding	.worldport .0. .-1354.4. .-2738.07. .58.9657. .0.
+Circle of West Binding	.worldport .0. .-863.118. .-1784.72. .39.6118. .0.
+CircleOfInnerBinding	.worldport .0. .-1529.75. .-2166.7. .17.3717. .0.
+City of Ironforge	.worldport .0. .-4981.25. .-881.542. .501.66. .0.
+CleftOfShadow	.worldport .1. .1805.41. .-4337.11. .-11.1877. .0.
+Cliffspring River	.worldport .1. .6931.74. .-569.077. .44.8192. .0.
+Cold Hearth Manor	.worldport .0. .2146.99. .658.485. .33.59. .0.
+ColdridgeValley	.worldport .0. .-6229.25. .333.733. .383.206. .0.
+Commons	.worldport .0. .-4920.61. .-955.967. .501.51. .0.
+Cool Piece of Land	.worldport .0. .-9549.58. .-4939.88. .174.657. .0.
+Cool Temple	.worldport .0. .3452.83. .-4992.61. .196.981. .0.
+CorinsCrossing	.worldport .0. .2039.73. .-4511.63. .73.6218. .0.
+CraftmensTerrace	.worldport .1. .10094.3. .2319.44. .1329.17. .0.
+CragpoolLake	.worldport .1. .1618.33. .161.796. .133.084. .0.
+Crossroads	.worldport .1. .-456.263. .-2652.7. .95.615. .0.
+CrownGuardTower	.worldport .0. .1868.66. .-3678.97. .155.231. .0.
+Crystal Lake	.worldport .0. .-9462.99. .-161.312. .60.7274. .0.
+DabyriesFarmstead	.worldport .0. .-1065.89. .-2905.56. .42.0958. .0.
+DaggerHills	.worldport .0. .-11275.5. .1448.2. .89.0785. .0.
+Dalaran	.worldport .0. .258. .351. .41.9076. .0.
+Dalaran Inside Dome	.worldport .0. .258. .351. .41.9076. .0.
+Dalaran Ruins	.worldport .0. .386.938. .212.299. .43.6994. .0.
+DalsonsTears	.worldport .0. .1855.13. .-1569.22. .59.1825. .0.
+DandredsFold	.worldport .0. .1239.12. .-286.705. .42.4764. .0.
+DarkcloudPinnacle	.worldport .1. .-5096.02. .-1945.14. .88.7375. .0.
+DarkPortal	.worldport .0. .-11853.6. .-3197.44. .-27.2186. .0.
+Darkshire	.worldport .0. .-10559.7. .-1189.02. .28.0698. .0.
+Darkshore	.worldport .1. .6207.5. .-152.833. .79.8185. .0.
+DarkwhisperGorge	.worldport .1. .5018.91. .-4563.94. .851.75. .0.
+Darnassus	.worldport .1. .9948.55. .2413.59. .1327.23. .0.
+Darnassus	.worldport .1. .8795.8. .969.427. .30.1955. .0.
+DarrowHillsCorners	.worldport .0. .-434.575. .-587.045. .53.6605. .0.
+Darrowmere Lake	.worldport .0. .1234.83. .-2118.49. .50.8011. .0.
+DawningIsles	.worldport .0. .982.34. .201.239. .34.9509. .0.
+Deadeye Shore	.worldport .1. .918.715. .-5115.69. .2.85835. .0.
+DeadField	.worldport .0. .1035.91. .1540.85. .30.525. .0.
+DeadFields	.worldport .0. .1058.11. .1554.68. .350. .0.
+DeadmansCrossing	.worldport .0. .-10460.6. .-1717.5. .83.5969. .0.
+Deadmines	.worldport .0. .-11156.8. .1528.99. .19.4102. .0.
+Deadwind Pass	.worldport .0. .-10435.4. .-1809.28. .98.3851. .0.
+Deathknell	.worldport .0. .1871.14. .1587.91. .91.2143. .0.
+DeathknellNightWebHollow	.worldport .0. .2019.35. .1904.36. .105.144. .0.
+DeepElemMine	.worldport .0. .374.222. .1083.9. .106.509. .0.
+DeeprunTram	.worldport .369. .69.2542. .10.257. .-4.29664. .3.09832.
+DeepwaterTavern	.worldport .0. .-3823.06. .-834.526. .18.2789. .0.
+DemonFallCanyon	.worldport .1. .1798.75. .-3179.82. .92.0128. .0.
+Den	.worldport .1. .-604.922. .-4156.99. .43.2112. .0.
+DenOfFlame	.worldport .1. .-4336.82. .-3018.67. .33.1744. .0.
+Desert Outpost Waterfall	.worldport .1. .10389. .-1886.06. .183.379. .0.
+DesignerIsland	.worldport .451. .16303.5. .-16173.5. .40.4365. .0.
+Desolace	.worldport .1. .-93.1614. .1691.15. .89.0649. .0.
+Developer's Playground	.worldport .1. .-12352.9. .3055.12. .15.6725. .0.
+DireforgeHill	.worldport .0. .-2833.45. .-2880.43. .32.8865. .0.
+DireMaul	.worldport .429. .254.588. .-24.7395. .-2.56062. .0.
+Dolanaar	.worldport .1. .9845.1. .967.633. .1306.74. .0.
+Dolanaar	.worldport .1. .9823.3. .960.023. .1308.79. .0.257596.
+Donalaar	.worldport .1. .9809.05. .959.188. .1315.35. .0.
+DracoDar	.worldport .0. .-8222.08. .-1174.15. .142.557. .0.
+Draenor Dark Portal	.worldport .0. .-14958.5. .12761.6. .36.0388. .0.
+Drag	.worldport .1. .1860.46. .-4513.91. .23.657. .0.
+DragonmawGarrison	.worldport .469. .-7621.59. .-1071.48. .408.49. .0.
+DragonmawGates	.worldport .0. .-3465.16. .-3727.56. .64.5778. .0.
+Dreadmaul Rock	.worldport .0. .-7924.68. .-2624.44. .220.958. .0.
+DreadmaulHold	.worldport .0. .-10859. .-2663.38. .7.80049. .0.
+DreadmaulPost	.worldport .0. .-11528.2. .-2863.73. .9.99248. .0.
+DreadmaulRock	.worldport .0. .-7924.68. .-2624.44. .220.958. .0.
+Dreadmurk Shore	.worldport .1. .-3012.72. .-4345.51. .6.83608. .0.
+DreamBough	.worldport .1. .-2871.76. .1885.29. .52.6501. .0.
+DunAlgaz	.worldport .0. .-4088.67. .-2663.71. .35.1151. .0.
+DunBaldar	.worldport .30. .654.691. .-31.7338. .48.6277. .0.
+DunBaldar	.worldport .30. .617.277. .-42.8341. .42.2891. .0.
+DunBaldarPass	.worldport .30. .757.831. .-489.322. .95.8441. .0.
+DunemaulCompound	.worldport .1. .-8492.54. .-3022.39. .9.37397. .0.
+DunGarok	.worldport .0. .-1266.15. .-1198.95. .40.1765. .0.
+DunModr	.worldport .0. .-2605.21. .-2341.09. .83.3551. .0.
+DunMorogh	.worldport .0. .-5660.33. .755.299. .389.605. .0.
+DurnholdeKeep	.worldport .0. .-489.832. .-1391.35. .53.3854. .0.
+Durotar	.worldport .1. .341.42. .-4684.7. .30.9493. .0.
+Duskwood	.worldport .0. .-10517. .-1158.39. .39.0542. .0.
+DustfireValley	.worldport .0. .-6634.28. .-1876.38. .244.144. .0.
+DustwallowMarsh	.worldport .1. .-3463.26. .-4123.13. .17.1043. .0.
+Dwarf Outpost A	.worldport .0. .-5475.44. .-2425.32. .413.455. .0.
+Dwarf Outpost B	.worldport .0. .-5231.95. .-2366.98. .398.807. .0.
+DwarvenDistrict	.worldport .0. .-8434.69. .605.975. .94.9669. .0.
+Eastern Strand	.worldport .0. .-1234.91. .-943.205. .8.62585. .0.
+EastmoonRuins	.worldport .1. .-8867.71. .-3435.86. .13.3515. .0.
+Eastvale Logging Camp	.worldport .0. .-9549. .-1407.04. .54.7673. .0.
+EastvaleLoggingCamp	.worldport .0. .-9549. .-1407.04. .54.7673. .0.
+EastwallTower	.worldport .0. .2545.24. .-4773.8. .107.254. .0.
+Echo Isles	.worldport .1. .-1124.19. .-5535.02. .8.62076. .0.
+EchoIsles	.worldport .1. .-1124.19. .-5535.02. .8.62076. .0.
+ecrepitFairy	.worldport .0. .675.698. .974.873. .34.8849. .0.
+ElderRise	.worldport .1. .-1056.81. .-239.942. .159.03. .0.
+Elevation1	.worldport .1. .-1277.31. .118.811. .131.154. .0.
+Elevation2	.worldport .1. .-1134.91. .32.5153. .143.355. .0.
+Elevation3	.worldport .1. .-1207.55. .-64.4999. .157.538. .0.
+ElwynnForest	.worldport .0. .-9465.58. .16.8472. .65.921. .0.
+Emerald Forest Statue	.worldport .169. .3105.41. .3096.78. .27.0032. .0.
+Emerald Forest Trees	.worldport .169. .2732.93. .-3319.63. .101.284. .0.
+EmeraldSanctuary	.worldport .1. .3989.18. .-1292.13. .251.131. .0.
+Everlook	.worldport .1. .6721.44. .-4659.09. .720.893. .0.
+Excavatin Site	.worldport .0. .-6092.32. .-3214.55. .262.727. .0.
+FakfarrenRiven	.worldport .1. .1669.74. .-1714.14. .97.9564. .0.
+FaldinsCove	.worldport .0. .-2086.88. .-2074.57. .5.72927. .0.
+Faldir's Cove	.worldport .0. .-2086.88. .-2074.57. .5.72927. .0.
+Falfarren River	.worldport .1. .1669.74. .-1714.14. .97.9564. .0.
+FalfarrenRiver	.worldport .1. .1979.07. .-1968.07. .99.1034. .0.
+Fallow Sanctuary Murloc Outpost	.worldport .0. .-9980.38. .-3568.28. .22.0569. .0.
+FallowSactionary	.worldport .0. .-9980.38. .-3568.28. .22.0569. .0.
+FargodeepMine	.worldport .0. .-9811.76. .130.16. .6.86. .0.
+FeathermoonStronghold	.worldport .1. .-4411.09. .3228.02. .12.1294. .0.
+Felfire Hill	.worldport .1. .2114.86. .-2998.32. .111.396. .0.
+FelfireHill	.worldport .1. .1992.85. .-2989.66. .107.111. .0.
+Felstone Field	.worldport .0. .1782.26. .-1211.93. .59.4057. .0.
+FelstoneField	.worldport .0. .1756.79. .-1200.15. .60.7352. .0.
+Felwood	.worldport .1. .5483.9. .-749.881. .334.621. .0.
+Fenris Isle	.worldport .0. .731.866. .727.793. .37.0975. .0.
+Fenris Isle Fortress Ruins	.worldport .0. .960.45. .689.611. .59.7365. .0.
+FenrisKeep	.worldport .0. .960.45. .689.611. .59.7365. .0.
+Feralas	.worldport .1. .-2871.76. .1885.29. .52.6501. .0.
+Feralas	.worldport .1. .-4458.93. .243.415. .64.6136. .0.
+Feralas Coast	.worldport .1. .-4522.22. .2038.54. .50.1436. .0.
+Feralas Island Night Elf City	.worldport .1. .-4358.88. .3241. .12.3636. .0.
+Feralas Ruins	.worldport .1. .-2858.35. .2611.48. .58.3777. .0.
+FieldOfGiants	.worldport .1. .-3120.86. .-2327.89. .93.1243. .0.
+FieldofStrife	.worldport .30. .-187.386. .-293.948. .6.66753. .0.
+FirePlumeRidge	.worldport .1. .-7171.68. .-1279.85. .-184.424. .0.
+FirewatchRidge	.worldport .0. .-6646.51. .-829.166. .244.161. .0.
+Flat Lands Place Weird	.worldport .0. .5333.04. .-4795.84. .0. .0.
+Floating Bridge	.worldport .0. .-11988. .-1484.99. .78.9735. .0.
+Floating Crystal Gates	.worldport .1. .-8185.09. .1528.22. .2.98973. .0.
+FloatingCrystalGates	.worldport .1. .-8185.09. .1528.22. .2.98973. .0.
+Forest's Edge	.worldport .0. .-9646.46. .679.589. .37.4136. .0.
+ForestSong	.worldport .1. .2943.75. .-3304.34. .154.067. .0.
+ForgottenCoast	.worldport .1. .-4508.92. .2041.68. .51.3872. .0.
+ForgottenPools	.worldport .1. .90.1003. .-1943.44. .79.4727. .0.
+ForlornCavern	.worldport .0. .-4637.04. .-1101.53. .501.281. .0.
+ForstriderLodge	.worldport .0. .-5675.42. .-4244.87. .407.002. .0.
+FrayIsland	.worldport .1. .-1679.3. .-4328.96. .2.58591. .0.
+FreewindPost	.worldport .1. .-5437.4. .-2437.47. .89.3083. .0.
+Freewood Post	.worldport .1. .-5437.4. .-2437.47. .89.3083. .0.
+FrostfireHotSprings	.worldport .1. .6831.96. .-2494.93. .558.434. .0.
+FrostmaneHold	.worldport .0. .-5584.21. .759.832. .384.29. .0.
+FrostsaberRock	.worldport .1. .8070.18. .-3859.56. .688.782. .0.
+FrostwishperGorge	.worldport .1. .5274.15. .-4712.21. .691.124. .0.
+FrostWolfKeep	.worldport .30. .-1326.63. .-297.884. .90.536. .0.
+FrostWolfVillage	.worldport .30. .-1201.05. .-366.444. .54.0976. .0.
+Frostwyrm Lair	.worldport .533. .3498.27. .-5349.45. .144.967. .3.71577.
+FungalRocks	.worldport .1. .-6401.51. .-1755.86. .-272.256. .0.
+FungalVale	.worldport .0. .2448.25. .-3703.94. .179.083. .0.
+Furlbrow's Pumpkin Patch	.worldport .0. .-9903.53. .1245.26. .42.0563. .0.
+FurlbrowsPumpkinPatch	.worldport .0. .-9903.53. .1245.26. .42.0563. .0.
+Gadgetzad	.worldport .1. .-7124.13. .-3818.93. .8.41075. .0.
+Gadgetzan	.worldport .1. .-7154.86. .-3817.94. .8.39779. .0.
+GahroronsWithering	.worldport .0. .1668.12. .-2282.56. .59.2221. .0.
+Gahrron's Withering	.worldport .0. .1738.52. .-2319.93. .59.5751. .0.
+GahrronsWithering	.worldport .0. .1738.52. .-2319.93. .59.5751. .0.
+GanthersRetreat	.worldport .0. .2563.98. .-51.7975. .31.7441. .0.
+GapingChasm	.worldport .1. .-9311.04. .-3945.9. .10.6628. .0.
+Garren's Haunt	.worldport .0. .2861.67. .398.526. .21.1504. .0.
+Gelkis Village	.worldport .1. .-2222.47. .2522.4. .68.4424. .0.
+GelkisVillage	.worldport .1. .-2222.47. .2522.4. .68.4424. .0.
+Ghost Walker Post	.worldport .1. .-1156.34. .1894.49. .86.2854. .0.
+Giant Orc Statue	.worldport .0. .-8066.68. .-1621.66. .132.982. .0.
+Giant World Tree	.worldport .0. .724.846. .-3996.11. .149.735. .0.
+Gilijim's Isle	.worldport .0. .-13693.5. .2806.3. .56.6918. .0.
+GM Island	.worldport .1. .16222.1. .16252.1. .12.5872. .0.
+GM Isle	.worldport .1. .16222.1. .16252.1. .12.5872. .0.
+GMIsland	.worldport .1. .16222.6. .16265.9. .13.2085. .0.
+Gnarlpine Hold	.worldport .1. .9114.65. .1846.06. .1327.5. .0.
+GnarlpineHold	.worldport .1. .9114.65. .1846.06. .1327.5. .0.
+Gnomeregan	.worldport .0. .-5179.58. .660.421. .388.391. .0.
+Gnomeregan	.worldport .0. .-5189.22. .524.796. .388.107. .0.
+GnomereganTrainDepot	.worldport .0. .-4858.27. .756.435. .244.923. .0.
+Go'Shek Farm	.worldport .0. .-1505.51. .-3030.52. .12.627. .0.
+Goblin Obeservatory	.worldport .1. .-10082.2. .-5656.43. .6.24787. .0.
+Gol'Bolar Quarry	.worldport .0. .-5826.35. .-1586.57. .364.269. .0.
+GolakkaHotSprings	.worldport .1. .-7196.37. .-630.695. .-233.64. .0.
+GolBolarQuarry	.worldport .0. .-5826.35. .-1586.57. .364.269. .0.
+Goldshire	.worldport .0. .-9443.45. .59.8944. .56.0704. .0.
+Goldshire	.worldport .0. .-9460.25. .63.0612. .55.8335. .0.
+GoShekFarm	.worldport .0. .-1505.51. .-3030.52. .12.627. .0.
+GreatForge	.worldport .0. .-4795.88. .-1113.26. .498.807. .0.
+GreatLife	.worldport .1. .-4619.15. .-1850.91. .86.0563. .0.
+Greatwood Vale	.worldport .1. .-87.9634. .-565.775. .-12.1339. .0.
+GreatwoodVale	.worldport .1. .-87.9634. .-565.775. .-12.1339. .0.
+GreenpawVillage	.worldport .1. .2265.59. .-1475.33. .90.8082. .0.
+GreymaneWall	.worldport .0. .-757.376. .1527.28. .17.2465. .0.
+GrimBatol	.worldport .0. .-4053.99. .-3450.62. .283.383. .0.
+Grimeslit Dig Site	.worldport .0. .-6986.92. .-1705.54. .241.667. .0.
+GrimeslitDigSite	.worldport .0. .-6986.92. .-1705.54. .241.667. .0.
+GromGolBaseCamp	.worldport .0. .-12352.8. .211.452. .4.5846. .0.
+GrommashHold	.worldport .1. .1926.92. .-4220.35. .40.9464. .0.
+Grove of The Ancients	.worldport .1. .4995.94. .82.9197. .54.3857. .0.
+GroveOfTheAncients	.worldport .1. .4995.94. .82.9197. .54.3857. .0.
+Gunther's Retreat	.worldport .0. .2563.98. .-51.7975. .31.7441. .0.
+GurubashiArena	.worldport .0. .-13152.9. .342.729. .52.1328. .0.
+HallOfBlackhand	.worldport .229. .-78.5819. .-401.395. .38.9428. .0.
+HallOfExplorers	.worldport .0. .-4697.59. .-1229.28. .501.659. .0.
+HallOfLegends	.worldport .1. .1639.22. .-4238.83. .56.166. .0.
+Hamertoe's Digsite	.worldport .0. .-6411.58. .-3409.85. .241.537. .0.
+Hammerfall	.worldport .0. .-1020.82. .-3542.91. .56.4427. .0.
+Hammerfall	.worldport .0. .-950.584. .-3533.13. .71.8318. .0.
+HammertoesDigsite	.worldport .0. .-6411.58. .-3409.85. .241.537. .0.
+Headland	.worldport .0. .15.1686. .-337.262. .130.995. .0.
+Hearthglenn	.worldport .0. .2918.72. .-1439.39. .150.782. .0.
+Helm's Bed Lake	.worldport .0. .-5607.39. .-1984.16. .396.373. .0.
+HelmsBedLake	.worldport .0. .-5607.39. .-1984.16. .396.373. .0.
+Hero's Vigil	.worldport .0. .-9136.28. .-1053.89. .70.624. .0.
+HeroesVigil	.worldport .0. .-9136.28. .-1053.89. .70.624. .0.
+HiddenGrove	.worldport .1. .7641.78. .-4935.77. .696.609. .0.
+HiddenPath	.worldport .1. .-844.333. .-4217.06. .88.6684. .0.
+Highperch	.worldport .1. .-5000.46. .-940.209. .-5.58816. .0.
+Highperch	.worldport .1. .-5000.46. .-940.209. .-5.58816. .0.
+Hillsbrad Fields Human Town	.worldport .0. .-501.505. .91.4121. .59.0582. .0.
+HillsbradFields	.worldport .0. .-501.505. .91.4121. .59.0582. .0.
+HillsbradFoothillInn	.worldport .0. .-852.854. .-576.712. .20.0293. .0.
+HillsbradFootshill	.worldport .0. .-7.3559. .-936.734. .62.3336. .0.
+Hinterlands	.worldport .0. .357.22. .-2106.09. .121.839. .0.
+HiveAshi	.worldport .1. .-6543.32. .800.877. .2.60826. .0.
+HiveRegal	.worldport .1. .-7681.92. .795.932. .-3.05396. .0.
+HiveZora	.worldport .1. .-7250.49. .1472.88. .-3.97554. .0.
+HunterRise	.worldport .1. .-1403.11. .-78.5278. .158.935. .0.
+Hyjal	.worldport .1. .4674.88. .-3638.37. .965.264. .0.
+Hyjal Cool Ancient Statue	.worldport .1. .4491.35. .-3201.77. .1026.57. .0.
+Hyjal Plains Unifinished Location	.worldport .1. .5300.18. .-2292.83. .944.186. .0.
+IcebloodGurrison	.worldport .30. .-476.417. .-196.086. .54.7934. .0.
+Iceflow Lake	.worldport .0. .-5259.74. .107.593. .392.567. .0.
+IceflowLake	.worldport .0. .-5090.17. .71.2283. .394.33. .0.
+IcewingBunker	.worldport .30. .234.481. .-395.528. .43.2359. .0.
+IcewingPass	.worldport .30. .439.548. .-300.347. .-41.58. .0.
+IcewingPass	.worldport .30. .281.568. .46.1705. .19.1913. .0.
+Inside Hyjal Cave	.worldport .1. .4858. .-1840. .1156. .0.
+Ironband's Excavation Site	.worldport .0. .-5755.53. .-3998.42. .330.436. .0.
+IronbandsExcavationSite	.worldport .0. .-5755.53. .-3998.42. .330.436. .0.
+Ironbead's Tomb	.worldport .0. .-2849.21. .-2220.06. .31.3835. .0.
+IronbeadsTomb	.worldport .0. .-2849.21. .-2220.06. .31.3835. .0.
+Ironforge	.worldport .0. .-4981.25. .-881.542. .501.66. .0.
+Ironforge	.worldport .0. .-4919.98. .-957.887. .501.504. .0.
+Island of Doctor Lapidis	.worldport .0. .-12380.3. .3400.92. .48.865. .0.
+IsleOfDread	.worldport .1. .-6498.47. .3011.38. .7.43054. .0.
+Jaedenar	.worldport .1. .4878.32. .-614.219. .360.391. .0.
+JagueroIsle	.worldport .0. .-14740.7. .-432.482. .4.00624. .0.
+Janeiro's Point	.worldport .0. .-14178.2. .712.03. .29.1868. .0.
+JasperlodeMine	.worldport .0. .-9077.34. .-552.93. .60.35. .0.
+Jintha'Alor	.worldport .0. .-678.757. .-4018.61. .238.351. .0.
+JinthaAlor	.worldport .0. .-678.757. .-4018.61. .238.351. .0.
+Kalimdor	.worldport .1. .6744.98. .41.12. .47.6. .0.
+Karazham	.worldport .0. .-11127.6. .-2042.98. .47.0752. .0.
+Kargath	.worldport .0. .-6657.35. .-2157.1. .264.133. .0.
+Kargath Orc Outpost	.worldport .0. .-6675.96. .-2188.29. .246.152. .0.
+Kargathia Orc Outpost	.worldport .1. .2439.16. .-3500.08. .98.5954. .0.
+KargathiaOrcOutpost	.worldport .1. .2439.16. .-3500.08. .98.5954. .0.
+KargathOrcOutpost	.worldport .0. .-6675.96. .-2188.29. .246.152. .0.
+Kharanos	.worldport .0. .-5582.32. .-463.982. .402. .0.
+Kharanos	.worldport .0. .-5582.32. .-463.982. .402. .0.
+Kodo Graveyard	.worldport .1. .-1305.19. .1837.56. .55.731. .0.
+KodoGraveyard	.worldport .1. .-1305.19. .1837.56. .55.731. .0.
+Kolkar Crag	.worldport .1. .-1028.63. .-4599.8. .25.5756. .0.
+Kolkar Village	.worldport .1. .-939.787. .1091.4. .93.8119. .0.
+KolkarCrag	.worldport .1. .-1028.63. .-4599.8. .25.5756. .0.
+KolkarVillage	.worldport .1. .-939.787. .1091.4. .93.8119. .0.
+KurzensCompound	.worldport .0. .-11586.5. .-657.662. .32.9941. .0.
+Lake Al'Ameth	.worldport .1. .9477.19. .1005.74. .1249.01. .0.
+Lake Everstill	.worldport .0. .-9319. .-1937.94. .58.0698. .0.
+LakeAlAmeth	.worldport .1. .9534.08. .730.105. .1253.42. .0.
+LakeEverstill	.worldport .0. .-9319. .-1937.94. .58.0698. .0.
+Lakeshire	.worldport .0. .-9282.98. .-2269.64. .69.39. .0.
+Lakeshire	.worldport .0. .-9277.86. .-2285.33. .67.7402. .0.
+LakeshireInn	.worldport .0. .-9219.37. .-2149.94. .70.606. .0.
+LakkariTarPits	.worldport .1. .-6478.21. .-1129.33. .-275.909. .0.
+Lethlor Ravine	.worldport .0. .-6935.86. .-4092.06. .285.906. .0.
+LethlorRavine	.worldport .0. .-6935.86. .-4092.06. .285.906. .0.
+LiftsToGround	.worldport .1. .-1035.63. .-24.082. .140.694. .0.
+LightsHopeChapel	.worldport .0. .2278.36. .-5311.16. .87.201. .0.
+LittleCrater	.worldport .0. .-12238.3. .-2475.1. .-2.82331. .0.
+LochModan	.worldport .0. .-4939.1. .-3423.74. .305.595. .0.
+Longshore	.worldport .0. .-10513.9. .2075.23. .12.1819. .0.
+Lordamere Internment Camp	.worldport .0. .-74.6376. .201.212. .53.2755. .0.
+Lordamere Lake	.worldport .0. .762.653. .909.072. .31.2142. .0.
+LordamereInternmentCamp	.worldport .0. .-74.6376. .201.212. .53.2755. .0.
+Lost Point	.worldport .1. .-3922.24. .-2839.21. .44.6212. .0.
+LostPoint	.worldport .1. .-3922.24. .-2839.21. .44.6212. .0.
+lsamar	.worldport .0. .-5335.61. .-2982.58. .332.669. .0.
+Lushwater Oasis	.worldport .1. .-964.776. .-2039.74. .81.3491. .0.
+LushwaterOasis	.worldport .1. .-964.776. .-2039.74. .81.3491. .0.
+MaclureVineyards	.worldport .0. .-9881.4. .88.8972. .33.3196. .0.
+MaestrasPost	.worldport .1. .3229.99. .198.252. .8.06151. .0.
+MageQuarter	.worldport .0. .-8979.44. .851.161. .105.584. .0.
+MagicQuarter	.worldport .0. .1733.62. .103.444. .-61.857. .0.
+Magram Village	.worldport .1. .-1754.33. .967.89. .92.5626. .0.
+MagramVillage	.worldport .1. .-1754.33. .967.89. .92.5626. .0.
+MakersTerrace	.worldport .0. .-6092.32. .-3214.55. .262.727. .0.
+MalakaJin	.worldport .1. .-191.661. .-301.87. .12.2698. .0.
+Malden's Orchard	.worldport .0. .1414.28. .1073.22. .52.4649. .0.
+MaldensOrchard	.worldport .0. .1414.28. .1073.22. .52.4649. .0.
+Mannoroc Coven	.worldport .1. .-1879.28. .1745.49. .78.8892. .0.
+MannoroeCoven	.worldport .1. .-1879.28. .1745.49. .78.8892. .0.
+Manoroth Corpse	.worldport .0. .-13946.7. .12416.7. .98.4378. .0.
+Maraudon	.worldport .349. .419.84. .11.3365. .-132.079. .0.
+MardenholdeKeep	.worldport .0. .2918.72. .-1439.39. .150.782. .0.
+MarrisStead	.worldport .0. .1868.96. .-3223.39. .123.065. .0.
+MarshalsRefuge	.worldport .1. .-6186.57. .-1106.83. .-217.06. .0.
+Marshlands	.worldport .1. .-7286.01. .-2125.06. .-272.114. .0.
+Marshlands	.worldport .1. .-7353.57. .-1792.67. .-266.037. .0.
+Master's Glaive	.worldport .1. .4577.61. .419.307. .33.7161. .0.
+MasterGlaive	.worldport .1. .4508.17. .373.376. .32.5125. .0.
+Mazthoril	.worldport .1. .6155.21. .-4444.95. .659.788. .0.
+Medivh's Tower	.worldport .0. .-11078.9. .-2078.53. .206.878. .0.
+Menethil Bay	.worldport .0. .-3754.19. .-1087.3. .-1.71875. .0.
+Menethil Harbor	.worldport .0. .-3740.29. .-755.08. .10.9643. .0.
+MenethilHarbor	.worldport .0. .-3740.29. .-755.08. .10.9643. .0.
+MilitartWard	.worldport .0. .-4970.65. .-1210.7. .501.829. .0.
+Mine	.worldport .0. .374.222. .1083.9. .106.509. .0.
+MirageRaceway	.worldport .1. .-6202.16. .-3901.68. .-60.2858. .0.
+MirkfallonLake	.worldport .1. .1570.64. .1030.23. .138.019. .0.
+Mirror Lake	.worldport .0. .-9355.84. .537.441. .52.5171. .0.
+Mirror Lake Orchard	.worldport .0. .-9469.08. .467.583. .54.0913. .0.
+MirrorLake	.worldport .0. .-9405.99. .364.768. .49.6483. .0.
+MirrorLakeOrchard	.worldport .0. .-9469.08. .467.583. .54.0913. .0.
+Mist's Edge	.worldport .1. .7742.92. .-769.867. .5.22102. .0.
+Misty Pine Refuge	.worldport .0. .-5353.18. .-1043.02. .394.772. .0.
+MistyPineRefuge	.worldport .0. .-5353.18. .-1043.02. .394.772. .0.
+MistyReedPost	.worldport .0. .-10849.6. .-4088.17. .21.7445. .0.
+MistyreedStrand	.worldport .0. .-10022.2. .-4266.67. .7.26064. .0.
+MistyValley	.worldport .0. .-10103.4. .-2431.61. .28.4491. .0.
+Mo'Grosh Stronghold	.worldport .0. .-4871.78. .-4025.77. .313.141. .0.
+MoGroshStronghold	.worldport .0. .-4871.78. .-4025.77. .313.141. .0.
+MoltenBridge	.worldport .230. .1097.99. .-466.494. .-96.0719. .0.
+MoltenCore	.worldport .409. .1115.22. .-462.959. .-95.0148. .0.
+MoltenCore	.worldport .409. .1071.9. .-488.489. .-108.219. .0.
+MonstersGlaive	.worldport .1. .4565.22. .438.446. .32.9133. .0.
+Moonbrook	.worldport .0. .-11018.4. .1513.69. .43.0152. .0.
+Moonwell	.worldport .1. .2454.38. .-2943.27. .124. .0.
+MorgansPlot	.worldport .0. .-11094.2. .-1829.64. .72.9926. .0.
+MorgansVigil	.worldport .0. .-8355.88. .-2752.16. .184.755. .0.
+Mountains in Flat Lands	.worldport .0. .3602.47. .-1142.69. .1.03249. .0.
+Mulgore	.worldport .1. .-2366.7. .-345.983. .-1.29313. .0.
+Mulgore Mine	.worldport .1. .-1915.66. .-1107.44. .87.572. .0.
+MurlocCamp	.worldport .0. .-9614.89. .-2613.58. .57.5311. .0.
+MysticWard	.worldport .0. .-4678.19. .-968.721. .501.659. .0.
+MystralLake	.worldport .1. .2058.47. .-998.369. .95.6764. .0.
+Naxxramas	.worldport .533. .3005.87. .-3435.01. .293.882. .2.96673.
+Nerubian Pits	.worldport .1. .-7245.6. .1678.94. .-65.9066. .0.
+Nethander Stead	.worldport .0. .-898.266. .-1044.33. .30.3478. .0.
+NethergardeKeep	.worldport .0. .-11015.9. .-3326.09. .61.7594. .0.
+Night Elf Portal	.worldport .1. .3155. .-3702. .121. .0.
+Nighthaven	.worldport .1. .7978.95. .-2501.13. .488.986. .0.
+NightSongWood	.worldport .1. .2454.38. .-2943.27. .124. .0.
+NightsongWoods	.worldport .1. .2046.82. .-1874.25. .98.5036. .0.
+NijelsPoint	.worldport .1. .147.011. .1231.58. .165.476. .0.
+North Point Tower	.worldport .1. .-2855.96. .-3422.66. .36.7473. .0.
+North Tide's Run	.worldport .0. .873.391. .1852.5. .5.0548. .0.
+NorthanderStead	.worldport .0. .-898.266. .-1044.33. .30.3478. .0.
+NorthCoast	.worldport .0. .2955.79. .99.8215. .3.32947. .0.
+NorthDale	.worldport .0. .3011.49. .-4941.44. .103.586. .0.
+Northfold Manor	.worldport .0. .-797.235. .-2068.95. .33.8337. .0.
+NorthfoldManor	.worldport .0. .-797.235. .-2068.95. .33.8337. .0.
+NorthGateOutpost	.worldport .0. .-5231.95. .-2366.98. .398.807. .0.
+NorthpassTower	.worldport .0. .3181.78. .-4331.39. .137.689. .0.
+NorthPointTower	.worldport .1. .-2855.96. .-3422.66. .36.7473. .0.
+Northridge Lumber Camp	.worldport .0. .2423.42. .-1646.44. .60.5098. .0.
+NorthridgeLumberCamp	.worldport .0. .2423.42. .-1646.44. .104.51. .0.
+Northshire	.worldport .0. .-9015.92. .-79.4411. .87.1198. .0.
+Northshire Valley	.worldport .0. .-9043.76. .-41.5906. .88.3589. .0.
+Northshire Vineyards	.worldport .0. .-9092.38. .-368.684. .73.6163. .0.
+NorthshireValley	.worldport .0. .-9043.76. .-41.5906. .88.3589. .0.
+NorthTidesRun	.worldport .0. .873.391. .1852.5. .5.0548. .0.
+NorthwatchHold	.worldport .1. .-1986.58. .-3688.25. .18.3162. .0.
+NoxiousGlade	.worldport .0. .2714.32. .-5455.48. .159.145. .0.
+NoxiousLair	.worldport .1. .-7779.9. .-2691.72. .9.14648. .0.
+NoxiusLair	.worldport .1. .-8044.95. .-2525.12. .12.1908. .0.
+OldTown	.worldport .0. .-8722.22. .409.911. .97.8349. .0.
+Olsen's Farthing	.worldport .0. .134.209. .1496.64. .114.394. .0.
+OlsensFarthing	.worldport .0. .134.209. .1496.64. .114.394. .0.
+Onyxia	.worldport .249. .24.6421. .-91.8906. .-15.3839. .0.
+OnyxiasLair	.worldport .249. .29.4548. .-68.9609. .-6.98402. .0.
+Opthecarium	.worldport .0. .1457.61. .382.548. .-59.2747. .0.
+OracleGlade	.worldport .1. .10661.2. .1875.75. .1323.46. .0.
+Orc Outpost A	.worldport .0. .-10859. .-2663.38. .7.80049. .0.
+Orc Outpost B	.worldport .0. .-8687.39. .-2330.38. .155.916. .0.
+OrcOutpost	.worldport .0. .-8687.39. .-2330.38. .155.916. .0.
+Orgimmar	.worldport .1. .1484.36. .-4417.03. .24.4709. .0.
+Orgrimmar	.worldport .1. .1502.71. .-4415.42. .21.5512. .0.
+Outland Dark Portal	.worldport .0. .-11894.8. .-3206.52. .-14.62. .0.
+Outside Hyjal Cave	.worldport .1. .4817. .-1742. .1168. .0.
+Overlook Cliffs	.worldport .0. .-69.8514. .-4536. .7.28923. .0.
+OverlookCliffs	.worldport .0. .-69.8514. .-4536. .17.2892. .0.
+OwlWingThicket	.worldport .1. .5671.61. .-4963.66. .806.429. .0.
+Paladin Statue	.worldport .0. .981.477. .-1821.84. .80.4872. .0.
+Park	.worldport .0. .-8755.55. .1094.03. .95.4037. .0.
+Pass	.worldport .0. .-6181.39. .-2300.55. .285.692. .0.
+PillarsOfAsh	.worldport .0. .-8068.39. .-1603.97. .139.572. .0.
+Plaguewood	.worldport .0. .3130.17. .-3401.76. .139.478. .0.
+Pool of Tears	.worldport .0. .-10303.5. .-3972.28. .20.2882. .0.
+PoolOfTears	.worldport .0. .-10303.5. .-3972.28. .20.2882. .0.
+Pools of Arilthrien	.worldport .1. .9561.33. .1743. .1291.91. .0.
+PoolsOfArilthrien	.worldport .1. .9561.33. .1743. .1291.91. .0.
+PoolsOfVision	.worldport .1. .-1003.42. .261.579. .112.153. .0.
+PoolsOPfArlithrien	.worldport .1. .9556.24. .1654.77. .1299.49. .0.
+Programmer Island	.worldport .451. .16304.2. .16318.1. .69.44. .0.
+Programmer Isle	.worldport .451. .16304.2. .16318.1. .69.44. .0.
+ProgrammerIsland	.worldport .451. .16304.2. .16318.1. .69.4444. .0.
+PurgationIsle	.worldport .0. .-1310.1. .567.088. .106.402. .0.
+Purple Night Elf Building	.worldport .0. .-5675.42. .-4244.87. .407.002. .0.
+PvP Alliance Side	.worldport .17. .3049.02. .-505.125. .77.0384. .0.
+PvP Alliance Start Point	.worldport .37. .-443. .-1004. .436. .0.
+PvP Alliance Starting Area	.worldport .30. .-6.34645. .-411.184. .45.4318. .0.
+PvP Area Horde Side	.worldport .17. .2876.37. .-762.631. .21.3474. .0.
+PvP Badlands Portion	.worldport .30. .-1231.66. .453.486. .138.972. .0.
+PvP Deadwind Pass	.worldport .30. .-1231.66. .453.486. .138.972. .0.
+PvP Development Area	.worldport .17. .3305.46. .609.966. .39.5909. .0.
+PvP Horde Start Point	.worldport .37. .-634. .-492. .385. .0.
+PvP Horde Starting Area	.worldport .30. .-503.745. .-194.215. .58.5942. .0.
+PvP Middle of Impact Crater	.worldport .30. .-219.279. .-283.455. .4.89101. .0.
+PvP Second Badlands Portion	.worldport .30. .607.377. .-1041.68. .112.675. .0.
+PvP Second Deadwind Pass	.worldport .30. .669.224. .346.28. .138.129. .0.
+PvP Teldrassil Roots	.worldport .17. .3102.9. .-2319.38. .2. .0.
+PvP Test VI Lettering	.worldport .17. .3707.52. .-1190.21. .0. .0.
+PvP Top of Castle	.worldport .17. .1320. .260. .76. .0.
+Pyrewood Village	.worldport .0. .-416.466. .1543.87. .17.5941. .0.
+PyrewoodVillage	.worldport .0. .-416.466. .1543.87. .17.5941. .0.
+Quel'Danil Night Elf Lodge	.worldport .0. .266.941. .-2751.41. .122.544. .0.
+QuelDanilLodge	.worldport .0. .266.941. .-2751.41. .122.544. .0.
+RagefireChasm	.worldport .389. .1.7849. .-14.3685. .-17.5533. .0.
+Random Bay Ruins	.worldport .0. .-11712.7. .-1758.67. .22.4509. .0.
+RaptorRidge	.worldport .0. .-3142.5. .-3239.81. .62.4612. .0.
+Ratchet	.worldport .1. .-943.935. .-3715.49. .11.8385. .0.
+Ratchet Troll Port Outpost	.worldport .1. .-943.935. .-3715.49. .11.8385. .0.
+RavenHill	.worldport .0. .-10741.1. .316.202. .39.8644. .0.
+RavenHillCemetery	.worldport .0. .-10316.7. .342.295. .59.6454. .0.
+Raynewood Retreat	.worldport .1. .2673.51. .-1859.72. .188.112. .0.
+Raynewood Retreat	.worldport .1. .2673.51. .-1859.72. .188.112. .0.
+RaynewoodRetreat	.worldport .1. .2563.47. .-1698.84. .154.018. .0.
+RazorfenDowns	.worldport .129. .2591.99. .1101.25. .51.8593. .0.
+RazorfenKraul	.worldport .1. .-4464.92. .-1666.24. .90. .4.05498.
+RazorfenKraul	.worldport .47. .1941.79. .1543.69. .81.6615. .0.
+RazorHill	.worldport .1. .315.721. .-4743.4. .9.48673. .0.
+Razorhill	.worldport .1. .304.762. .-4734.97. .9.30458. .0.
+RazorwindCayon	.worldport .1. .900.677. .-4634.82. .17.7876. .0.
+Rebel Camp	.worldport .0. .-11311.5. .-195.19. .76.3198. .0.
+Red Cloud Mesa	.worldport .1. .-2928.26. .-46.1054. .188.892. .0.
+Red Rocks	.worldport .1. .-1008.68. .-1115.72. .46.046. .0.
+RedCloudMesa	.worldport .1. .-3157.06. .-121.667. .46.7853. .0.
+RedridgeMountains	.worldport .0. .-9219.37. .-2149.94. .70.606. .0.
+RedRocks	.worldport .1. .-1008.68. .-1115.72. .46.046. .0.
+Refuge Pointe	.worldport .0. .-1262.79. .-2521.75. .20.8021. .0.
+RefugePointe	.worldport .0. .-1262.79. .-2521.75. .20.8021. .0.
+RethressSanctum	.worldport .1. .2209.15. .-6439.12. .1.82327. .0.
+RockOfDurotan	.worldport .30. .-896.41. .-525.78. .54.2313. .0.
+RogueQuarter	.worldport .0. .1456.44. .104.917. .-61.8538. .0.
+Ruins	.worldport .0. .386.938. .212.299. .43.6994. .0.
+Ruins of Alterac	.worldport .0. .522.608. .-275.392. .150.689. .0.
+Ruins of Anderhol	.worldport .0. .1386.47. .-1518.8. .72.4034. .0.
+Ruins of Jubuwal	.worldport .0. .-13382.6. .2.10815. .21.8683. .0.
+Ruins of Lordaeron	.worldport .0. .1832.44. .236.426. .60.4171. .0.
+Ruins of Mathystra	.worldport .1. .7373.38. .-938.331. .32.6196. .0.
+RuinsOfAlterac	.worldport .0. .522.608. .-275.392. .150.689. .0.
+RuinsOfAnderhol	.worldport .0. .1386.47. .-1518.8. .72.4034. .0.
+RuinsOfElderath	.worldport .1. .3546.8. .-5287.96. .109.935. .0.
+RuinsOfIsildien	.worldport .1. .-5566.04. .1449.82. .20.1135. .0.
+RuinsOfKelTheril	.worldport .1. .6476.2. .-4255.87. .665.203. .0.
+RuinsOfLordaeron	.worldport .0. .1801.58. .237.355. .62.7537. .0.
+RuinsOfMathystra	.worldport .1. .7373.38. .-938.331. .32.6196. .0.
+RuinsOfRavenwind	.worldport .1. .-2858.35. .2611.48. .58.3777. .0.
+RuinsOfStardust	.worldport .1. .2178.01. .-288.45. .97.3499. .0.
+RuinsOfThaurissan	.worldport .0. .-7798.32. .-2171.41. .133.01. .0.
+RuinsOfZulKunda	.worldport .0. .-11693.9. .702.532. .49.9689. .0.
+RuinsSolarsal	.worldport .1. .-4861.19. .3516.7. .22.8659. .0.
+Rumored Entrance	.worldport .0. .-10377.2. .-421.704. .63.6252. .0.
+RustmaulDigSite	.worldport .1. .-6495.56. .-3472.69. .-58.7786. .0.
+RuttheranVillage	.worldport .1. .8697.15. .954.138. .12.4829. .0.
+SacrificeAltar	.worldport .0. .-11685.2. .-2384.64. .-0.19184. .0.
+SaldeansFarm	.worldport .0. .-10171.8. .1195.41. .36.4345. .0.
+SandsorrowWatch	.worldport .1. .-7164.64. .-3142.55. .11.072. .0.
+Sar'Theris Strand	.worldport .1. .-592.792. .2592.84. .15.467. .0.
+Sargeron	.worldport .1. .-242.347. .764.848. .98.7113. .0.
+Sargeron	.worldport .1. .-242.347. .764.848. .98.7113. .0.
+SarTherisStrand	.worldport .1. .-592.792. .2592.84. .15.467. .0.
+Satyrnaar	.worldport .1. .2728.9. .-2953.13. .141.112. .0.
+Satyrnaar	.worldport .1. .2757.59. .-2967.58. .143.882. .0.
+ScarabWall	.worldport .1. .-8108.6. .1528.42. .2.13028. .0.
+Scarlet Watch Post	.worldport .0. .3040.8. .-552.374. .122.216. .0.
+ScarletMonastery	.worldport .0. .2843.57. .-692.134. .139.33. .0.
+ScarletMonastery	.worldport .189. .269.191. .-211.791. .19.201. .0.
+ScarletWatchPost	.worldport .0. .3040.8. .-552.374. .122.216. .0.
+Scholomance	.worldport .289. .199.427. .126.464. .134.912. .0.
+ScreechingCanyon	.worldport .1. .-5467.33. .-1633.45. .29.4245. .0.
+Scuttle Coast	.worldport .1. .242.548. .-5151.46. .1.60441. .0.
+ScuttleCoast	.worldport .1. .242.548. .-5151.46. .1.60441. .0.
+SearingGorge	.worldport .0. .-7176.63. .-937.667. .170.206. .0.
+Sen'Jin Village	.worldport .1. .-844.586. .-4924.29. .20.8708. .0.
+SenjinVillage	.worldport .1. .-827.924. .-4924.43. .19.9659. .0.
+Sentinel Hill	.worldport .0. .-10510. .1046.89. .60.518. .0.
+SentinelHill	.worldport .0. .-10602.9. .1073.73. .37.4834. .0.
+Sentry Point	.worldport .1. .-3459.39. .-4130.3. .16.3786. .0.
+SentryPoint	.worldport .1. .-3459.39. .-4130.3. .16.3786. .0.
+Sepulchen	.worldport .0. .507.784. .1611.33. .124.921. .0.
+Sepulcher	.worldport .0. .511.536. .1638.63. .120.417. .0.
+Seradene	.worldport .0. .724.846. .-3996.11. .149.735. .0.
+Seradene Night Elf Portal	.worldport .0. .724.846. .-3996.11. .149.735. .0.
+Sewers	.worldport .0. .1652.9. .732.491. .80.3365. .0.
+Shadowfang Keep	.worldport .0. .-202.557. .1666.88. .79.7641. .0.
+ShadowfangKeep	.worldport .0. .-202.557. .1666.88. .79.7641. .0.
+ShadowfangKeep	.worldport .0. .-232.796. .1568.28. .76.8909. .4.4.
+Shadowglen	.worldport .1. .10696. .765.934. .1321.33. .0.
+Shadowglen	.worldport .1. .10699.8. .738.73. .1325.88. .0.
+ShadowpreyVillage	.worldport .1. .-1596.16. .3145.26. .67.8338. .0.
+Shadra'Alor	.worldport .0. .-464.208. .-2837.23. .110.073. .0.
+ShadraAlor	.worldport .0. .-464.208. .-2837.23. .110.073. .0.
+Shady Rest Inn	.worldport .1. .-3719.26. .-2530.63. .69.58. .0.
+ShadyRestInn	.worldport .1. .-3719.26. .-2530.63. .69.58. .0.
+ShaolWatha	.worldport .0. .222.281. .-4312.26. .117.769. .0.
+ShatteredStrand	.worldport .1. .4260.73. .-6273.64. .90.2289. .0.
+ShatterScarVale	.worldport .1. .5483.9. .-749.881. .334.621. .0.
+ShrineOfAessina	.worldport .1. .2681.05. .377.693. .67.8608. .0.
+ShrineOfRemulos	.worldport .1. .7849.78. .-2196.98. .473.579. .0.
+SilverpineForest	.worldport .0. .511.536. .1638.63. .120.417. .0.
+SilverwindRefuge	.worldport .1. .2135.27. .-1189.9. .98.8206. .0.
+SkitteringDark	.worldport .0. .1293.65. .1957.71. .19.5619. .0.
+Skulk Rock	.worldport .0. .362.039. .-3796.03. .153.998. .0.
+SkullRock	.worldport .1. .1452.83. .-4877.14. .11.8788. .0.
+Slaughterhouse	.worldport .0. .2719.29. .-5479.3. .159.542. .0.
+Slaughterhouse in Mushroom Field	.worldport .0. .3097.32. .-3562.77. .134.093. .0.
+SleepingGorge	.worldport .0. .-10592.5. .-2131.21. .91.4703. .0.
+SliteringScar	.worldport .1. .-7872.52. .-1344.78. .-275.459. .0.
+SlitheringScar	.worldport .1. .-7849.33. .-1366.02. .-272.196. .0.
+SludgeFen	.worldport .1. .1059.54. .-3003.53. .91.6441. .0.
+Solliden Farmstead	.worldport .0. .2268.03. .1333.63. .34.7835. .0.
+SollidenFarmstead	.worldport .0. .2268.03. .1333.63. .34.7835. .0.
+Sorrow Hill	.worldport .0. .1064.09. .-1718.04. .61.1348. .0.
+SorrowHill	.worldport .0. .1064.09. .-1718.04. .61.1348. .0.
+South Tide's Run	.worldport .0. .-577.865. .1807.08. .8.2492. .0.
+Southfury River	.worldport .1. .114.769. .-3758.95. .17.8907. .0.
+SouthfuryRiver	.worldport .1. .114.769. .-3758.95. .17.8907. .0.
+SouthGateOutpost	.worldport .0. .-5475.44. .-2425.32. .413.455. .0.
+Southshore	.worldport .0. .-821.604. .-544.654. .15.0387. .0.
+Southshore Human Harbor Town	.worldport .0. .-821.604. .-544.654. .15.0387. .0.
+SouthwindVillage	.worldport .1. .-7200.2. .392.124. .24.9073. .0.
+SpiritRise	.worldport .1. .-1009.29. .231.283. .134.587. .0.
+SpiritRock	.worldport .1. .-861.457. .-4283.67. .77.7991. .0.
+SplinterspearJunction	.worldport .0. .-10382.5. .-2605.1. .21.6849. .0.
+SplintertreePost	.worldport .1. .2188.61. .-2514.28. .81.0246. .0.
+Starbreeze	.worldport .1. .9881.34. .448.189. .1302.78. .0.
+StarbreezeVillage	.worldport .1. .9871.55. .599.985. .1301.37. .0.
+StarBreezeVillage	.worldport .1. .9859.09. .588.761. .1300.61. .0.
+StarfallVillage	.worldport .1. .7166.17. .-3986.87. .742.872. .0.
+SteamwidlePort	.worldport .1. .-6942.47. .-4847.1. .0.667853. .0.
+Steelgrill's Depot	.worldport .0. .-5470.37. .-662.312. .392.674. .0.
+Stockade	.worldport .34. .65.4011. .0.76544. .-22.5312. .0.
+Stockades	.worldport .34. .49.8212. .0.870144. .-16.7136. .0.
+Stonard	.worldport .0. .-10452.5. .-3263.59. .20.1782. .0.
+Stonard	.worldport .0. .-10487.3. .-3256.87. .39.8964. .0.
+Stone Cairn Lake	.worldport .0. .-9325.33. .-1038.92. .65.3535. .0.
+StonebullLake	.worldport .1. .-2543.98. .-327.013. .-14.2089. .0.
+StonehearthOutpost	.worldport .30. .23.9825. .-298.187. .14.3892. .0.
+StoneheartOutpost	.worldport .30. .24.9432. .-304.787. .14.5986. .0.
+Stonemaul Ruins	.worldport .1. .-4354.46. .-3275.34. .46.0475. .0.
+StonemaulRuins	.worldport .1. .-4354.46. .-3275.34. .46.0475. .0.
+StonesplinterValley	.worldport .0. .-5930.62. .-2939.03. .369.491. .0.
+Stonetalon	.worldport .1. .898.482. .922.688. .126.788. .0.
+Stonetalon Mountains	.worldport .1. .-239.089. .-809.973. .8.78944. .0.
+Stonetalon Peak	.worldport .1. .2506.3. .1470.14. .262.722. .0.
+StonetalonMountains	.worldport .1. .-122.391. .388.013. .94.4856. .0.
+StonetalonPeak	.worldport .1. .2506.3. .1470.14. .262.722. .0.
+Stonewatch	.worldport .0. .-9385.46. .-3039.27. .139.437. .0.
+Stonewatch	.worldport .0. .-9385.46. .-3039.27. .139.437. .0.
+StonewatchFalls	.worldport .0. .-9482.57. .-3325.85. .8.74276. .0.
+Stonewrough Dam	.worldport .0. .-4771.99. .-3329.01. .345.504. .0.
+StonewroughtDam	.worldport .0. .-4762.99. .-3329.01. .345.504. .0.
+StonewroughtPass	.worldport .0. .-6356.7. .-2079.11. .243.571. .0.
+Stormgarde Keep	.worldport .0. .-1661.42. .-1804.2. .83.0723. .0.
+StormgardeKeep	.worldport .0. .-1661.42. .-1804.2. .83.0723. .0.
+StormrageBarrowDens	.worldport .1. .7565.92. .-2898.29. .460.126. .0.
+Stormwind	.worldport .0. .-8886.2. .574.577. .92.7699. .0.
+Stormwind	.worldport .0. .-8913.23. .554.633. .93.7944. .0.
+Stormwind Bank	.worldport .0. .-8937.08. .640.4. .100.645. .0.
+Stormwind Canals	.worldport .0. .-8675.39. .635.774. .96.9275. .0.
+Stormwind Cathedral of Light	.worldport .0. .-8513.49. .861.197. .111.039. .0.
+Stormwind Cathedral Square	.worldport .0. .-8635.62. .762.727. .103.667. .0.
+Stormwind City	.worldport .0. .-8913.23. .554.633. .93.7944. .0.
+Stormwind Mage Quarter	.worldport .0. .-8896.36. .834.148. .99.5207. .0.
+Stormwind Old Town	.worldport .0. .-8662.9. .498.212. .100.833. .0.
+Stormwind Trade District	.worldport .0. .-8852.03. .652.878. .96.46. .0.
+Stormwind Wizard's Sanctum	.worldport .0. .-9007.65. .870.424. .148.618. .0.
+StormwindCastle	.worldport .0. .-8437.41. .349.017. .120.886. .0.
+StormwindKeep	.worldport .0. .-8491.71. .397.008. .108.386. .0.
+StormwindStockadesEntrance	.worldport .0. .-8764.83. .846.075. .87.4842. .0.
+StormwindVaultEntrance	.worldport .0. .-8667.56. .623.563. .85.4054. .0.
+StoutlagerInn	.worldport .0. .-5390.18. .-2953.93. .322.03. .0.
+Strahnbrad	.worldport .0. .679.813. .-965.173. .164.598. .0.
+Strahnbrad	.worldport .0. .679.813. .-965.173. .164.598. .0.
+StranglethornVale	.worldport .0. .-11634.8. .-54.0697. .13.4439. .0.
+Stratholme	.worldport .329. .3176.63. .-4039.28. .105.464. .0.
+Sunken Temple	.worldport .0. .-10349.1. .-3849.67. .-25.6078. .0.
+SunkenTemple	.worldport .109. .-314.229. .99.88. .-131.849. .0.
+Sunrock Retreat	.worldport .1. .-191.661. .-301.87. .12.2698. .0.
+SunRockRetreat	.worldport .1. .948.365. .955.29. .104.506. .0.
+TalondeepPath	.worldport .1. .1943.14. .-741.766. .113.11. .0.
+Tanaris	.worldport .1. .-7373.69. .-2950.2. .10.7598. .0.
+Tanaris	.worldport .1. .-6942.47. .-4847.1. .0.667853. .0.
+Tarren Mill	.worldport .0. .-28.1484. .-899.243. .56.0704. .0.
+TarrenMill	.worldport .0. .-35.8153. .-925.23. .54.5009. .0.
+TarrenMills	.worldport .0. .-7.3559. .-936.734. .62.3336. .0.
+Tauren Camp Narache	.worldport .1. .-2905.3. .-253.768. .56.0612. .0.
+Tauren Village	.worldport .1. .-4369.68. .242.294. .25.4133. .0.
+TaurenCampNarache	.worldport .1. .-2905.3. .-253.768. .56.0612. .0.
+Teldrassil	.worldport .1. .10708.8. .762.092. .1321.37. .0.
+TempleGardens	.worldport .1. .9935.34. .2506.11. .1317.82. .0.
+TempleOfArkkoran	.worldport .1. .4060.07. .-7258.75. .7.64345. .0.
+TempleOfAtalHakka	.worldport .0. .-10474. .-3817.3. .28.9858. .0.
+TempleofAtalHakkar	.worldport .0. .-10429.4. .-3828.84. .-31.63. .0.
+TempleOfTheMoon	.worldport .1. .9674.56. .2524.82. .1333.9. .0.
+Terrace of Repose	.worldport .0. .2922.59. .-740.071. .153.983. .0.
+TerronRun	.worldport .1. .-7866.75. .-630.03. .-260.563. .0.
+Terror Run	.worldport .1. .-7866.75. .-630.03. .-260.563. .0.
+Terrordale	.worldport .0. .2963.22. .-2791.65. .110.827. .0.
+TerrorRun	.worldport .1. .-7817.09. .-1036.34. .-265.721. .0.
+TerrorwebTunnel	.worldport .0. .2741.58. .-2471.74. .74.78. .0.
+Thalanaar	.worldport .1. .-4517.1. .-780.415. .-40.736. .0.
+Thalanaar	.worldport .1. .-4517.1. .-780.415. .-40.736. .0.
+Thandol Span	.worldport .0. .-2336.47. .-2509.82. .85.2212. .0.
+The Altar of Zul	.worldport .0. .-295.384. .-3459.12. .194.005. .0.
+The Bulwark	.worldport .0. .1716.02. .-788.217. .56.844. .0.
+The Cauldron	.worldport .0. .-6892.24. .-1342.38. .239.913. .0.
+The Crossroads	.worldport .1. .-456.263. .-2652.7. .95.615. .0.
+The Dawning Isles	.worldport .0. .982.34. .201.239. .34.9509. .0.
+The Dead Field	.worldport .0. .1035.91. .1540.85. .30.525. .0.
+The Decrepit Fairy	.worldport .0. .675.698. .974.873. .34.8849. .0.
+The Den of Flame	.worldport .1. .-4336.82. .-3018.67. .33.1744. .0.
+The Dor'danil Barrow Den	.worldport .1. .1775.1. .-2679.19. .111.666. .0.
+The Dragonmurk	.worldport .1. .-4197.56. .-2873.76. .44.6771. .0.
+The Drowned Reef	.worldport .0. .-2200.52. .-1685.18. .-34.4569. .0.
+The Forgotten Pools	.worldport .1. .110.197. .-1891.39. .93.5444. .0.
+The Greymane Wall	.worldport .0. .-757.376. .1527.28. .17.2465. .0.
+The Ivar Patch	.worldport .0. .1285.69. .1242.33. .52.6914. .0.
+The Loch Lake	.worldport .0. .-5201.86. .-3136.59. .298.761. .0.
+The Long Wash	.worldport .1. .5028.14. .534.745. .7.28397. .0.
+The Maclure Vineyards	.worldport .0. .-9881.4. .88.8972. .33.3196. .0.
+The North Coast	.worldport .0. .2955.79. .99.8215. .3.32947. .0.
+The Racetrack	.worldport .1. .-6202.16. .-3901.68. .-60.2858. .0.
+The Rustmaul Dig Site	.worldport .1. .-6495.56. .-3472.69. .-58.7786. .0.
+The Savage Coast	.worldport .0. .-13274.4. .769.951. .2.45505. .0.
+The Screeching Canyon	.worldport .1. .-5467.33. .-1633.45. .29.4245. .0.
+The Sepulcher	.worldport .0. .507.784. .1611.33. .124.921. .0.
+The Skittering Dark	.worldport .0. .1293.65. .1957.71. .19.5619. .0.
+The Sludge Fen	.worldport .1. .1059.54. .-3003.53. .91.6441. .0.
+The Stagnant Oasis	.worldport .1. .-1330.17. .-3120.07. .91.6667. .0.
+The Stonefiled Farm	.worldport .0. .-9964.72. .391.509. .35.6555. .0.
+The Tainted Scar	.worldport .0. .-12134.7. .-2455.53. .19.61. .0.
+The Throne Room	.worldport .0. .1628.3. .239.925. .64.5006. .0.
+The Uplands	.worldport .0. .1239.12. .-286.705. .42.4764. .0.
+The Verdant Fields	.worldport .169. .-2128.12. .-1005.89. .132.213. .0.
+The Vile Reef	.worldport .0. .-12258.9. .621.105. .-68.3247. .0.
+The Writhing Haunt	.worldport .0. .1487.77. .-1884.87. .59.2039. .0.
+TheAltarOfZul	.worldport .0. .-295.384. .-3459.12. .194.005. .0.
+TheBalwark	.worldport .0. .1716.02. .-788.217. .56.844. .0.
+TheBarrens	.worldport .1. .90.1003. .-1943.44. .79.4727. .0.
+TheBlackMorass	.worldport .269. .-2061.12. .6635.97. .-144.596. .0.
+TheBulwark	.worldport .0. .1636.09. .-1011.36. .76.1124. .0.
+TheCauldron	.worldport .0. .-6892.24. .-1342.38. .239.913. .0.
+TheCleftOfShadow	.worldport .1. .1805.41. .-4337.11. .-11.1877. .0.
+TheCommons	.worldport .0. .-4920.61. .-955.967. .501.51. .0.
+TheCrossroads	.worldport .1. .-456.263. .-2652.7. .95.615. .0.
+TheDaggerHills	.worldport .0. .-11275.5. .1448.2. .89.0785. .0.
+TheDarkenedBank	.worldport .0. .-10015.9. .-575.457. .42.7515. .0.
+TheDawningIsles	.worldport .0. .982.34. .201.239. .34.9509. .0.
+TheDeadAcre	.worldport .0. .-10776.2. .881.872. .33.9199. .0.
+TheDeadField	.worldport .0. .1035.91. .1540.85. .30.525. .0.
+TheDecrepitFairy	.worldport .0. .675.698. .974.873. .34.8849. .0.
+TheDen	.worldport .1. .-604.922. .-4156.99. .43.2112. .0.
+TheDenOfFlame	.worldport .1. .-4336.82. .-3018.67. .33.1744. .0.
+TheDrag	.worldport .1. .1860.46. .-4513.91. .23.657. .0.
+TheDustPlains	.worldport .0. .-11116.3. .585.337. .34.4177. .0.
+TheDwarvenDistrict	.worldport .0. .-8434.69. .605.975. .94.9669. .0.
+TheForgottenCoast	.worldport .1. .-4508.92. .2041.68. .51.3872. .0.
+TheForlornCavern	.worldport .0. .-4637.04. .-1101.53. .501.281. .0.
+TheForstriderLodge	.worldport .0. .-5675.42. .-4244.87. .407.002. .0.
+TheFungalVale	.worldport .0. .2448.25. .-3703.94. .179.083. .0.
+TheGapingChasm	.worldport .1. .-9311.04. .-3945.9. .10.6628. .0.
+TheGreatForge	.worldport .0. .-4795.88. .-1113.26. .498.807. .0.
+TheGreatLife	.worldport .1. .-4619.15. .-1850.91. .86.0563. .0.
+TheGreymaneWall	.worldport .0. .-757.376. .1527.28. .17.2465. .0.
+TheHeadland	.worldport .0. .15.1686. .-337.262. .130.995. .0.
+TheHiddenGrove	.worldport .1. .7641.78. .-4935.77. .696.609. .0.
+Thelsamar	.worldport .0. .-5335.61. .-2982.58. .332.669. .0.
+Thelsamar	.worldport .0. .-5335.61. .-2982.58. .332.669. .0.
+TheMaclureVineyards	.worldport .0. .-9881.4. .88.8972. .33.3196. .0.
+TheMageQuarter	.worldport .0. .-8979.44. .851.161. .105.584. .0.
+TheMagicQuarter	.worldport .0. .1733.62. .103.444. .-61.857. .0.
+TheMakersTerrace	.worldport .0. .-6092.32. .-3214.55. .262.727. .0.
+TheMarshlands	.worldport .1. .-7286.01. .-2125.06. .-272.114. .0.
+TheMarshlands	.worldport .1. .-7353.57. .-1792.67. .-266.037. .0.
+TheMilitartWard	.worldport .0. .-4970.65. .-1210.7. .501.829. .0.
+TheMoltenBridge	.worldport .230. .1097.99. .-466.494. .-96.0719. .0.
+TheMoltenCore	.worldport .409. .1115.22. .-462.959. .-95.0148. .0.
+TheMonstersGlaive	.worldport .1. .4565.22. .438.446. .32.9133. .0.
+TheMysticWard	.worldport .0. .-4678.19. .-968.721. .501.659. .0.
+TheNorthCoast	.worldport .0. .2955.79. .99.8215. .3.32947. .0.
+TheNoxiousGlade	.worldport .0. .2714.32. .-5455.48. .159.145. .0.
+TheNoxiousLair	.worldport .1. .-7779.9. .-2691.72. .9.14648. .0.
+TheNoxiusLair	.worldport .1. .-8044.95. .-2525.12. .12.1908. .0.
+TheOpthecarium	.worldport .0. .1457.61. .382.548. .-59.2747. .0.
+TheOracleGlade	.worldport .1. .10661.2. .1875.75. .1323.46. .0.
+ThePark	.worldport .0. .-8755.55. .1094.03. .95.4037. .0.
+ThePillarsOfAsh	.worldport .0. .-8068.39. .-1603.97. .139.572. .0.
+ThePoolsOfVision	.worldport .1. .-1003.42. .261.579. .112.153. .0.
+Theramore Isle City	.worldport .1. .-3729.36. .-4421.41. .30.4474. .0.
+Theramore Isle Lighthouse	.worldport .1. .-3688.18. .-4760.14. .0.909682. .0.
+TheramoreIsle	.worldport .1. .-3615.49. .-4467.34. .24.3141. .0.
+TheramoreIsleCity	.worldport .1. .-3729.36. .-4421.41. .30.4474. .0.
+TheRogueQuarter	.worldport .0. .1456.44. .104.917. .-61.8538. .0.
+TheRottingOrchard	.worldport .0. .-11069.3. .-927.315. .63.502. .0.
+TheRuinsOfLordaeron	.worldport .0. .1801.58. .237.355. .62.7537. .0.
+TheRuinsOfStardust	.worldport .1. .2178.01. .-288.45. .97.3499. .0.
+TheRustmaulDigSite	.worldport .1. .-6495.56. .-3472.69. .-58.7786. .0.
+TheScreechingCanyon	.worldport .1. .-5467.33. .-1633.45. .29.4245. .0.
+TheSepulchen	.worldport .0. .507.784. .1611.33. .124.921. .0.
+TheSewers	.worldport .0. .1652.9. .732.491. .80.3365. .0.
+TheShatteredStrand	.worldport .1. .4260.73. .-6273.64. .90.2289. .0.
+TheShrineOfAessina	.worldport .1. .2681.05. .377.693. .67.8608. .0.
+TheSkitteringDark	.worldport .0. .1293.65. .1957.71. .19.5619. .0.
+TheSliteringScar	.worldport .1. .-7872.52. .-1344.78. .-275.459. .0.
+TheSlitheringScar	.worldport .1. .-7849.33. .-1366.02. .-272.196. .0.
+TheSludgeFen	.worldport .1. .1059.54. .-3003.53. .91.6441. .0.
+TheTalondeepPath	.worldport .1. .1943.14. .-741.766. .113.11. .0.
+TheTempleGardens	.worldport .1. .9935.34. .2506.11. .1317.82. .0.
+TheTempleOfTheMoon	.worldport .1. .9674.56. .2524.82. .1333.9. .0.
+TheThreeCorners	.worldport .0. .-3239.78. .-2461.01. .15.6003. .0.
+TheTradeDistrict	.worldport .0. .-8823.79. .629.658. .93.9781. .0.
+TheUndercroft	.worldport .0. .1718.68. .-3281.46. .89.6587. .0.
+TheValleyOfHonor	.worldport .1. .2002.99. .-4698.97. .24.646. .0.
+TheValleyOfSpirits	.worldport .1. .1550.97. .-4179.4. .40.2954. .0.
+TheValleyOfStrength	.worldport .1. .1719.05. .-3948.28. .49.0563. .0.
+TheValleyOfWisdom	.worldport .1. .1931.81. .-4282.29. .29.0671. .0.
+TheVault	.worldport .0. .-8653.45. .606.19. .91.16. .5.37.
+TheVentureCoMine	.worldport .1. .-1445.53. .-1064.14. .143.596. .0.
+TheVice	.worldport .0. .-10889.8. .-2291.2. .117.131. .0.
+TheViceCorners	.worldport .0. .-10853. .-2087.44. .121.918. .0.
+TheWrithingHaunt	.worldport .0. .1462.13. .-1864.02. .58.7028. .0.
+TheZoramStrand	.worldport .1. .3567.67. .967.583. .2.01467. .0.
+Thoradin's Wall	.worldport .0. .-839.599. .-1590.32. .54.1962. .0.
+ThoradinsWall	.worldport .0. .-798.029. .-1536.26. .54.6497. .0.
+ThoradinsWall	.worldport .0. .-839.599. .-1590.32. .54.1962. .0.
+ThoriumPoint	.worldport .0. .-6492.69. .-1035.33. .346.993. .0.
+ThousandNeedles	.worldport .1. .-4932.53. .-1596.05. .84.8157. .0.
+Three Frozen Ancients	.worldport .1. .6200. .-1035. .387. .0.
+ThreeCorners	.worldport .0. .-3239.78. .-2461.01. .15.6003. .0.
+ThreeFrozenAncients	.worldport .1. .6200. .-1035. .387. .0.
+Thunder Axe Fortress	.worldport .1. .-439.192. .1708.22. .125.856. .0.
+Thunder Ridge	.worldport .1. .925.127. .-4038.29. .-13.338. .0.
+ThunderAxeFortress	.worldport .1. .-439.192. .1708.22. .125.856. .0.
+thunderbluff	.worldport .1. .-1285.42. .176.523. .129.994. .0.
+Thunderbrew	.worldport .0. .-5601.46. .-530.747. .395.483. .0.
+ThunderbrewDistillery	.worldport .0. .-5601.46. .-530.747. .395.483. .0.
+ThunderhornWaterWell	.worldport .1. .-1829.21. .-231.982. .-9.42481. .0.
+ThunderRidge	.worldport .1. .925.127. .-4038.29. .-13.338. .0.
+TimbermawHold	.worldport .1. .6794.4. .-2076.2. .624.165. .0.
+TimbermawPost	.worldport .1. .6485.09. .-3158.42. .570.607. .0.
+TinkerTown	.worldport .0. .-4830.77. .-1271.9. .501.868. .0.
+Tiragarde Keep	.worldport .1. .-250.245. .-5070.41. .22.5875. .0.
+TiragardeKeep	.worldport .1. .-141.195. .-4987.04. .21.7237. .0.
+TirisfalGlades	.worldport .0. .2019.35. .1904.36. .105.144. .0.
+ToDanBaladarPass	.worldport .0. .417.004. .-1015.84. .111.709. .0.
+ToHifal	.worldport .1. .4541.94. .-3983.92. .941.822. .0.
+Top of Blackrock Mountain	.worldport .0. .-7468. .-1082. .896. .0.
+TopOfBlackRockMountain	.worldport .0. .-7468. .-1082. .900. .0.
+Tower of Althalaxx	.worldport .1. .7177.46. .-761.607. .59.6101. .0.
+TowerOfAlgalor	.worldport .0. .-9281.94. .-3332.11. .115.566. .0.
+TowerOfAlthalaxx	.worldport .1. .7177.46. .-761.607. .59.6101. .0.
+TowerOfAzora	.worldport .0. .-9527.48. .-686.064. .62.2502. .0.
+TowerPoint	.worldport .30. .-695.936. .-427.201. .87.9976. .0.
+TradeDistrict	.worldport .0. .-8823.79. .629.658. .93.9781. .0.
+TradesmensTerrace	.worldport .1. .9764.55. .2313.62. .1327.68. .0.
+TranquilGardenCemetery	.worldport .0. .-10993.3. .-1331.19. .52.7805. .0.
+TwilightGrove	.worldport .0. .-10385. .-424.696. .63.534. .0.
+TwilightPost	.worldport .1. .-6750.62. .1593.26. .6.71623. .0.
+TwilightShore	.worldport .1. .4988.97. .547.002. .5.37929. .0.
+TwilightVale	.worldport .1. .4916.99. .328.43. .36.7678. .0.
+Two Giant Sitting Dwarfs	.worldport .0. .-5829.66. .-2585.59. .311.971. .0.
+Tyr's Hand	.worldport .0. .1612.63. .-5524.9. .111.148. .0.
+TyrsHand	.worldport .0. .1683.56. .-5329.52. .73.6664. .0.
+Uldaman	.worldport .70. .-228.193. .46.1602. .-46.0186. .0.
+Undercity	.worldport .0. .1832.44. .236.426. .60.4171. .0.
+Undercity	.worldport .0. .1831.26. .238.53. .60.52. .0.
+Undercity Caves	.worldport .0. .1614.68. .643.289. .37.0547. .0.
+Undercity Magic Quarter	.worldport .0. .1786.82. .47.9279. .-29.1457. .0.
+Undercity Rogue's Quarter	.worldport .0. .1466.11. .49.6445. .-62.2932. .0.
+Undercity The Apothecarium	.worldport .0. .1410.31. .430.512. .-80.3588. .0.
+Undercity Trade Quarter	.worldport .0. .1586.48. .239.562. .-52.149. .0.
+Undercity War Quarter	.worldport .0. .1658.95. .303.76. .-42.6923. .0.
+Undercroft	.worldport .0. .1718.68. .-3281.46. .89.6587. .0.
+Underwater Dark Portal	.worldport .1. .3466.36. .-6656.29. .-58.5217. .0.
+Underwater Developer's Playground	.worldport .1. .-11700.4. .2282.02. .-11.8416. .0.
+Unfinished Mansion	.worldport .0. .2853.92. .-718.217. .148.381. .0.
+Unfinished Temple	.worldport .0. .-11845. .-1199.29. .77.2075. .0.
+UnfinishedHills	.worldport .0. .-13010.2. .-1617.82. .146.263. .0.
+UnfinishedLand	.worldport .0. .2231.97. .2242.84. .99.7369. .0.
+UnfinishedLocation	.worldport .0. .-987.449. .1585.69. .53.4298. .0.
+Ungoro Crater	.worldport .1. .-7434.56. .-1983.21. .-270.149. .0.
+UnGoroCrater	.worldport .1. .-7932.49. .-2139.61. .-230.728. .0.
+Unknown Big Dwarf City	.worldport .0. .-4053.99. .-3450.62. .283.383. .0.
+Unknown City A	.worldport .0. .3653.67. .-3609.77. .137.118. .0.
+Unknown City B	.worldport .1. .-9678.11. .1530.11. .43.025. .0.
+Unknown Dwarf Fortress A	.worldport .0. .-6380.77. .-3139.89. .301.111. .0.
+Unknown Dwarf Fortress B	.worldport .0. .-1266.15. .-1198.95. .40.1765. .0.
+Unknown Mine	.worldport .0. .-870.601. .233.102. .9.93092. .0.
+UnkownCity	.worldport .1. .-9678.11. .1530.11. .43.025. .0.
+Ursolan	.worldport .1. .4219.37. .-5609.95. .118.166. .0.
+Valgan's Field	.worldport .0. .964.877. .1238.75. .48.0979. .0.
+Valley of Heroes	.worldport .0. .-8951.62. .524.373. .96.6275. .0.
+Valley of Spears	.worldport .1. .-1482.87. .2855.86. .112.854. .0.
+Valley of Trials Bindpoint	.worldport .1. .-636.469. .-4243.52. .38.1339. .0.
+ValleyOfHonor	.worldport .1. .2002.99. .-4698.97. .24.646. .0.
+ValleyOfKings	.worldport .0. .-5840.93. .-2577.82. .310.546. .0.
+ValleyofSpears	.worldport .1. .-1270.57. .2849.63. .113.745. .0.
+ValleyOfSpirits	.worldport .1. .1551.21. .-4180.58. .40.3741. .0.
+ValleyOfStrength	.worldport .1. .1719.05. .-3948.28. .49.0563. .0.
+ValleyOfTheWatchers	.worldport .1. .-9418.25. .-2761.61. .19.9639. .0.
+ValleyofTrials	.worldport .1. .-598.204. .-4330.15. .37.6841. .0.
+ValleyOfWisdom	.worldport .1. .1931.81. .-4282.29. .29.0671. .0.
+ValorsRest	.worldport .1. .-6379.74. .-304.357. .-1.86658. .0.
+Vault	.worldport .0. .-8653.45. .606.19. .91.16. .5.37.
+VentureCoBaseCamp	.worldport .0. .-12026.1. .-524.549. .10.8818. .0.
+VentureCoMine	.worldport .1. .-1445.53. .-1064.14. .143.596. .0.
+VileReef	.worldport .0. .-12133.7. .938.409. .2.74307. .0.
+Village	.worldport .0. .2016.11. .-4486.36. .73.6226. .0.
+WailingCaverns	.worldport .1. .-746.207. .-2213.18. .14.8909. .0.
+WallingCaverns	.worldport .43. .-164.996. .135.503. .-73.2155. .0.
+WarQuarters	.worldport .0. .1775.76. .418.224. .-58.0309. .0.
+WarriorsTerrace	.worldport .1. .9951.55. .2279.6. .1341.39. .0.
+WarsongLumberCamp	.worldport .1. .2690.32. .-3452.45. .113.582. .0.
+WarsonGulch	.worldport .48. .-152.984. .106.33. .-40.0953. .0.
+WeazelsCrater	.worldport .1. .-5878.11. .-3864.68. .-61.0863. .0.
+WebwinderPath	.worldport .1. .591.836. .327.223. .46.658. .0.
+Weird Flowers	.worldport .0. .-3256.88. .-2718.36. .9.41205. .0.
+Welgars ExcavationSite	.worldport .0. .-3522.96. .-1848.58. .25.1502. .0.
+WellspringLake	.worldport .1. .10376.8. .1625.69. .1288.91. .0.
+WestbrookGarrison	.worldport .0. .-9646.46. .679.589. .37.4136. .0.
+Western Strand	.worldport .0. .-1019.67. .-359.442. .5.13463. .0.
+Westfall	.worldport .0. .-10645.9. .1179.06. .48.1781. .0.
+Westfall Lighthouse	.worldport .0. .-11399.2. .1947.85. .10.1451. .0.
+Wetlands	.worldport .0. .-4086.36. .-2610.95. .46.0143. .0.
+Whelgar's Excavation Site	.worldport .0. .-3522.96. .-1848.58. .25.1502. .0.
+Whispering Gardens	.worldport .0. .2795.02. .-753.797. .138.036. .0.
+Whispering Shore	.worldport .0. .2538.92. .1407.01. .5.69061. .0.
+WhisperingGardens	.worldport .0. .2795.02. .-753.797. .138.036. .0.
+WildhammerKeep	.worldport .0. .357.22. .-2106.09. .121.839. .0.
+Wildmane Water Well	.worldport .1. .-758.744. .-149.474. .-27.712. .0.
+WildmaneWaterWell	.worldport .1. .-758.744. .-149.474. .-27.712. .0.
+WildpawRidge	.worldport .30. .-419.025. .-532.699. .84.0135. .0.
+WildShore	.worldport .0. .-14692.4. .506.162. .1.78241. .0.
+Windshear Crag	.worldport .1. .1160.25. .51.3229. .1.072. .0.
+WinteraxHold	.worldport .30. .-149.652. .26.6353. .77.0384. .0.
+WinterSpring	.worldport .1. .6107.62. .-4181.6. .852.322. .0.
+Winterspring Ice World	.worldport .1. .7503.31. .-4388.79. .725.559. .0.
+Witherbark Village	.worldport .0. .-1763.41. .-3371.67. .40.609. .0.
+WitherbarkVillage	.worldport .0. .-1763.41. .-3371.67. .40.609. .0.
+World Tree	.worldport .1. .5622.56. .-3378.82. .1584.45. .0.
+Wreck from Battle	.worldport .0. .-4939.1. .-3423.74. .305.595. .0.
+WrithingHaunt	.worldport .0. .1462.13. .-1864.02. .58.7028. .0.
+Wyrmbog	.worldport .1. .-4682.97. .-3607.63. .58.45. .0.
+Xavian	.worldport .1. .2867.03. .-2595.67. .219.911. .0.
+Xavian	.worldport .1. .2926.99. .-2817.98. .211.872. .0.
+YorgenFarmstead	.worldport .0. .-11105.4. .-500.791. .32.8518. .0.
+Zepellins	.worldport .1. .-4006.19. .-3777.83. .40.6804. .0.
+ZiataJaiRuins	.worldport .0. .-12697.1. .-462.157. .29.9788. .0.
+Ziggaraut	.worldport .0. .2433.31. .-3782.06. .185.472. .0.
+Ziggaraut in Mushroom Field	.worldport .0. .2823.83. .-3727.76. .124.971. .0.
+Zoram's Stand	.worldport .1. .3652.24. .928.308. .7.01517. .0.
+ZoramsStand	.worldport .1. .3652.24. .928.308. .7.01517. .0.
+ZoramStrand	.worldport .1. .3567.67. .967.583. .2.01467. .0.
+ZulFarrak	.worldport .209. .1221.82. .840.746. .8.97647. .0.
+ZulGurub	.worldport .309. .-11942.6. .-1544.28. .39.5945. .0.
+ZulGurubVillage	.worldport .0. .-12332.5. .-1859.81. .130.321. .0.
+ZulMashar	.worldport .0. .3386.86. .-4931.45. .161.093. .0.
+Zun'Watha	.worldport .0. .-35.7245. .-2479.51. .120.423. .0.
+ZunWatha	.worldport .0. .-35.7245. .-2479.51. .120.423. .0.
+Zuuldaia Ruins	.worldport .0. .-11683.1. .925.209. .3.64735. .0.

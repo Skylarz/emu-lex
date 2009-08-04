@@ -1,0 +1,114 @@
+34	Alter Henkelkrug
+36	Zerbrochenes Fass
+76	Ein leerer Krug
+249	Kiste voll Essen
+257	Verdächtiges Fass
+259	Halb vergrabenes Fass
+269	Bewachtes Fass mit Thunderbrew-Bier
+270	Unbewachtes Fass mit Thunderbrew-Bier
+1165	Gunthers Bücher
+1166	Alexstons Truhe
+1557	Lilliths Esstisch
+1558	Kerze der Anrufung
+1571	Staubige Zauberbücher
+1587	Truthahn-Bein
+1594	Bücherregal
+1727	Fässchen Shindigger-Starkbier
+1728	Staubiger Teppich
+1729	Besudeltes Fässchen
+1738	Syndikat-Dokumente
+1739	Syndikat-Dokumente
+1740	Syndikat-Dokumente
+1759	Hillsbrad Stadtverzeichnis
+1760	Verwitterter Bücherschrank
+1761	Hillsbrad Proklamation/Schriftrolle
+2068	Pupellyverbos-Portwein
+2083	Blutsegel-Korrespondenz/Schriftrolle
+2332	Schenkel
+2333	Stranglevine Wine
+2371	Kopfjägerschädel
+2413	Wooden Chair
+2489	Stuhl
+2551	Gekochter Schädel
+2553	Eine schmierige Schriftrolle
+2554	Cortellos Rätsel
+2555	Schimmlige Schriftrolle
+2562	Baked Bread
+2687	Flasche
+2695	Buch
+2707	Karten der MAIDENS FOLLY
+2708	Karten der SPIRIT OF SILVERPINE
+2709	Logbuch der Maidens Folly
+2710	Logbuch der Spirit of Silverpine
+2724	Sack Hafer
+2743	Aus Stein gehauene Urne
+3769	Dicker Ofen
+3771	Dicker Ofen
+4166	Alchimie-Gerätschaften
+4141	Steuerkonsole
+10076	Wahrsageschale
+12666	Twilight-Foliant
+3076	Schmutzbefleckte Karte
+3189	Angriffsplan: Tal der Prüfungen
+3190	Angriffsplan: Sen'jin
+3192	Angriffsplan: Orgrimmar
+3236	Gnomen-Werkzeugkasten
+3238	Chens leeres Fässchen
+3290	Gestohlener Vorratssack
+3315	Siedender Kessel
+3658	Wasserfass
+3659	Fass Melonensaft
+22248	Händlerstuhl
+22249	Schreibtischstuhl
+22253	Hochstuhl
+22257	Kriegsraumstuhl
+22590	Hoher Lehnstuhl
+22706	Faustins Alchemie-Set
+22737	Hoher Lehnstuhl
+24388	Steinbank
+24390	Hoher Lehnstuhl
+24392	Steinbank
+24538	Holzbank
+89635	Sonnenverbrannte Schale
+92425	Dampfendes Gebräu
+92426	Eingelegter Schlamm
+92427	Rauchfleischständer
+97701	Fackel
+97801	Vornehmer Stuhl
+104564	Bingles' Werkzeugeimer
+104569	Bingles' Werkzeugeimer
+104574	Bingles' Werkzeugeimer
+104575	Bingles Sprengstoffstube
+105169	Agamand-Waffenregal
+105170	Agamand-Waffenregal
+105171	Agamand-Waffenregal
+105172	Agamand-Waffenregal
+112068	Holzstuhl
+112192	Stuhl
+112214	Stuhl
+112877	Talvashs Wahrsagebecken
+112888	Staubiges Regal
+142702	Giftstoff-Flasche
+142703	Giftstoff-Flasche
+142704	Giftstoff-Flasche
+142705	Giftstoff-Flasche
+142706	Giftstoff-Flasche
+142707	Giftstoff-Flasche
+142708	Giftstoff-Flasche
+142709	Giftstoff-Flasche
+142710	Giftstoff-Flasche
+142711	Giftstoff-Flasche
+142712	Giftstoff-Flasche
+142713	Giftstoff-Flasche
+142714	Giftstoff-Flasche
+24568	Hoher Lehnstuhl
+24613	Steinbank
+24635	Holzstuhl
+50935	Sack Mais
+50936	Sack Gerste
+50937	Sack Roggen
+19548	Auge von Azora
+19549	Banane
+19550	Apfel
+19551	Melone
+19552	Orange

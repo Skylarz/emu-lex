@@ -1,0 +1,42 @@
+Morgen Community, ich hab mir mal überlegt wie man Gildenhäuser oder Spielerhäuser machen kann ohne dafür Hackpatches zu brauchen oder sowas.
+
+Das ist nun eine sehr simple Version, aber immerhin besser als nichts. Und zwar gibt es ja schon sehr viele Häuser in WoW, diese kann man auch besuchen wenn sie leer sind, z.B. so.
+
+Haus im Arathibecken
+
+*Das Arathibecken gibt es natürlich nicht nur als "Instanz", sondern auch richtig auf der Welt.
+*Dort stehen die Häuser natürlich leer, Trollbanns Halle, samt "Vorgarten" könnte man so natürlich nutzen.
+*Einfach ein Tor rein, da wo normalerweise das richtige Tor ist und schon kann keiner mehr aus dem Zaun raus.
+*Einen Teleporter der zu diesem Ort portet, vielleicht mit einem benötigten Gegenstand, wovon der Gildenmeister dann bei Kauf- / Mietvertrag 100 Stück kriegt. (Ein Art Schlüssel)
+*Dann braucht ihr das Haus nur noch einrichten und das wars.
+
+.go 1297,4 1294 -11 529
+
+Ehrenfest
+
+*Ehrenfeste ganz leer gibts auch.
+*Und zwar in einer Instanz, einfach im Bollwerk.
+*Einfach dieselben Schritte wie oben. Notfalls, die Häuser verschließen.
+*Dort gibts: Einen Turm, eine Festung und ein Gasthaus.
+
+.go -1709,99 1234 95 543
+
+Thrallmar
+
+*Wenn es Ehrenfeste gibt, gibt es natürlich auch Thrallmar
+*Es ist genau das gleiche wie bei Ehrenfeste
+*Dort gibts: Eine große Halle (Alteractal dort wo Drek'tar drin ist), einen Turm und ein Gasthaus.
+
+.go -808 1224 88.9 543
+
+Burg Schattenfang
+
+*Das ist mein Favorit, denn es ist quasi schon eine ganze Stadt, ohne das man sonderlich was machen muss.
+*Dieses Dorf befindet sich in der Instanz Burg Schattenfang.
+*Es ist automatisch umzäunt und man kommt nur durch eine Öffnung raus die sich leicht verschließen lässt.
+*Es gibt mehrere Häuser, Brunnen und ein Rathhaus.
+
+.go -385 2098 17.8 33
+
+
+Wenn man es geschickt anstellt merken die Spieler vielleicht nichtmal das die Häuser alle soweit außereinander sind. Man erstellt einen Platz wo es Portale dorthin gibt und von dort kommen die Spieler dann zu ihren Häusern.

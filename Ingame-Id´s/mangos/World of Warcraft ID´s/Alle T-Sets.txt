@@ -1,0 +1,110 @@
+mit .additemset  <id> einfügen!
+---------------------------
+-KRIEGER-
+
+Tier 1: 209
+Tier 2: 218
+Tier 3: 523
+Tier 4(1): 654
+Tier 4(2): 655
+Tier 5(1): 656
+Tier 5(2): 657
+Tier 6(1): 672
+Tier 6(2): 673
+
+-PALADIN-
+
+Tier 1: 208
+Tier 2: 217
+Tier 3: 528
+Tier 4(1): 624
+Tier 4(2): 625
+Tier 4(3): 626
+Tier 5(1): 627
+Tier 5(2): 628
+Tier 5(3): 629
+Tier 6(1): 627
+Tier 6(2): 680
+Tier 6(3): 681
+
+-JÄGER-
+
+Tier 1: 206
+Tier 2: 215
+Tier 3: 530
+Tier 4: 651
+Tier 5: 652
+Tier 6: 669
+
+-SCHURKE-
+
+Tier 1: 204
+Tier 2: 213
+Tier 3: 524
+Tier 4: 621
+Tier 5: 622
+Tier 6: 668
+
+-PRIESTER-
+
+Tier 1: 202
+Tier 2: 211
+Tier 3: 525
+Tier 4(1): 663
+Tier 4(2): 664
+Tier 5(1): 665
+Tier 5(2): 666
+Tier 6(1): 674
+Tier 6(2): 675
+
+-SCHAMANE-
+
+Tier 1: 207
+Tier 2: 216
+Tier 3: 527
+Tier 4(1): 631
+Tier 4(2): 632
+Tier 4(3): 633
+Tier 5(1): 634
+Tier 5(2): 635
+Tier 5(3): 636
+Tier 6(1): 682
+Tier 6(2): 683
+Tier 6(3): 684
+
+-MAGIER-
+
+Tier 1: 201
+Tier 2: 210
+Tier 3: 526
+Tier 4: 648
+Tier 5: 649
+Tier 6: 671
+
+-HEXENMEISTER-
+
+Tier 1: 203
+Tier 2: 212
+Tier 3: 529
+Tier 4: 645
+Tier 5: 646
+Tier 6: 670
+
+-DRUIDE-
+
+Tier 1: 205
+Tier 2: 214
+Tier 3: 521
+Tier 4(1): 638
+Tier 4(2): 639
+Tier 4(3): 640
+Tier 5(1): 641
+Tier 5(2): 642
+Tier 5(3): 643
+Tier 6(1): 676
+Tier 6(2): 677
+Tier 6(3): 678
+
+Hoffe es hat euch geholfen Augenzwinkern
+
+PS: Manche t4sets gehen net! 

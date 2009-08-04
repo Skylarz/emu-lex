@@ -1,0 +1,228 @@
+Hallo, ich möchte euch hier meine Makros für die Flugmounts Posten! Ihr könnt sie überall fliegen in Azeroth/Kalimdor in der Scherbenwelt, einfach überall! Egal ob ihr Allianz oder Horde seit alles könnt ihr erreichen und fliegen smile
+
+Achtung! Folgende Commands sind nur für Mangos und das Acc/GM Level 3 bestimmt!
+
+|=========Allianz Flugmounts=========|
+
+Goldener Greif!
+/target <Charaktername>
+.speed 2
+.reload3
+.reload 147 17693
+[color=orange].reload2 100
+[color=orange]
+
+Schwarzer Greif!
+/target <Charaktername>
+.speed 2
+.reload3
+.reload 147 17694
+.reload2 100
+
+
+Weißer Greif!
+/target <Charaktername>
+.speed 2
+.reload3
+.reload 147 17696
+.reload2 100
+
+
+Schneller Grüner Greif!
+/target <Charaktername>
+.speed 2
+.reload3
+.reload 147 17703
+.reload2 100
+
+
+Schneller Lila Greif!
+/target <Charaktername>
+.speed 2
+.reload3
+.reload 147 17717
+.reload2 100
+
+
+Schneller Roter Greif
+/target <Charaktername>
+.speed 2
+.reload3
+.reload 147 17718
+.reload2 100
+
+
+Schneller Blauer Greif!
+/target <Charaktername>
+.speed 2
+.reload3
+.reload 147 17759
+.reload2 100
+
+
+|=========Horde Flugmounts=========|
+
+Normaler Wyvern!
+/target <Charaktername>
+.speed 2
+.reload3
+.reload 147 17699
+.reload2 100
+
+
+Blauer Wyvern!
+/target <Charaktername>
+.speed 2
+.reload3
+.reload 147 17700
+.reload2 100
+
+
+Lila Wyvern!
+/target <Charaktername>
+.speed 2
+.reload3
+.reload 147 17701
+.reload2 100
+
+
+Schneller Roter Wyvern!
+/target <Charaktername>
+.speed 2
+.reload3
+.reload 147 17719
+.reload2 100
+
+
+Schneller Grüner Wyvern!
+/target <Charaktername>
+.speed 2
+.reload3
+.reload 147 17720
+.reload2 100
+
+
+Schneller Lila Wyvern!
+/target <Charaktername>
+.speed 2
+.reload3
+.reload 147 17721
+.reload2 100
+
+
+Schneller Gelber Wyvern!
+/target <Charaktername>
+.speed 2
+.reload3
+.reload 147 17722
+.reload2 100
+
+|=========Special Flugmounts=========|
+
+Phönix-Flugmount!
+/target <Charaktername>
+.speed 2
+.reload3
+.reload 147 17890
+.reload2 100
+
+
+Netherdrache!
+/target <Charaktername>
+.speed 2
+.reload3
+.reload 147 16314
+.reload2 100
+
+
+Lila Netherdrache!
+/target <Charaktername>
+.speed 2
+.reload3
+.reload 147 17772
+.reload2 100
+
+
+Lila Netherdrache2!
+/target <Charaktername>
+.speed 2
+.reload3
+.reload 147 17888
+.reload2 100
+
+
+Blauer Netherdrache!
+/target <Charaktername>
+.speed 2
+.reload3
+.reload 147 19891
+.reload2 100
+
+
+Elite Netherdrache!
+/target <Charaktername>
+.speed 2
+.reload3
+.reload 147 20344
+.reload2 100
+
+
+Rosa Netherrochen!
+/target <Charaktername>
+.speed 2
+.reload3
+.reload 147 19400
+.reload2 100
+
+
+Blauer Netherrochen!
+/target <Charaktername>
+.speed 2
+.reload3
+.reload 147 19404
+.reload2 100
+
+
+Gelbäugiger Netherrochen!
+/target <Charaktername>
+.speed 2
+.reload3
+.reload 147 19405
+.reload2 100
+
+
+Roter Netherrochen!
+/target <Charaktername>
+.speed 2
+.reload3
+.reload 147 19406
+.reload2 100
+
+
+Weißer Netherrochen!
+/target <Charaktername>
+.speed 2
+.reload3
+.reload 147 19407
+.reload2 100
+
+
+|==============================|
+
+Abstieg!
+/target <Charaktername>
+.speed 1
+.reload4
+
+
+|==============================|
+
+Viel Spass Wünscht!
+
+Sadak/Nurax
+
+
+Bei Verbesserungen bitte Schreiben ich werde es dann Verbessern!
+---------------------------------------------------------------------------
+-----------------
+- Netherrochen wurden Hinzugefügt!

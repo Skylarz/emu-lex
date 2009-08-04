@@ -1,0 +1,277 @@
+| commands | 1 | Shows Commands |
+| help | 1 | Shows help for command |
+| announce | u | Sends Msg To All |
+| wannounce | u | Sends Widescreen Msg To All |
+| appear | v | Teleports to x's position. |
+| summon | v | Summons x to your position |
+| banchar | b | Bans character x with or without reason |
+| unbanchar | b | Unbans character x |
+| banreason | b | Shows the reason for ban |
+| kick | b | Kicks player from server |
+| kill | r | .kill - Kills selected unit. |
+| revive | r | Revives you. |
+| reviveplr | r | Revives player specified. |
+| morph | m | Morphs into model id x. |
+| demorph | m | Demorphs from morphed model. |
+| mount | m | Mounts into modelid x. |
+| dismount | 1 | Dismounts. |
+| gm | p | Shows active GM's |
+| gmoff | t | Sets GM tag off |
+| gmon | t | Sets GM tag on |
+| gps | p | Shows Position |
+| info | p | Server info |
+| worldport | v | No description. |
+| save | s | Save's your character |
+| saveall | s | Save's all playing characters |
+| security | z | No description. |
+| start | m | Teleport's you to a starting location |
+| levelup | m | No description. |
+| additem | m | No description. |
+| createguild | l | No description. |
+| invincible | j | .invincible - Toggles INVINCIBILITY (mobs won't attack you) |
+| invisible | i | .invisible - Toggles INVINCIBILITY and INVISIBILITY (mobs won't attack you and nobody can see you, but they can see your chat messages) |
+| resetreputation | n | .resetreputation - Resets reputation to start levels. (use on characters that were made before reputation fixes.) |
+| resetlevel | n | .resetlevel - Resets all stats to level 1 of targeted player. DANGEROUS. |
+| resetspells | n | .resetspells - Resets all spells to starting spells of targeted player. DANGEROUS. |
+| resettalents | n | .resettalents - Resets all talents of targeted player to that of their current level. DANGEROUS. |
+| resetskills | n | .resetskills - Resets all skills. |
+| learn | m | Learns spell |
+| unlearn | m | Unlearns spell |
+| learnskill | m | .learnskill <skillid> (optional) <value> <maxvalue> - Learns skill id skillid. |
+| advanceskill | m | advanceskill <skillid> <amount, optional, default = 1> - Advances skill line x times.. |
+| removeskill | m | .removeskill <skillid> - Removes skill |
+| increaseweaponskill | m | .increaseweaponskill <count> - Increase eqipped weapon skill x times (defaults to 1). |
+| createaccount | z | .createaccount - Creates account. Format should be .createaccount username password email |
+| playerinfo | z | .playerinfo - Displays informations about the selected character (account...) |
+| uptime | 1 | Shows server uptime |
+| getpos | d | No description. |
+| removeauras | m | Removes all auras from target |
+| paralyze | b | Roots/Paralyzes the target. |
+| unparalyze | b | Unroots/Unparalyzes the target. |
+| setmotd | m | Sets MOTD |
+| additemset | m | Adds item set to inv. |
+| gotrig | v | Warps to areatrigger <id> |
+| createinstance | m | Creates instance on map <map> |
+| goinstance | m | Joins instance <instance> <x> <y> <z> <optional mapid> |
+| exitinstance | m | Exits current instance, return to entry point. |
+| dbreload | m | Reloads some of the database tables |
+| spawnspiritguide | m | Spawns a spirit guide (params: 1 = horde, 0 = alliance |
+| servershutdown | z | Initiates server shutdown in <x> seconds. |
+| serverrestart | z | Initiates server restart in <x> seconds. |
+| allowwhispers | c | Allows whispers from player <s> while in gmon mode. |
+| blockwhispers | c | Blocks whispers from player <s> while in gmon mode. |
+| advanceallskills | m | Advances all skills <x> points. |
+| killbyplayer | f | Disconnects the player with name <s>. |
+| killbyaccount | f | Disconnects the session with account name <s>. |
+| unlockmovement | m | Unlocks movement for player. |
+| castall | z | Makes all players online cast spell <x>. |
+| getrate | f | Gets rate <x>. |
+| setrate | f | Sets rate <x>. |
+| modperiod | m | Changes period of current transporter. |
+| npcfollow | m | Sets npc to follow you |
+| nullfollow | m | Sets npc to not follow anything |
+| formationlink1 | m | Sets formation master. |
+| formationlink2 | m | Sets formation slave with distance and angle |
+| formationclear | m | Removes formation from creature |
+
+---------------------------------------------------------------------------
+-------------------------
+modify
+---------------------------------------------------------------------------
+-------------------------
+| hp | m | Health Points/HP |
+| mana | m | Mana Points/MP |
+| rage | m | Rage Points |
+| energy | m | Energy Points |
+| level | m | Level |
+| armor | m | Armor |
+| holy | m | Holy Resistance |
+| fire | m | Fire Resistance |
+| nature | m | Nature Resistance |
+| frost | m | Frost Resistance |
+| shadow | m | Shadow Resistance |
+| arcane | m | Arcane Resistance |
+| damage | m | Unit Damage Min/Max |
+| scale | m | Size/Scale |
+| gold | m | Gold/Money/Copper |
+| speed | m | Movement Speed |
+| nativedisplayid | m | Native Display ID |
+| displayid | m | Display ID |
+| flags | m | Unit Flags |
+| faction | m | Faction Template |
+| dynamicflags | m | Dynamic Flags |
+| talentpoints | m | Talent Points |
+| loyalty | m | Loyalty |
+| spirit | m | Spirit |
+| boundingraidus | m | Bounding Radius |
+| combatreach | m | Combat Reach |
+| emotestate | m | NPC Emote State |
+
+---------------------------------------------------------------------------
+-------------------------
+debug
+---------------------------------------------------------------------------
+-------------------------
+| infront | d | No description. |
+| showreact | d | No description. |
+| aimove | d | No description. |
+| dist | d | No description. |
+| face | d | No description. |
+| moveinfo | d | No description. |
+| setbytes | d | No description. |
+| getbytes | d | No description. |
+| unroot | d | No description. |
+| root | d | No description. |
+| landwalk | d | No description. |
+| waterwalk | d | No description. |
+| castspell | d | .castspell <spellid> - Casts spell on target. |
+| castspellne | d | .castspellne <spellid> - Casts spell on target (only plays animations, doesnt handle effects or range/facing/etc. |
+| celldelete | d | !USE WITH CAUTION! '.celldelete YES' - Removes everything in current cell from game and database. '.celldelete YES YES' removes everything in a range of 1cell. |
+| addrestxp | d | .addrestxp - Adds x rest XP to player. |
+| generatename | d | .generatename - Generates name for pet, etc. |
+| attackerinfo | d | .attackerinfo - Shows selected mob/player's attacker's infomation. |
+| showattackers | d | .showattackers - Shows selected mob/player's attacker on the minimap. |
+| aggrorange | d | .aggrorange - Shows aggro Range of the selected Creature. |
+| knockback | d | .knockback <value> - Knocks you back. |
+| fade | d | .fade <value> - calls ModThreatModifyer(). |
+| threatMod | d | .threatMod <value> - calls ModGeneratedThreatModifyer(). |
+| calcThreat | d | .calcThreat <dmg> <spellId> - calculates threat. |
+| threatList | d | .threatList - returns all AI_Targets of the selected Creature. |
+| gettptime | d | grabs transporter travel time |
+| itempushresult | d | sends item push result |
+| weather | d | No description. |
+| setbit | d | No description. |
+| setvalue | d | No description. |
+
+---------------------------------------------------------------------------
+-------------------------
+waypoint
+---------------------------------------------------------------------------
+-------------------------
+| add | w | Add wp at current pos |
+| show | w | Show wp's for creature |
+| hide | w | Hide wp's for creature |
+| delete | w | Delete selected wp |
+| movehere | w | Move to this wp |
+| flags | w | Wp flags |
+| waittime | w | Wait time at this wp |
+| emote | w | Emote at this wp |
+| skin | w | Skin at this wp |
+| change | w | Change at this wp |
+| info | w | Show info for wp |
+| movetype | w | Movement type at wp |
+
+---------------------------------------------------------------------------
+-------------------------
+gameobject
+---------------------------------------------------------------------------
+-------------------------
+| select | o | Selects the nearest GameObject to you |
+| delete | o | Deletes selected GameObject |
+| spawn | o | Spawns a GameObject by ID |
+| info | o | Gives you informations about selected GO |
+| activate | o | Activates/Opens the selected GO. |
+| enable | o | Enables the selected GO for use. |
+| scale | o | Sets scale of selected GO |
+| animprogress | o | Sets anim progress |
+| export | o | Exports the current GO selected |
+
+---------------------------------------------------------------------------
+-------------------------
+battleground
+---------------------------------------------------------------------------
+-------------------------
+| setbgscore | e | <Teamid> <Score> - Sets battleground score. 2 Arguments. |
+| startbg | e | Starts current battleground match. |
+| pausebg | e | Pauses current battleground match. |
+| bginfo | e | Displays information about current battleground. |
+| battleground | e | Shows BG Menu |
+| setworldstate | e | <var> <val> - Var can be in hex. WS Value. |
+| playsound | e | <val>. Val can be in hex. |
+| setbfstatus | e | .setbfstatus - NYI. |
+| leave | e | Leaves the current battleground. |
+
+---------------------------------------------------------------------------
+-------------------------
+npc
+---------------------------------------------------------------------------
+-------------------------
+| vendoradditem | n | Adds to vendor |
+| vendorremoveitem | n | Removes from vendor. |
+| name | n | Changes creature name |
+| subname | n | Changes creature subname |
+| flags | n | Changes NPC flags |
+| emote | n | .emote - Sets emote state |
+| run | n | No description. |
+| addweapon | n | No description. |
+| allowmove | n | No description. |
+| addgrave | n | No description. |
+| addsh | n | No description. |
+| addspirit | n | No description. |
+| spawn | n | <entry> <flags> <faction> <level> <name> |
+| spawnentry | n | <entry> |
+| delete | n | Deletes mob from db and world. |
+| info | n | Displays NPC information |
+| guid | n | Shows selected object guid |
+| addAgent | n | .npc addAgent <agent> <procEvent> <procChance> <procCount> <spellId> <spellType> <spelltargetType> <spellCooldown> <floatMisc1> <Misc2> |
+| delAgent | n | .npc delAgent <procEvent> <spellId> |
+| listAgent | n | .npc listAgent |
+| reset | n | resets npc health/dmg from temp table. |
+| export | n | Exports the npc to a sql file |
+| say | n | .npc say <text> - Makes selected mob say text <text>. |
+| yell | n | .npc yell <Text> - Makes selected mob yell text <text>. |
+| come | n | .npc come - Makes npc move to your position |
+| return | n | .npc return - Returns ncp to spawnpoint. |
+
+---------------------------------------------------------------------------
+-------------------------
+cheat
+---------------------------------------------------------------------------
+-------------------------
+| status | m | Shows active cheats. |
+| taxi | m | Enables all taxi nodes. |
+| cooldown | m | Enables no cooldown cheat. |
+| casttime | m | Enables no cast time cheat. |
+| power | m | Disables mana consumption etc. |
+| god | m | Sets god mode, prevents you from taking damage. |
+| fly | m | Sets fly mode |
+| land | m | Unsets fly mode |
+| explore | m | Reveals the unexplored parts of the map. |
+| flyspeed | m | Modifies fly speed. |
+| stack | m | Enables aura stacking cheat. |
+
+---------------------------------------------------------------------------
+-------------------------
+honor
+---------------------------------------------------------------------------
+-------------------------
+| getpvprank | m | Gets PVP Rank |
+| setpvprank | m | Sets PVP Rank |
+| addpoints | m | Adds x amount of honor points/currency |
+| addkills | m | Adds x amount of honor kills |
+| globaldailyupdate | m | Daily honor field moves |
+| singledailyupdate | m | Daily honor field moves for selected player only |
+| pvpcredit | m | Sends PVP credit packet, with specified rank and points |
+
+---------------------------------------------------------------------------
+-------------------------
+pet
+---------------------------------------------------------------------------
+-------------------------
+| createpet | m | Creates a pet with <entry>. |
+| renamepet | m | Renames a pet to <name>. |
+| enablerename | m | Enables pet rename. |
+| addspell | m | Teaches pet <spell>. |
+| removespell | m | Removes pet spell <spell>. |
+
+---------------------------------------------------------------------------
+-------------------------
+recall
+---------------------------------------------------------------------------
+-------------------------
+| list | q | List recall locations |
+| port | q | Port to recalled location |
+| add | q | Add recall location |
+| del | q | Remove a recall location |
+
+gefunden auf ps hp 

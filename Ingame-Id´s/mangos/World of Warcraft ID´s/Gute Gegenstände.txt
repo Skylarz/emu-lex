@@ -1,0 +1,127 @@
+179694 <-- gezakter Holz zaun
+179553 <-- Holz Pfahl
+180035 <-- Zaun
+
+179880 <-- Leuchtstein
+177193 <-- Stein mit rotem Licht
+177243 <-- Demonen Portal
+19587  <-- Gitiger Nebel
+142179 <-- Riesiger Stein Paviliong
+141859 <-- Schwebender Kristall
+
+31     <-- Löwen Statur
+177673 <-- Schlangen Statur
+
+2576   <-- Altar aus Stein
+170353 <-- Zwergen Hologram
+170555 <-- Wasserrad
+170556 <-- Tor
+2871   <-- Steintisch Nachtelfen mit kugel
+157923 <-- Riesige Tore,echt gigantisch aber cool
+164838 <-- Roter mittelgroßer Kristall ( leuchtend )
+164927 <-- Gelber kleiner Kristall ( leuchtend )
+164957 <-- Pylon
+2711   <-- Nachtelfen Stein
+148503 <-- Lavasäule
+106528 <-- Großes Glühwürmchen
+19538  <-- Kleines Glühwürmchen
+16394  <-- Grüne Flame
+19544  <-- Weisser Rauch
+5622   <-- Rosa Aura
+6751   <-- Baum ( Quest )
+6752   <-- Baum ( Quest )
+7923   <-- Pferde Tränke
+179778 <-- Stuhl
+12144  <-- Buch ( Stopper )
+12665  <-- Feuerstelle Tisch
+13891  <-- Schlangenflaum Blume
+13952  <-- Rene die Vogelscheuche
+17190  <-- Ofen ( Schmiede )
+18077  <-- Regal ( Rauchständer )
+19547  <-- Venture Co. Explodirender Wagon
+177237 <-- Gewölbe Tor
+101851 <-- Tor 1
+7146   <-- Schlüssel 1
+150137 <-- Tor 2
+5396   <-- Schlüssel 2
+180038 <-- Heuballen ( Würfel )
+
+180006 <-- Klo
+179917 <-- Holzhaufentür die zerfällt ( Grob )
+179916 <-- Holzhaufentür die zerfällt ( Fein )
+179910 <-- Picknic Korb
+179908 <-- Werkzeug Koffer
+179880 <-- Leuchtstein (quest)
+179879 <-- Befehlts Leuchtkugel
+179871 <-- Leuchtende Kiste mit Stiefel ( Super Beschleuniger )
+179784 <-- Art Säule
+179782 <-- Reagenz Gläser
+179781 <-- Bank
+178645 <-- Lichterkette
+24622  <-- kleine SteinBank ohne Rückenlehne
+179755 <-- Kleine Pfanne mit Glut
+179724 <-- Großes gartentor
+179708 <-- hellseher Kugel
+179699 <-- Aufgehengter halber mann
+179696 <-- Aufgehengter ganzer mann
+179674 <-- glocke
+179673 <-- fliegende Kerze
+179561 <-- Schwert Klinge
+179553 <-- holtz Pfahl
+179552 <-- Bauplan
+179551 <-- Stein Sarg oben Deckel
+179544 <-- Skelett
+179511 <-- Fuß Fessel
+180025 <-- Heu haufen
+178647 <-- Untoter Weinachtsbaum
+178609 <-- Schneehaufen
+178570 <-- Verderbnis-Spucker
+178569 <-- Sporen Baum
+178560 <-- Stein der sich dreht
+178559 <-- Larven spucker
+178465 <-- Boden zeichen
+178146 <-- Gnom Schredder
+177746 <-- Wetter Station
+177724 <-- Tisch in Groß
+177524 <-- Blubbernder Felsspalt
+178304 <-- Kasten der springt
+177223 <-- Käfer Gong
+180698 <-- Party Tisch klein
+186422 <-- Kleiner runder Tisch
+184434 <-- Leuchtender Tisch
+
+2562   <-- Brot
+
+180006 <-- Toilette
+
+176210 <-- Kleines Komandozelt
+180031 <-- Großes Zelt
+180032 <-- Souvenirs Zelt
+180034 <-- Kleines Nachtelfen Zelt
+180039 <-- Kleines Nachtelfen Zelt
+180030 <-- Kleines Nachtelfen Zelt
+180042 <-- Verkaufsstand
+183355 <-- Kochstelle Verkauf Offen
+210286 <-- Pavillion
+211022 <-- Großes Normaden Zelt
+181254 <-- Kleines Normaden Zelt
+186681 <-- Braufest EssZelt
+186682 <-- Braufest Bierzelt
+
+2870   <-- Gelbe Aura
+
+4171   <-- Fahrstuhl hoch
+4170   <-- Fahrstuhl runter
+
+250250 <-- Levelarena
+99001  <-- Teleport NPC
+91205  <-- Wache Dranai
+91206  <-- wache Nachtelf oder so
+91207  <-- Lehrer der Portation
+200000 <-- Ratte mit Quest
+17631  <-- Bankier 
+187334 <-- Gildenbank
+8719   <-- Auktionator
+444300 <-- Levelarena Ticket 
+
+

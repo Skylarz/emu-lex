@@ -1,0 +1,54 @@
+####################################################
+#          Weihnachts ID Liste by Gizmo            #
+#            http://red-dragon-wow.com             #
+# Red Dragon© 2007 by Gizmo™. All Rights reserved. # 
+####################################################
+
+
+
+----weinachs sachen-----
+
+Eisblock                    =181247
+weihnachstbaum ally groß    =178425
+weihnachstbaum horde groß   =178426
+Mistelzweig                 =178554
+Weihnachstbaum ally mittel  =178557
+Weihnachstbaum horde mittel =178647
+Weihnachstbaum verschneitt  =178558
+mistelzweig ihn andere form =180844
+Stuhl vom weihnachstmann    =178671
+feiertagsschnee(schneehügel)=178609
+Lichterkette rot 12 birnen  =180770
+Lichterkette rot 4 birnen   =180769
+lichterkette bunt4 birnen   =178924
+lichterkette bunt12 birnen  =178745 schein bar untode weil zerbrochen
+lichterkette bunt 12 birnen =178669 Ally alle heile
+      "        "   "   "    =178645   "   "     "
+lichterkette bunt 4birnen   =178551 horde zerbrochen
+lichterkette bunt 4birnen   =178438 ally
+grünes geschenk             =178428
+Rotes geschenk              =178429
+Rotes geschenk rechteck     =178430
+Rotes Geschenk              =178431
+Weißes Geschenk             =178432
+Grünes Geschenk             =178433
+sorgfältig verpacktes geschenk =180743 nix drin:)
+Leicht geschütteltes Geschenk  =180746
+Fröhlich verpacktes Geschenk   =180747
+Tickendes Geschenk             =180748
+festtags Geschenk              =180793
+Geschenk groß   rot            =180798
+Geschenk groß   Weiß           =180799
+Kranz                          =178649
+
+
+----NPC Weichnachten-------
+
+weihnachsmann horde       =13445
+------------------------------------
+weihnachstmann ally       =13444
+-----------------------------------
+helfer grün manngnom      =15698
+helfer Rot fraugnom       =15705
+helfer rot mann goblin    =15745
+helfer rot/grün goblin    =15732

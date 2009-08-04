@@ -1,0 +1,31 @@
+.go Befehle für Mangos. Einfach .go mit dem Koordinaten kopiern und ins WoW Chat Fenster eingeben:
+
+Stormwind Safe : .go -8647,537109 617,699646 95,690300 0
+Ein Dorf auf einem Berg im Sumpfland: .go -4022,954590 -1274,559937
+146,645508 0
+Darkportal:.go -11898,651367 -3206,800049 -14,712317 0
+TrollDorf:.go 7445.847656 -1692.700562 196.831390 1
+Die Gruft:. go -11068,416992 -1824,65793 60,162189 0
+Seltsamer Ort in den Deadmines:.go -1791,016846 478,374969 2,863178 36
+Old Ironforge:.go -4842,470215 -1064,040039 502,188995 0
+If Airport:.go -4497,859357 -1578,433716 509,006073 0
+Goblin Insel:.go -11825,773438 -4748,670898 7,565398 1
+Hyjal Instanz: .go 4856,414551 -1784,137839 1158,557861 1
+GmBox:.go 16228,900391 16401,800781 -64,380401 1
+SilithusLager:.go -10738.468750 2468.265625 6.276248 1
+.tele Hyjal
+.prog (programmer Island) 
+.tele GMisland (gm insel) 
+.tele designerisland (Designer Island)
+
+Emerald-Traum:
+.go 3105.41 3096.78 27.0032 169 ~~> Statuen
+.go -2128.12 -1005.89 132.213 169 ~~> Die grünen Felder
+.go 2732.93 -3319.63 101.284 169 ~~> Emerald-Wald 
+
+Bergspitze über Ironforge (Flagge): .go -4804.047852 -993.615540 892.228210 0
+Krähne bei Sängende Schlucht: .go -6330.193359 -1382.172363 357.393890 0
+Die Wirkliche Blackrock Spitze: .go -7458.797363 -1077.721191 896.779663 0
+
+Dalaran(Kugel):.go 269 359 45 0 oder .tele Dalaran
+

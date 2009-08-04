@@ -1,0 +1,53 @@
+-Krieger-
+
+Dungeon Set 1: 189
+Dungeon Set 2: 511
+Dungeon Set 3(1): 653
+Dungeon Set 3(2): 661
+-Paladin-
+
+Dungeon Set 1: 188
+Dungeon Set 2: 516
+Dungeon Set 3: 623
+
+-Jäger-
+
+Dungeon Set 1: 186
+Dungeon Set 2: 515
+Dungeon Set 3: 650
+
+-Schurke-
+
+Dungeon Set 1: 184
+Dungeon Set 2: 512
+Dungeon Set 3: 620
+
+-Priester-
+
+Dungeon Set 1: 182
+Dungeon Set 2: 514
+Dungeon Set 3: 662
+
+-Schamane-
+
+Dungeon Set 1: 187
+Dungeon Set 2: 519
+Dungeon Set 3: 630
+
+-Magier-
+
+Dungeon Set 1: 181
+Dungeon Set 2: 517
+Dungeon Set 3: 647
+
+-Hexenmeister-
+
+Dungeon Set 1: 184
+Dungeon Set 2: 518
+Dungeon Set 3: 644
+
+-Druide-
+
+Dungeon Set 1: 185
+Dungeon Set 2: 513
+Dungeon Set 3: 637

@@ -1,0 +1,52 @@
+759	Kleiner Wasserfall
+1744	Amboss
+1745	Schmiede
+1748	Amboss
+1749	Schmiede
+1752	Amboss
+1753    Schmiede
+2076	Blubbernder Kessel
+2082	Uther der Lichtmacher/Gedenktafel
+2573	Schmiede
+2576	Altar der Gezeiten
+2688	Hauptstein
+2689	Stein der westlichen Bindung
+2690	Stein der äußeren Bindung
+2691	Stein der östlichen Bindung
+2701	Regenbogenfarbene Splitter
+2702	Stein der inneren Bindung
+2744	Riesenmuschel
+2842	Säule aus Diamant
+2848	Säule aus Opal
+2858	Säule aus Amethyst
+
+6751	Pflanze mit fremdartigen Früchten
+6752	Fremdartiger Farnwedel
+6906	Rot-Raptor Nest
+6907	Blau-Raptor Nest
+6908	Gelb-Raptor Nest
+7510	Farn-Schößling
+7923	Denalans Pflanzer
+9630	Flagongut's Fossil
+9847	Kochstelle
+4170	Mesa-Fahrstuhl
+4171	Mesa-Fahrstuhl
+4406	Webwood Eier
+4608	Bäumlingsspross
+5619	Fehlerhafter Kraftstein
+19547	Venture Co. Sprengstoffwagen
+5620	Fehlerhafte Kraftsteine
+5621	Fehlerhafte Kraftsteine
+5622	Lila Aura, kurzer Pfeiler, Maßstab 0,6
+6289	Schwelbrand
+6291	Glimmende Kohlenpfanne
+4088	Amboss
+4090	Schmiede
+
+11898	Mesa Fahrstuhl
+11899	Mesa Fahrstuhl
+12654	Mathystra Relikt
+142095	Briefkasten
+142102	Briefkasten
+142109	Briefkasten
+142111	Briefkasten

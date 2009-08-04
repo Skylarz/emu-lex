@@ -1,0 +1,119 @@
+1604	Schwarzer Rauch Emitter
+1605	Weißer Rauch Emitter
+1607	kleine Flamme
+1766	Feuer
+
+1768	Flamme von Azel
+1769	Flamme von Veraz
+1770	Flamme von Uzel
+
+1798	Lagerfeuer
+1829	Lagerfeuer
+1830	Lagerfeuer
+1831	Freudenfeuer
+1908	Lagerfeuer
+1915	Kochstellen-Feuer
+1926	Lagerfeuer
+1928	Freudenfeuer
+1967	Feuergrube
+1969	Lagerfeuer
+1973	Lagerfeuer
+1977	Lagerfeuer
+1981	Lagerfeuer
+1992	Lagerfeuer
+1993	Lagerfeuer
+1995	Lagerfeuer
+1997	Lagerfeuer
+2004	Schwelendes Feuer
+2005	Lagerfeuer
+2006	Lagerfeuer
+2007	Lagerfeuer
+2061	Lagerfeuer
+2066	Freudenfeuerschaden
+2335	Freudenfeuer
+2563	Altar der Gezeiten - Fokussiert
+2664	Lagerfeuer
+2722	Schwimmende Funken
+2732	Lagerfeuer
+2870	Gelbe Aura, sehr hoher Pfeiler
+2904	Brunnenwasser-Säuberungs-Aura
+2914	Stammesfeuer
+3084	Feuer
+3085	Lagerfeuer
+3089	Lagerfeuer
+3249	Lagerfeuer
+3252	Lagerfeuer
+3286	Loderndes Feuer
+3296	Versengendes Feuer
+3298	Loderndes Feuer
+3301	Brennende Glutspäne
+3303	Warmes Feuer
+3308	Freudenfeuer
+3523	TEST Circle of Flame
+3524	Die Dämonensaat
+3722	Lagerfeuer
+3797	Gemütliches Feuer
+3798	Gemütliches Feuer
+3799	Gemütliches Feuer
+3800	Gemütliches Feuer
+3815	Warmes Feuer
+3816	Warmes Feuer
+3817	Loderndes Feuer
+3819	Loderndes Feuer
+3847	Wilde Lohe
+3888	Mächtige Lohe
+3890	Loderndes Feuer
+3892	Mächtige Lohe
+3893	Mächtige Lohe
+3899	Loderndes Feuer
+3901	Loderndes Feuer
+3909	Loderndes Feuer
+3911	Brennende Glutspäne
+3936	Wilde Lohe
+3960	Brennende Glutspäne
+10388	Kochstelle
+15069	Freudenfeuer
+16393	Urtum-Flamme
+16394	Urtum-Flamme
+20917	Blaue Aura, kurze Säule, Level 3
+22707	Gemütliches Feuer
+22708	Gemütliches Feuer
+22709	Gemütliches Feuer
+22710	Gemütliches Feuer
+22712	Gemütliches Feuer
+
+22772	Gemütliches Feuer
+22836	Gemütliches Feuer
+31407	Loderndes Freudenfeuer
+31408	Freudenfeuer
+31409	Tosendes Freudenfeuer
+31410	Freudenfeuer
+31411	Tosendes Freudenfeuer
+31442	Einfaches Lagerfeuer
+31511	Leuchtendes Lagerfeuer
+82137	Laternenmast
+82138	Laternenmast
+82139	Laternenmast
+82140	Laternenmast
+92015	Beschwörungskreis
+92252	Strahads Beschwörungskreis
+92388	Summoning Circle
+105576	Beschwörungskreis
+142185	Flamme von Byltan
+142186	Flamme von Lahassa
+142187	Flamme von Imbel
+142188	Flamme von Samha
+164658	Blauer Machtkristall
+164659	Grüner Machtkristall
+164660	Roter Machtkristall
+164661	Gelber Machtkristall
+164778	Blauer Machtkristall
+164779	Grüner Machtkristall
+164780	Roter Machtkristall
+164781	Gelber Machtkristall
+164826	Aura 1 - Linken
+164827	Aura 2 - Linken
+164838	JD Roter Kristall 1
+19901	Bannkreis
+36727	Beschwörungsportal
+37097	Beschwörungskreis

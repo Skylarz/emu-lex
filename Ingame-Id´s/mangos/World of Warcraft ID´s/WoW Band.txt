@@ -1,0 +1,12 @@
+Band Objekte :
+
+.go spawn 186300	-Stage (die bühne)
+.go spawn 186393	-Bleachers (sitzplatz)
+
+Band :
+
+.npc spawn 23619	(Utoter Gitarre)
+.npc spawn 23623	(Taur Drumset)
+.npc spawn 23624	(Troll Gitarre)
+.npc spawn 23625	(Ork Sänger)
+.npc spawn 23626	(Blutelf Gitarre)
