@@ -1,0 +1,52 @@
+^^ Essen und Tränke ID´s ^^
+
+ 
+Ich habe ein paar ID´s zusammengesucht weil ich mir einen eigenen Essen & Trinken Vendor gemacht habe vllt könnt ihr diese ID´s auch brauchen ; )
+
+ 
+Essen und Tränke
+
+.npc additem 18288
+.npc additem 22850
+.npc additem 22849
+.npc additem 32840
+.npc additem 31677
+.npc additem 22842
+.npc additem 22841
+.npc additem 22839
+.npc additem 22836
+.npc additem 22837
+.npc additem 22838
+.npc additem 22832
+.npc additem 22871
+.npc additem 22829
+.npc additem 32947
+.npc additem 22828
+.npc additem 22826
+.npc additem 28101
+.npc additem 13442
+.npc additem 3387
+.npc additem 40070
+.npc additem 34537
+.npc additem 22835
+.npc additem 31679
+.npc additem 22831
+.npc additem 22833
+.npc additem 22827
+.npc additem 28104
+.npc additem 22825
+.npc additem 13453
+.npc additem 13452
+.npc additem 22834
+.npc additem 32062
+.npc additem 29448
+.npc additem 32668
+.npc additem 22019
+.npc additem 27860
+.npc additem 29450
+.npc additem 28112
+.npc additem 35948
+.npc additem 33444
+.npc additem 22847
+.npc additem 22844
+.npc additem 22846
