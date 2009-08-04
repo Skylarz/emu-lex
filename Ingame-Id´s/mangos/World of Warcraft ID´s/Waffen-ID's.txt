@@ -1,0 +1,66 @@
+Gebt .additem und dann die ID ein also (.additem xxxx)
+
+WAFFEN:
+
+1-Hand-Schwerter:
+
+Andosius, Der Seelenschlächter-22736
+Uralter Qirajizerfetzer-21650
+Magierklinge des Azurlieds-17103
+Finsterer Streiter-19168
+Klinge der ewigen Gerechtigkeit-21395
+Klinge der behüteten Geheimnisse-21413
+Klinge der Zauberei-31336
+Klinge des Erzmagiers-29153
+Lodernder Zorn-28427
+Lodernder Wächter-28426
+Blendschlag-31332
+Teufelsstahllangschwert-23540
+Chromatisch gehärtetes Schwert-19352
+
+2-Hand-Schwerter:
+Aschenbringer-13262
+Ashkandi, Großschwert der Bruderschaft-19364
+Schwarzklinge von Shahram-12592
+Klinge von Hanna-2801
+Knochenhäschers Schneide-17076
+Verderbter Aschenbringer-22691
+
+1-Hand-Äxte:
+Uralter Menschentöter der Hakkari-19852
+Axt des Tiefwaldes-811
+Schwarze Planaraxt-28432
+Gesegnete Qirajikriegsaxt-21242
+Crul'shorukh, Schneide des Chaos-19363
+
+2-Hand-Äxte:
+Axt der Gronnlords-28794
+Blutmond-28436
+Hirnhacker-1263
+Dunkle Schneide des Irrsinns-21134
+Drachischer Rächer-19354
+
+1-Hand-Streitkolben:
+Kriegshammer des Anubisath-21837
+Inbrünstiger Hüter-868
+Aurasteinhammer-17105
+Gesegneter Qirajikriegshammer-21268
+
+2-Hand-Streitkolben:
+Tiefendonner-28441
+Drachischer Schlägel-19358
+Erderschütterer-17073
+Erdenwächter-29171
+
+Stäbe:
+Bewahrer des Bernsteinsiegels-17113
+Bannfluch-18609
+Atiesh, Hohestab des Wächters-22589
+
+Dolche:
+Klinge der ewigen Dunkelheit-17780
+Gesegneter Qirajipugio-21244
+Klaue von Chromaggus-19347
+Kernhundzahn-18805
+
+

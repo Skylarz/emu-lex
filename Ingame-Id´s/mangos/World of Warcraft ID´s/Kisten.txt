@@ -1,0 +1,76 @@
+1	Große robuste Truhe
+3	Kleine Schließkassette
+35	Captains Schatzkiste
+119	Abercrombies Kiste
+249	Kiste voll Essen
+251	Forschungs-Ausrüstung
+261	Beschädigte Kiste
+263	Kurzen-Vorräte
+271	Kisten der Minenarbeiterliga
+1765	Abgenutzte Holztruhe
+2716	Trelanes Truhe
+2717	Trelanes Schließkiste
+2718	Trelanes Schließkassette
+2734	Durchnässte Truhe
+2739	Kiste der Black Feather
+2740	Kiste der Raven Claw
+2741	Kiste des Himmels
+2742	Kiste des Nesting
+2843	Ramponierte Truhe
+2844	Ramponierte Truhe
+2846	Ramponierte Truhe
+2849	Ramponierte Truhe
+2850	Robuste Truhe
+2852	Robuste Truhe
+2855	Stabile Truhe
+2857	Robuste Truhe
+2867	Ausgrabungsgrundbedarf-Kiste
+
+3646	Geldkassette von General Twinbraid
+3660	Rüstungskiste
+3661	Waffenkiste
+3662	Nahrungsmittelkiste
+3689	Waffenkiste
+3690	Nahrungsmittelkiste
+3691	Nahrungsmittelkiste
+3692	Nahrungsmittelkiste
+3693	Nahrungsmittelkiste
+3694	Nahrungsmittelkiste
+3695	Nahrungsmittelkiste
+3698	Nahrungsmittelkiste
+3702	Rüstungskiste
+3703	Rüstungskiste
+3704	Waffenkiste
+3707	Nahrungsmittelkiste
+3710	Nahrungsmittelkiste
+3714	Allianz-Geldkassette
+3715	Allianz-Truhe
+3719	Nahrungsmittelkiste
+4095	Allianz-Stahlkasten
+4096	Allianz-Truhe
+75293	Große ramponierte Kiste
+75295	Große eisenbeschlagene Truhe
+75296	Große eisenbeschlagene Truhe
+75297	Große eisenbeschlagene Truhe
+75298	Große robuste Kiste
+75299	Große robuste Kiste
+75300	Große robuste Kiste
+105578	Horden-Truhe
+105579	Allianz-Truhe
+105581	Allianz-Truhe
+106318	Ramponierte Truhe
+106319	Ramponierte Truhe
+131978	Große mithrilbeschlagene Truhe
+131979	Große Darkwood-Truhe
+153451	Robuste Truhe
+153453	Robuste Truhe
+153454	Robuste Truhe
+153462	Große robuste Truhe
+153463	Große robuste Truhe
+153464	Große robuste Truhe
+153468	Große mithrilbeschlagene Truhe
+153469	Große mithrilbeschlagene Truhe
+153470	Lebensmittelkiste
+153471	Lebensmittelkiste
+153472	Lebensmittelkiste
+153473	Lebensmittelkiste

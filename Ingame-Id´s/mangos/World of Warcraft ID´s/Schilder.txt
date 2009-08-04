@@ -1,0 +1,163 @@
+80	Alte Küstenstraße
+81	Späherkuppe
+82	Der Wald von Elwynn
+83	Der Jangoschacht
+85	Duskwood
+87	Moonbrook
+89	Abtei Northshire
+90	Stormwind
+93	Westbrook-Garnison
+94	Westfall
+95	Das Holzfällerlager von Eastvale
+96	Redridge
+97	Goldshire
+101	Stranglethorn
+102	Raven Hill
+103	Der Gebirgspass der Totenwinde
+104	Redridge
+106	Westfall
+107	Darkshire
+254	Zul'Mamwe Trophäen-Schädel
+256	GESUCHT: Baron Longshore
+113	Duskwood
+114	Lakeshire
+115	Elwynn
+116	Burg Stonewatch
+298	Thelsamar
+299	Sengende Schlucht
+301	Das Sumpfland
+302	Dun Morogh
+304	Das Sumpfland
+309	Anvilmar
+310	Ironforge
+311	Loch Modan
+312	Kharanos
+376	Dun Modr
+377	Menethil
+378	Loch Modan
+381	Grim Batol
+388	Arathi Highlands
+1162	Der Hafen von Menethil
+1630	Brill
+1631	Agamands Mühlen
+3972	WANTED: Baron Vardus
+1638	Deathknell
+1646	Silberwald
+1649	Kloster
+2008	Gefährlich!
+2968	Das Dorf der Bloodhoof
+2969	Thunder Bluff
+2971	Das Brachland
+2972	Camp Narache
+
+1650	Pestländer
+1661	Undercity
+1668	Dun Algaz
+1673	Teufelszapfen
+1674	Gnomeregan
+1675	Das Grabmal
+1676	Pyrewood
+1677	Tirisfal
+1678	Ambermill
+1680	Burg Shadowfang
+1771	Southshore
+1772	Tarrens Mühle
+1773	Hillsbrad
+1774	Der Silberwald
+1776	Burg Durnholde
+1781	Alteracgebirge
+1784	Dun Garok
+1787	Das Arathihochland
+2018	Stadt Alterac
+2019	Strahnbrad
+2023	Strahnbrad
+2024	Andorhal
+2025	Stadt Alterac
+2026	Hillsbrad Vorgebirge
+2030	Stadt Alterac
+2032	Warnung!!!! Pestländer
+1690	Pyrewood
+1692	Deep Elem Mine
+1698	Gilneas
+1699	Hillsbrad Ebene
+1710	Hillsbrad Vorgebirge
+2096	Der Handelsdistrikt
+2098	Kathedralenplatz
+2100	Altstadt
+2101	Das Magierviertel
+2106	Kathedralenplatz
+2109	Duftende Blumen
+2110	Kathedralenplatz
+2111	Der Handelsdistrikt
+2112	Altstadt
+2117	Burg Stormwind
+2124	Das Magierviertel
+2130	Zum Weinfass
+2138	Der leere Köcher
+2139	Wellers Arsenal
+2142	Goldshire
+2145	Zählhaus Stormwind
+2146	Alltäglicher Bedarf
+2148	Die Käseschneider
+2149	Die Sieben Todsünden
+2150	Der Silberschild
+2151	Thanes Stiefel & Schulterpolster
+2152	Taverne Zum pfeifenden Schwein
+2153	Schöne schwere Waffen
+2154	Der schützende Balg
+2155	Ehrliche Klingen
+2156	Begrenzte Immunität
+2157	Nur Streitkolben
+2158	Perfekte Platten
+2159	Rathaus
+2160	Die Argentumdämmerung
+2161	Duncans Textilien
+2162	Stormwind-Stäbe
+2163	Unverzichtbare Komponenten
+2164	Zum geschlachteten Lamm
+2165	Feuerwerk
+2166	Alchimiebedarf
+2167	Antike Kuriositäten
+2169	Der traurige Einsiedler
+2177	Das feinste Garn
+2188	Das Magierviertel
+2670	Das Sumpfland
+2672	Burg Stromgarde
+2673	Thandol Spange
+2678	Hillsbrad Ebene
+2680	Hammerfall
+2685	Die Zuflucht
+3203	Arena
+3204	Booty Bay
+3205	Arena
+3206	Booty Bay
+3209	Grom'Gol
+3224	Razor Hill
+3226	Orgrimmar
+3227	Der Höhlenbau
+4098	Durotar
+4099	Mulgore
+4100	Das Steinkrallengebirge
+4101	Kreuzweg
+4102	Der Kreuzweg
+4104	Ashenvale
+4105	Die Marschen von Dustwallow
+4106	Thousand Needles
+12351	Dolanaar
+12352	Starbreeze
+12353	Shadowglen
+12354	Aldrassil
+12357	Darnassus
+12360	Die Lichtung des Orakels
+12893	Der Hain der Uralten
+12894	Ameth'Aran
+12895	Ashenvale
+12896	Auberdine
+12900	Bashal'Aran
+12903	Mathystra
+13348	Darkshore
+13349	Astranaar
+13352	Der Schrein von Aessina
+13356	Das Brachland
+13357	Felwood
+13358	Aszhara

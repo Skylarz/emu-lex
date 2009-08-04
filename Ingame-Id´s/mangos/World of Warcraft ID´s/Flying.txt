@@ -1,0 +1,26 @@
+/* Flying-Spells - List
+ * for projectsilvermoon.net */
+
+###################
+# ID         Name #
+###################
+
+LIST OF FLYING MOUNT SPELL IDS - NOT MODELS, BUT SPELL ID'S!
+
+32240     Snowy Gryphon Mount
+37015     Swift Netherdrake
+32235     Golden Gryphon
+32239     Ebon Gryphon Mount
+32242     Swift Blue Gryphon
+32289     Swift Red Gryphon
+32290     Swift Green Gryphon
+32292     Swift Purple Gryphon
+33943     Flight Form
+32243     Tawnu Windrider
+32244     Blue Windrider
+32245     Green Windrider
+32246     Swift Red Windrider
+32295	  	Swift Green Windrider
+32296     Swift Yellow Windrider
+32297     Swift Purple Windrider
+32345     Phoenix

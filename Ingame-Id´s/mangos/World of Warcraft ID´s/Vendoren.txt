@@ -1,0 +1,93 @@
+500009 <-- Handgelenke
+500010 <-- Gürtel 
+500011 <-- Füße
+500012 <-- Schilde
+500015 <-- Waffen  50+
+500016 <-- Waffen  60+
+500017 <-- Waffen  65+
+500018 <-- Waffen  75+
+500019 <-- Waffen 100+
+500020 <-- Ketten / Hals
+500021 <-- Ringe
+500022 <-- Schmuck
+500023 <-- Rücken
+500026 <-- Alles Mögliche
+500028 <-- In Schildhand geführt
+500029 <-- Relikte
+500045 <-- Taschen / Köcher u.v.m
+500048 <-- Schlüssel
+500101 <-- Tränke
+
+50000 <-- Dungeon 1
+50001 <-- Dungeon 2
+50002 <-- Dungeon 3
+
+500003 <-- Raid Tier 1
+500004 <-- Raid Tier 2
+500005 <-- Raid Tier 3
+500006 <-- Raid Tier 4
+500007 <-- Raid Tier 5
+500008 <-- Raid Tier 6
+
+500030 <-- Arena 1 / Vendor 1
+500031 <-- Arena 1 / Vendor 2
+500032 <-- Arena 1 / Vendor 3
+
+500033 <-- Arena 2 / Vendor 1
+500034 <-- Arena 2 / Vendor 2
+500035 <-- Arena 2 / Vendor 3
+
+500042 <-- Reittier 1
+500043 <-- Reittier 2
+------------------------------------------------
+
+Hier morgen weitermachen ! Übersetzen der Datenbank
+
+500051 <-- Leder A-F
+500052 <-- Leder G-R
+500053 <-- Leder S-Z
+
+500054 <-- Muster A-G
+500055 <-- Muster H-Z
+
+500056 <-- Baupläne A-Z
+
+500057 <-- Pläne A-F
+500058 <-- Pläne G-R
+500059 <-- Pläne S-Z
+
+500060 <-- Rezepte Kochkunst A-Z
+500061 <-- Rezepte Allchemie A-Z
+
+500062 <-- Formeln Verzauberungskunst 1
+500063 <-- Formeln Verzauberungskunst 2
+
+500064 <-- Vorlagen Juvelenschleifen A-K
+500065 <-- Vorlagen Juvelenschleifen L-Z
+
+500066 <-- Reagenzien Leder 1
+500067 <-- Reagenzien Leder 2
+
+500068 <-- Reagenzien Schneider 1
+500069 <-- Reagenzien Schneider 2
+
+500072 <-- Reagenzien Bergbau 1
+500073 <-- Reagenzien Bergbau 2
+
+500074 <-- Reagenzien Kochen
+500075 <-- Reagenzien Alchemie
+500076 <-- Reagenzien Verzauberung
+500077 <-- Reagenzien Juvelenschleifen
+500078 <-- Erze und Barren
+
+26012  <-- Arena Veranstalter
+25177  <-- Arena Verkäufer 1
+25178  <-- Arena Verkäufer 2
+
+8661   <-- Auktionator Neutral Gadgetzan
+
+
+
+
+
+

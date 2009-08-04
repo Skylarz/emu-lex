@@ -1,0 +1,3741 @@
+ID	Name
+
+1	Große robuste Truhe
+2	Joseph Redpaths Monument
+3	Kleine Schließkassette
+31	Alte Löwenstatue
+32	Versunkene Truhe
+33	Verschlossene Truhe
+34	Alter Henkelkrug
+35	Captains Schatzkiste
+36	Zerbrochenes Fass
+37	Elizas Grabstein
+38	Das Erbe der Aspekten
+41	Spind des Botschafters
+47	GESUCHT: Lieutenant Fangore
+52	Der Sturz Gurubashis
+54	Das Grabmal des Kaisers
+55	Ein halb aufgefressener Körper
+56	Rolfs Leichnam
+57	Mond über dem Tal
+58	Gri'lek der Wanderer
+59	Lockerer Erdhaufen
+60	GESUCHT: Gath'Ilzogg
+61	Ein verwittertes Grab
+68	Steckbrief
+76	Ein leerer Krug
+80	Alte Küstenstraße
+81	Späherkuppe
+82	Der Wald von Elwynn
+83	Der Jangoschacht
+85	Duskwood
+87	Moonbrook
+89	Abtei Northshire
+90	Stormwind
+93	Westbrook-Garnison
+94	Westfall
+95	Das Holzfällerlager von Eastvale
+96	Redridge
+97	Goldshire
+101	Stranglethorn
+102	Raven Hill
+103	Der Gebirgspass der Totenwinde
+104	Redridge
+106	Westfall
+107	Darkshire
+113	Duskwood
+114	Lakeshire
+115	Elwynn
+116	Burg Stonewatch
+119	Abercrombies Kiste
+249	Kiste voll Essen
+251	Forschungs-Ausrüstung
+254	Zul'Mamwe Trophäen-Schädel
+256	GESUCHT: Baron Longshore
+257	Verdächtiges Fass
+259	Halb vergrabenes Fass
+261	Beschädigte Kiste
+263	Kurzen-Vorräte
+269	Bewachtes Fass mit Thunderbrew-Bier
+270	Unbewachtes Fass mit Thunderbrew-Bier
+271	Kisten der Minenarbeiterliga
+272	MacGranns Fleisch-Spind
+276	Schimmerkraut-Korb
+287	Buchhalter Herods Aufzeichnungen
+288	Buchhalter Herods Geldkasette
+290	Furlbrows Kleiderschrank
+298	Thelsamar
+299	Sengende Schlucht
+301	Das Sumpfland
+302	Dun Morogh
+304	Das Sumpfland
+309	Anvilmar
+310	Ironforge
+311	Loch Modan
+312	Kharanos
+321	Tilloasträne
+324	Kleines Thoriumvorkommen
+331	Lockeres Erdreich
+333	Antikes Relikt
+334	Antikes Relikt
+337	Wasserkrug
+369	Thunder Ale-Bier
+372	Schlachtfeldschild
+375	Tirisfal-Kürbis
+376	Dun Modr
+377	Menethil
+378	Loch Modan
+381	Grim Batol
+386	Metallkolben
+388	Arathi Highlands
+711	GESUCHT!
+759	Die Heilige Quelle
+965	Schwarzer Rauch - Maßstab 2
+1162	Der Hafen von Menethil
+1165	Gunthers Bücher
+1166	Alexstons Truhe
+1557	Lilliths Esstisch
+1558	Kerze der Anrufung
+1560	Aufbewahrungstruhe
+1561	Versiegelte Holzkiste
+1562	Truhe von Marshal Haggard
+1571	Staubige Zauberbücher
+1585	Sprengladung
+1586	Kiste mit Kerzen
+1587	Truthahn-Bein
+1593	Mit Leichen beladenes Boot
+1594	Berards Bücherregal
+1599	Flaches Grab
+1604	Schwarzer Rauch Emitter
+1605	Weißer Rauch Emitter
+1607	Große Flammen Emitter
+1609	Dragonmaw Katapult
+1610	Pyrophor Mineralvorkommen
+1617	Silberblatt
+1618	Friedensblume
+1619	Erdwurzel
+1620	Maguskönigskraut
+1621	Wilddornrose
+1622	Beulengras
+1623	Wildstahlblume
+1624	Königsblut
+1627	Dalaran Kiste
+1628	Grabmoos
+1630	Brill
+1631	Agamands Mühlen
+1638	Deathknell
+1646	Silberwald
+1649	Kloster
+1650	Pestländer
+1661	Undercity
+1668	Dun Algaz
+1673	Teufelszapfen
+1674	Gnomeregan
+1675	Das Grabmal
+1676	Pyrewood
+1677	Tirisfal
+1678	Ambermill
+1680	Burg Shadowfang
+1685	Schmiede
+1690	Pyrewood
+1692	Deep Elem Mine
+1698	Gilneas
+1699	Hillsbrad Ebene
+1710	Hillsbrad Vorgebirge
+1720	Stanleys Napf
+1721	Verschlossene Kugel und Kette
+1722	Verschlossene Kugel und Kette
+1723	Mudsnout-Blüte
+1726	VERMISST: Corporal Keeshan
+1727	Fässchen Shindigger-Starkbier
+1728	Staubiger Teppich
+1729	Besudeltes Fässchen
+1730	Besudeltes-Fässchen-Rauch
+1731	Kupfervorkommen
+1732	Zinnvorkommen
+1733	Silbervorkommen
+1734	Goldvorkommen
+1735	Eisenvorkommen
+1736	Eisenlieferung
+1738	Syndikat-Dokumente
+1739	Syndikat-Dokumente
+1740	Syndikat-Dokumente
+1744	Amboss
+1745	Schmiede
+1748	Amboss
+1749	Schmiede
+1752	Amboss
+1759	Hillsbrad Stadtverzeichnis
+1760	Verwitterter Bücherschrank
+1761	Hillsbrad Proklamation
+1763	WANTED: Syndicate Personnel
+1764	Verschlossene Kugel und Kette
+1765	Abgenutzte Holztruhe
+1766	Feuer
+1767	Helculars Grab
+1768	Flamme von Azel
+1769	Flamme von Veraz
+1770	Flamme von Uzel
+1771	Southshore
+1772	Tarrens Mühle
+1773	Hillsbrad
+1774	Der Silberwald
+1776	Burg Durnholde
+1781	Alteracgebirge
+1784	Dun Garok
+1787	Das Arathihochland
+1798	Lagerfeuer
+1829	Lagerfeuer
+1830	Lagerfeuer
+1831	Freudenfeuer
+1908	Lagerfeuer
+1915	Kochstellen-Feuer
+1926	Lagerfeuer
+1928	Freudenfeuer
+1967	Feuergrube
+1969	Lagerfeuer
+1973	Lagerfeuer
+1977	Lagerfeuer
+1981	Lagerfeuer
+1992	Lagerfeuer
+1993	Lagerfeuer
+1995	Lagerfeuer
+1997	Lagerfeuer
+2004	Schwelendes Feuer
+2005	Lagerfeuer
+2006	Lagerfeuer
+2007	Lagerfeuer
+2008	Gefährlich!
+2018	Stadt Alterac
+2019	Strahnbrad
+2023	Strahnbrad
+2024	Andorhal
+2025	Stadt Alterac
+2026	Hillsbrad Vorgebirge
+2030	Stadt Alterac
+2032	Warnung!!!! Pestländer
+2039	Versteckte Geldkasette
+2040	Mithrilablagerung
+2041	Lebenswurz
+2042	Blassblatt
+2043	Khadgars Schnurrbart
+2044	Winterbiss
+2045	Würgetang
+2046	Golddorn
+2047	Echtsilberablagerung
+2059	Eine Zwergenleiche
+2061	Lagerfeuer
+2066	Freudenfeuerschaden
+2068	Pupellyverbos-Portwein
+2076	Blubbernder Kessel
+2082	Uther der Lichtmacher
+2083	Blutsegel-Korrespondenz
+2084	Musquash Wurzel
+2086	Blutsegel-Kisten
+2087	Blutsegel-Befehle
+2096	Der Handelsdistrikt
+2098	Kathedralenplatz
+2100	Altstadt
+2101	Das Magierviertel
+2106	Kathedralenplatz
+2109	Duftende Blumen
+2110	Kathedralenplatz
+2111	Der Handelsdistrikt
+2112	Altstadt
+2117	Burg Stormwind
+2124	Das Magierviertel
+2130	Zum Weinfass
+2138	Der leere Köcher
+2139	Wellers Arsenal
+2142	Goldshire
+2145	Zählhaus Stormwind
+2146	Alltäglicher Bedarf
+2148	Die Käseschneider
+2149	Die Sieben Todsünden
+2150	Der Silberschild
+2151	Thanes Stiefel & Schulterpolster
+2152	Taverne Zum pfeifenden Schwein
+2153	Schöne schwere Waffen
+2154	Der schützende Balg
+2155	Ehrliche Klingen
+2156	Begrenzte Immunität
+2157	Nur Streitkolben
+2158	Perfekte Platten
+2159	Rathaus
+2160	Die Argentumdämmerung
+2161	Duncans Textilien
+2162	Stormwind-Stäbe
+2163	Unverzichtbare Komponenten
+2164	Zum geschlachteten Lamm
+2165	Feuerwerk
+2166	Alchimiebedarf
+2167	Antike Kuriositäten
+2169	Der traurige Einsiedler
+2177	Das feinste Garn
+2188	Das Magierviertel
+2289	Kaputtes Rettungsboot
+2332	Barbequed Buzzard Wings
+2333	Stranglevine Wine
+2335	Freudenfeuer
+2371	Kopfjägerschädel
+2413	Wooden Chair
+2489	Stuhl
+2551	Gekochter Schädel
+2552	Kesseldampf
+2553	Eine schmierige Schriftrolle
+2554	Cortellos Rätsel
+2555	Schimmlige Schriftrolle
+2556	Cortellos Schatz
+2558	Test
+2560	Halb vergrabene Flasche
+2561	Eiskältefalle
+2562	Baked Bread
+2563	Altar der Gezeiten - Fokussiert
+2573	Schmiede
+2576	Altar der Gezeiten
+2652	Ebenezer Rustlockes Leichnam
+2653	Geringe Blutsteinablagerung
+2656	Durchnässter Brief
+2657	Legenden der Erde
+2664	Lagerfeuer
+2670	Das Sumpfland
+2672	Burg Stromgarde
+2673	Thandol Spange
+2678	Hillsbrad Ebene
+2680	Hammerfall
+2685	Die Zuflucht
+2687	Flasche
+2688	Hauptstein
+2689	Stein der westlichen Bindung
+2690	Stein der äußeren Bindung
+2691	Stein der östlichen Bindung
+2695	Buch
+2701	Regenbogenfarbene Splitter
+2702	Stein der inneren Bindung
+2703	Trollbanes Grabmal
+2704	Sprengstofflager
+2707	Karten der MAIDENS FOLLY
+2708	Karten der SPIRIT OF SILVERPINE
+2709	Logbuch der Maidens Folly
+2710	Logbuch der Spirit of Silverpine
+2711	Aufladender Stein
+2712	Verkalkter Elfenedelstein
+2713	Steckbrief-Brett
+2714	Alterac Granit
+2715	Ruined Pedestal
+2716	Trelanes Truhe
+2717	Trelanes Schließkiste
+2718	Trelanes Schließkassette
+2719	Blubbernder Kessel
+2722	Schwimmende Funken
+2724	Sack Hafer
+2732	Lagerfeuer
+2734	Durchnässte Truhe
+2739	Kiste der Black Feather
+2740	Kiste der Raven Claw
+2741	Kiste des Himmels
+2742	Kiste des Nesting
+2743	Aus Stein gehauene Urne
+2744	Riesenmuschel
+2842	Säule aus Diamant
+2843	Ramponierte Truhe
+2844	Ramponierte Truhe
+2846	Ramponierte Truhe
+2848	Säule aus Opal
+2849	Ramponierte Truhe
+2850	Robuste Truhe
+2852	Robuste Truhe
+2855	Stabile Truhe
+2857	Robuste Truhe
+2858	Säule aus Amethyst
+2866	Feuerblüte
+2867	Ausgrabungsgrundbedarf-Kiste
+2868	Zerknitterte Karte
+2870	Gelbe Aura, sehr hoher Pfeiler
+2871	Wassergeschliffener Altar
+2872	Verzauberter Seetang
+2875	Ramponiertes Zwergenskelett
+2883	Reifer Kürbis
+2891	Balia'mah Trophäenschädel
+2892	Ziata'jai-Trophäenschädel
+2893	Zul'Mamwe Trophäenschädel
+2904	Brunnenwasser-Säuberungs-Aura
+2908	Versiegelte Vorratskiste
+2909	Wildmane Wasserpumpe
+2910	Quellstein
+2911	Stormbull Wasserbrunnen
+2912	Bernsteinkorn
+2913	Winterhoof-Wasserbrunnen
+2914	Stammesfeuer
+2933	Siegel der Erde
+2968	Das Dorf der Bloodhoof
+2969	Thunder Bluff
+2971	Das Brachland
+2972	Camp Narache
+3076	Schmutzbefleckte Karte
+3084	Feuer
+3085	Lagerfeuer
+3089	Lagerfeuer
+3189	Angriffsplan: Tal der Prüfungen
+3190	Angriffsplan: Sen'jin
+3192	Angriffsplan: Orgrimmar
+3203	Arena
+3204	Booty Bay
+3205	Arena
+3206	Booty Bay
+3209	Grom'Gol
+3224	Razor Hill
+3226	Orgrimmar
+3227	Der Höhlenbau
+3228	Das Brachland
+3236	Gnomen-Werkzeugkasten
+3237	Eingekerkerter Darkspear
+3238	Chens leeres Fässchen
+3239	Benedicts Truhe
+3240	Schwanzpeitscher-Eier
+3249	Lagerfeuer
+3252	Lagerfeuer
+3276	Sen'jin
+3286	Loderndes Feuer
+3290	Gestohlener Vorratssack
+3296	Versengendes Feuer
+3298	Loderndes Feuer
+3301	Brennende Glutspäne
+3303	Warmes Feuer
+3308	Freudenfeuer
+3315	Siedender Kessel
+3523	TEST Circle of Flame
+3524	Die Dämonensaat
+3525	Der Altar des Feuers
+3640	Potenter Pilz
+3642	Kolkars Beute
+3643	Alte Schließkiste
+3644	Bael-Modan-Flugapparat
+3646	Geldkassette von General Twinbraid
+3658	Wasserfass
+3659	Fass Melonensaft
+3660	Rüstungskiste
+3661	Waffenkiste
+3662	Nahrungsmittelkiste
+3685	Silithid Hügel
+3689	Waffenkiste
+3690	Nahrungsmittelkiste
+3691	Nahrungsmittelkiste
+3692	Nahrungsmittelkiste
+3693	Nahrungsmittelkiste
+3694	Nahrungsmittelkiste
+3695	Nahrungsmittelkiste
+3698	Nahrungsmittelkiste
+3702	Rüstungskiste
+3703	Rüstungskiste
+3704	Waffenkiste
+3705	Fass mit Milch
+3706	Fass mit süßem Nektar
+3707	Nahrungsmittelkiste
+3710	Nahrungsmittelkiste
+3714	Allianz-Geldkassette
+3715	Allianz-Truhe
+3719	Nahrungsmittelkiste
+3722	Lagerfeuer
+3737	Blubbernder Felsspalt
+3740	Blubbernder Felsspalt
+3743	Felsspaltenpflanze
+3767	Drizzliks Kaufhaus
+3768	Zerbrechlich - nicht fallen lassen
+3769	Dicker Ofen
+3771	Dicker Ofen
+3797	Gemütliches Feuer
+3798	Gemütliches Feuer
+3799	Gemütliches Feuer
+3800	Gemütliches Feuer
+3815	Warmes Feuer
+3816	Warmes Feuer
+3817	Loderndes Feuer
+3819	Loderndes Feuer
+3847	Wilde Lohe
+3888	Mächtige Lohe
+3890	Loderndes Feuer
+3892	Mächtige Lohe
+3893	Mächtige Lohe
+3899	Loderndes Feuer
+3901	Loderndes Feuer
+3909	Loderndes Feuer
+3911	Brennende Glutspäne
+3936	Wilde Lohe
+3960	Brennende Glutspäne
+3972	WANTED: Baron Vardus
+4072	Hauptsteuerventil
+4088	Amboss
+4090	Schmiede
+4095	Allianz-Stahlkasten
+4096	Allianz-Truhe
+4097	Sperr-Rad
+4098	Durotar
+4099	Mulgore
+4100	Das Steinkrallengebirge
+4101	Kreuzweg
+4102	Der Kreuzweg
+4104	Ashenvale
+4105	Die Marschen von Dustwallow
+4106	Thousand Needles
+4141	Steuerkonsole
+4149	Robuste Truhe
+4166	Alchimie-Gerätschaften
+4170	Mesa-Fahrstuhl
+4171	Mesa-Fahrstuhl
+4406	Webwood Eier
+4608	Bäumlingsspross
+5619	Fehlerhafter Kraftstein
+5620	Fehlerhafte Kraftsteine
+5621	Fehlerhafte Kraftsteine
+5622	Lila Aura, kurzer Pfeiler, Maßstab 0,6
+6289	Schwelbrand
+6291	Glimmende Kohlenpfanne
+6751	Pflanze mit fremdartigen Früchten
+6752	Fremdartiger Farnwedel
+6906	Rot-Raptor Nest
+6907	Blau-Raptor Nest
+6908	Gelb-Raptor Nest
+7510	Farn-Schößling
+7923	Denalans Pflanzer
+9630	Flagongut's Fossil
+9847	Kochstelle
+10076	Wahrsageschale
+10082	Stormwind
+10388	Kochstelle
+11713	Todes-Kappe
+11714	Scaber Stengel
+11898	Mesa Fahrstuhl
+11899	Mesa Fahrstuhl
+12144	Zwielicht Foliant
+12351	Dolanaar
+12352	Starbreeze
+12353	Shadowglen
+12354	Aldrassil
+12357	Darnassus
+12360	Die Lichtung des Orakels
+12654	Mathystra Relikt
+12666	Twilight-Foliant
+12893	Der Hain der Uralten
+12894	Ameth'Aran
+12895	Ashenvale
+12896	Auberdine
+12900	Bashal'Aran
+12903	Mathystra
+13348	Darkshore
+13349	Astranaar
+13352	Der Schrein von Aessina
+13356	Das Brachland
+13357	Felwood
+13358	Aszhara
+13359	Katzenfigürchen
+13360	Mathystra Relikt
+13872	Mathystra Relikt
+13873	Katzenfigürchen
+13891	Schlangenflaum
+13949	Verrostete Eisenkiste
+13952	Ziel
+13965	Fabriktür
+15069	Freudenfeuer
+16393	Urtum-Flamme
+16394	Urtum-Flamme
+16397	Eisenverkleidete Tür
+16398	Defias Kanone
+16399	Gießereitür
+16400	Mastraumtür
+16431	Cracked Necrotic Crystal
+17153	Schwere Tür
+17155	Defias-Schießpulver
+17156	Türhebel
+17157	Türhebel
+17182	Dröhnkiste 827
+17183	Dröhnkiste 411
+17184	Dröhnkiste 323
+17185	Dröhnkiste 525
+17188	Die Lage in Ameth'Aran
+17189	Der Untergang von Ameth'Aran
+17282	Pflanzenbündel
+17783	Antike Statuette
+18035	Stammes-Feuer
+18036	Flasche voll Krankheit
+18076	Lagerfeuer
+18077	Rauchender Ständer
+18083	Blubbernder Kessel
+18087	Lagerfeuer
+18342	Verbeulter Kessel
+18343	Kochstelle
+18596	Knisterndes Lagerfeuer
+18603	Antike Statuette
+18895	Innenhof-Tür
+18899	Hebel
+18934	Zellentür
+18971	Arugals Versteck
+18972	Zauberer-Pforte
+18973	Arugals Fokus
+19000	Altar Of Storms
+19001	Chapel
+19002	Barn
+19003	Barracks
+19004	Blacksmith
+19005	Farm
+19006	House
+19007	Inn
+19008	Lumbermill
+19009	Mage Tower
+19010	Stable
+19011	Townhall
+19012	Townhall without Wall
+19013	Hut
+19014	Hut 2
+19015	Elune's Tear
+19016	Stardust Covered Bush
+19017	Riesenmuschel
+19018	Riesenmuschel
+19019	Box of Assorted Parts
+19020	Kasten mit verschiedenen Ersatzteilen
+19021	Rostige Truhe
+19022	Abgenutzte Truhe
+19023	Rostige Truhe-Falle
+19024	Geheimer Schrein
+19025	Antike Inschrift
+19026	Gate 1
+19027	Buch von Mel'Thandris
+19028	Scharlachroter Wachposten
+19029	Wall Piece
+19030	Erdhaufen
+19031	Wall Piece 2
+19032	Wall Piece 3
+19033	Das Brachland
+19034	Wall Piece with Stairs
+19035	WallPost
+19036	WallPost
+19037	Lumbermill
+---------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------
+19038	Mage Tower
+19039	Abbey
+19040	Oil Plataform
+19041	Prison Headquarters
+19042	Prison House
+19043	Prison Cage 1
+19044	Prison Cage 2 (with tunnel)
+19045	Prison Cage 3 (with tunnel)
+19046	Prison Cage 4 (with tunnel)
+19047	Townhall 3
+19048	Human PvP Barracks City
+19049	Stormwind City
+19050	Booty Bay
+19051	Duskwood World Tree
+19052	Troll Ziggurat
+19053	Zul'Gurub Piece
+19054	Aliancce Shrine
+19055	Abbey Gate
+19056	Bridge 2
+19057	Bridge
+19058	Bridge 3
+19059	Stormwind Valley of Heroes Bridge
+19060	Stormwind Valley of Heroes Gate
+19061	Horde Shrine
+19062	Ironfoot Bridge
+19063	Bridge 2
+19064	Bamboo House
+19065	Stranglethorn Arena
+19066	Blackrock
+19067	Blackrock Lower Guild
+19068	Blackrock Lower Instance
+19069	Blackrock Upper Guild
+19070	Blackrock Upper Instance
+19071	Nefarian's Balcony
+19072	Deadmines Part 1
+19073	Deadmines Part 2
+19074	Deadmines Part 3
+19075	Deadmines Part 4
+19076	Karazhan Future Tower Instance
+19077	Kharazan Actual Tower (no instance)
+19078	The Stockades
+19079	Stormwind Vault
+19080	Deeprun Tram
+19081	Caverns of Time
+19082	Caverns of Time Entrance
+19083	Caverns of Time Arm 1
+19084	Caverns of Time Arm 2
+19085	Caverns of Time Arm 3
+19086	Ahn'Quiraj
+19087	Ahn'Quiraj Entrance
+19088	Ahn'Quiraj Door
+19089	Ahn'Quiraj Border of Door
+19090	Ahn'Quiraj Walls
+19091	Blackfathom
+19092	Blackfathom Instance
+19093	Old Blackfathom Facade
+19094	Dire Maul
+19095	Dire Maul Back Entrance
+19096	Dire Maul Instance
+19097	Maraudon
+19098	Maraudon Intance
+19099	Onyxia's Lair
+19100	Onyxia's Lair Piece
+19101	Onyxia's Lair
+19102	Ragefire Chasm
+19103	Razorfen Downs
+19104	Razorfen Downs Intance
+19105	Razorfen Kraul
+19106	Razorfen Kraul Intance
+19107	Wailing Caverns
+19108	Wailing Caverns Intance
+19109	Wailing Caverns Teeth
+19110	Gnomeragan
+19111	Gnomeragan Instance
+19112	Uldaman Piece
+19113	Uldaman Piece 2
+19114	Uldaman Piece 3
+19115	Uldaman Piece 4
+19116	Dragon Isles
+19117	Dragon Isles 2
+19118	Dragon Isles 3
+19119	Dragon Isles 4
+19120	Monestary Cathedral
+19121	Monestary Cementery
+19122	Monestary Library
+19123	Monestary War
+19124	Shadowfang
+19125	Shadowfang Instance
+19126	Stratholme Part
+19127	Stratholme Part 2
+19128	Stratholme Part 3
+19129	Stratholme Part 4
+19130	Algaz Gate
+19131	Animal Den
+19132	Anvilmar Pass
+19133	Barrow Dens
+19134	Corrupted Barrow Dens
+19135	Barrow Dens 2
+19136	Barrow Dens 3
+19137	Barrow Dens 4
+19138	Corrupted Barrow Dens 2
+19139	Ice Den
+19140	Jungle Den
+19141	Mushroom Den
+19142	Troll Den
+19143	Troll Den 2
+19144	Volcanic den
+19145	Warm Den
+19146	Tunnel Cave to Cave
+19147	Tunnel Cave to Cave (Ice)
+19148	Tunnel Cave to Cave Large
+19149	Tunnel Cave to Cave (Warm)
+19150	Alterac Valley Entrance
+19151	Alterac Valley Entrance (Snow)
+19152	Crypt
+19153	Crypt 2
+19154	Crypt 3
+19155	Crypt 4
+19156	Crypt 5 (Undead Starting Crypt)
+19157	Crypt School
+19158	Crypt Simple Entrance
+19159	Large Tunnel
+19160	Medium Tunnel
+19161	Medium Tunnel (Snow)
+19162	Small Tunnel
+19163	Small Tunnel (Snow)
+19164	Fishing Hole
+19165	Goldmine
+19166	Goldmine Small
+19167	Goldmine 2
+19168	Goldmine 3
+19169	Goldmine 4
+19170	Goldmine 5
+19171	Goldmine 6
+19172	Goldmine 7
+19173	Hive Arch
+19174	Hive Piece (exterior)
+19175	Hive Piece 2 (exterior)
+19176	Hive Piece 3 (exterior)
+19177	Hive Piece 4 (exterior)
+19178	Hive Piece 5 (exterior)
+19179	Mini-Hive 1
+19180	Mini-Hive 2
+19181	Mini-Hive 3
+19182	Mini-Hive 3 Albino
+19183	Mini-Hive 4
+19184	Mini-Hive 4 Albino
+19185	Mini-Hive 5
+19186	Mini-Hive 5 Albino
+19187	Mini-Hive 6
+19188	Mini-Hive 6 Albino
+19189	Horde Mine
+19190	Horde Mine 2
+19191	Ice Cave
+19192	Ice Cave Medium
+19193	Ice Cave 2
+19194	Ice Cave 3
+19195	Ice Cave 4
+19196	Jungle Cave
+19197	Jungle Cave Crystal
+19198	Jungle Cave Medium
+19199	Jungle Cave 2
+19200	Mountain Cave Medium
+19201	Mountain Cave Medium 2
+19202	Mountain Cave Medium 3
+19203	Mountain Cave Medium 4
+19204	Mountain Cave Medium 5
+19205	Mountain Cave Medium 6
+19206	Mountain Cave Medium 7
+19207	Mountain Cave Medium 8
+19208	Mushroom Cave
+19209	Mushroom Cave 2
+19210	Mushroom Cave 3
+19211	Mushroom Cave 4
+19212	Mushroom Cave 5
+19213	Mushroom Cave 6
+19214	Mushroom Cave 7
+19215	Mushroom Cave 8
+19216	Mushroom Cave 9
+19217	Mushroom Cave 10
+19218	Underwater Cave Medium
+19219	Warm Cave
+19220	Warm Cave Medium
+19221	Ogremound
+19222	Ogremound 2
+19223	Ogremound 3
+19224	Ogremound 4
+19225	Ogremound 5
+19226	Ogremound Medium
+19227	Ogremound 6
+19228	Ogremound 7
+19229	Ogremound 8
+19230	Pirate Ship
+19231	Pirate Ship 2
+19232	Ruined Fortress
+19233	Ruined Keep
+19234	Crypt Intance
+19235	Spidermane
+19236	Furbolg Cave
+19237	Timbermaw Hold
+19238	Scarley Monastery
+19239	Sunken Temple
+19240	Sunken Temple Instance
+19241	Hut
+19242	Observatory (snow)
+19243	Igloo
+19244	Igloo 2
+19245	Igloo 3
+19246	Igloo 4
+19247	Desert Building
+19248	Desert Building 2
+19249	Desert Building 3
+19250	Desert Building 4
+19251	Laboratory
+19252	Naga Pagoda
+19253	House
+19254	Abbey
+19255	Druid Tower
+19256	Guard Tower
+19257	Building
+19258	Inn
+19259	Giant Moonwell
+19260	Moonwell
+19261	Outpost
+19262	Small House
+19263	Gate
+19264	Blackrock Barracks
+19265	Barracks
+19266	Barracks (Swamp of Sorrows)
+19267	Blackrock Blacksmith
+19268	Blacksmith
+19269	Blacksmith (Swamp of Sorrows)
+19270	Blackrock Fortress
+19271	Fortress
+19272	Fortress (Swamp of Sorrows)
+19273	Blackrock Great Hall
+19274	Great Hall
+19275	Great Hall (Swamp of Sorrows)
+19276	Blackrock Hut
+19277	Hut
+19278	Inn
+19279	Blackrock Kennel
+19280	Kennel
+19281	Kennel (Swamp of Sorrows)
+19282	Blackrock Mage Tower
+19283	Kompendium der Gefallenen
+19284	Mythologie der Titanen
+19285	Blackrock House
+19286	House
+19287	House (Swamp of Sorrows)
+19288	Blackrock Tower
+19289	Tower
+19290	Tower (Swamp of Sorrows)
+19291	Blackrock Tower Small
+19292	House Tower Small
+19293	Zeppelin House
+19294	Druid Tent
+19295	Hunter Tent
+19296	Hut Big
+19297	Hut
+19298	Hut 2
+19299	Tepee
+19301	Longhouse
+19302	Shaman Tent
+19303	Blackrock Troll Burrow
+19304	Troll Burrow (Swamp of Sorrows)
+19305	Troll Burrow
+19306	Troll Hotel
+19307	Troll Shop House
+19308	Troll Shopping Mall
+19309	Troll Hut Desert
+19311	Troll Hut
+19312	Troll Hut Small
+19313	Bridge
+19314	Durotar Rooted Rock
+19315	Gate
+19316	Theramore Docks
+19317	Bridge
+19318	Bridge
+19319	Tent
+19320	Bridge
+19321	Landing Pad
+19322	Monster Machine
+19323	Wheel Plataform
+19324	Gate
+19325	Everlook Walls
+19326	Darnassus
+19327	Orc Pvp Barracks City
+19328	Orgrimmar City
+19329	PvP Wall
+19330	PvP Wall
+19331	Druid Mesa
+19332	Druid Mesa 2
+19333	Giant Totem
+19334	Lower Mesa
+19335	Lower Mesa 2
+19336	Lower Mesa 3
+19337	Lower Mesa 4
+19338	Lower Mesa 5
+19339	Lower Mesa 6
+19340	Mid Mesa
+19341	Mid Mesa 2
+19342	Mid Mesa 3
+19343	Mid Mesa 4
+19344	Shaman Mesa
+19345	Undead Cave
+19346	Upper Mesa
+19347	Upper Mesa 2
+19348	Upper Mesa 3
+19349	Upper Mesa 4
+19350	Upper Mesa 5
+19351	Warrior Mesa
+19352	Warrior Mesa 1
+19353	Winterspring Cave
+19354	Anvilmar
+19355	Barracks (snow)
+19356	Barracks
+19357	Blacksmith (snow)
+19358	Blacksmith
+19359	Griffon Aviary
+19360	Guard Tower
+19361	Inn (snow)
+19362	Inn
+19363	Stable (snow)
+19364	Tower (snow)
+19365	Stable
+19366	Tavern (snow)
+19367	Tavern
+19368	Dark Iron Tower
+19369	Gates of Grim Batol
+19370	Ironforge
+19371	Dam
+19372	Excavation Plataform
+19374	Netherguard Walls
+19375	Cathedral
+19376	Slaughter House
+19377	Ziggurat
+19378	Tower Zeppelin
+19379	Uther Shrine
+19380	Durnholde Walls
+19381	Stromguard Walls
+19382	Troll City Arena
+19383	Undercity
+19384	Lordaeron Walls
+19385	Dark Portal
+19386	Warcraft 2 Dark Portal
+19387	Draenei Hut
+19388	Draenei Tower
+19389	Draenei Hut 2
+19390	Tank
+19391	Black Citadel
+19392	PvP Wall
+19393	PvP Wall 2
+19394	PvP Wall 3
+19395	Spike Wall
+19396	Booty Bay Entrance
+19397	Goblin Statue
+19398	Burnt People
+19399	Burnt People 2
+19400	Burnt People 3
+19401	Burnt People 4
+19402	Burnt People 5
+19403	Bridge 4
+19404	Burnt Giant Wheel
+19405	Lava Altar
+19406	Lava Bridge
+19407	Lava Plug
+19408	Lava Plug 2
+19409	Lava Shrine
+19410	Lothar Statue
+19411	Smoke
+19412	Goblin Melting Pot
+19413	Rock Bridge
+19414	Hanging Body
+19415	Hanging Body 2
+19416	Rock Arch
+19417	Rock Arch 2
+19418	Rock Arch 3
+19419	Wagon
+19420	Ogremound 9
+19421	Covered Bridge
+19422	Darkshire Entrance
+19423	Guard Tower
+19424	Chasm Bridge
+19425	Coffin
+19426	Coffin Lid
+19427	Darkshire Entrance
+19428	Barn
+19429	Hay Stack
+19430	Hay Wagon
+19431	Hearse
+19432	Scarecrow
+19433	Wheat
+19434	Fence Segment
+19435	Gate
+19436	Cementery Gate
+19437	Grave Frame
+19438	Cementery Gate 2
+19439	Gate Segment
+19440	Mausoleum
+19441	Dirt Mound
+19442	Tomb Stone 1
+19443	Tomb Monument
+19444	Rock Wall
+19445	Warning Tree
+19446	Portal Gate
+19447	Blacksmith
+19448	Distillery
+19449	Guard Tower 2
+19450	Watch Tower
+19451	Stormwind Gate Old
+19452	Human Ballista
+19453	Orc Catapult
+19454	Fence
+19455	Stone Fence
+19456	Eye Of Azora
+19457	Lamp Post
+19458	Rock Monument
+19459	Ruined Fountain
+19460	Lion Statue
+19461	Stone Pyre
+19462	Water Basin
+19463	Cliffspring Waterfall
+19464	Dreadmist Peak Pool
+19465	Karazahn Portcullis
+19466	Karazahn Chandelier
+19467	Karazahn Pedestal
+19468	Karazahn Pedestal 2
+19469	Karazahn Sconce
+19470	Karazahn Sconce 2
+19471	Karazahn Sconce 3
+19472	Karazahn Sconce 4
+19473	Karazahn Sconce 5
+19474	Karazahn Sconce 6
+19475	Karazahn Sconce 7
+19476	Karazahn Starlab
+19477	Karazahn Table
+19478	Karazahn Throne
+19479	Dock
+19480	Dock 2
+19481	Small Boat
+19482	Troll Watch Tower
+19483	Holy Spring Well
+19484	Small Boat
+19485	Snake Statue
+19486	Lighthouse
+19487	Stable
+19488	Emerald Dream Catcher
+19489	Emerald Dream Catcher 2
+19490	Emerald Dream Catcher 3
+19491	Emerald Dream Catcher 4
+19492	Emerald Dream Giant
+19493	Emerald Dream Spinning Flower
+19494	Emerald Dream Fountain Tree
+19495	Emerald Dream Fountain Tree 2
+19496	Emerald Dream Fountain Tree 3
+19497	Emerald Dream Fountain Tree 4
+19498	Emerald Dream Fountain Tree 5
+19499	Caverns of Time Door
+19500	Caverns of Time Portal Particles
+19501	Caverns of Time Standing Stone
+19502	Caverns of Time Standing Stone 2
+19503	Caverns of Time Portal
+19504	Bed
+19505	Waterfall 3
+19506	Mountain King Statue
+19507	Fountain
+19508	Franger Statue
+19509	Mage Statue
+19510	Spearman Statue
+19511	Sunshield Statue
+19512	Sunshield Statue 2
+19513	Twinblades Statue
+19514	Captain Statue
+19515	Captain Statue 2
+19516	Crusader Statue
+19517	Crusader Statue 2
+19518	Crusader Statue 3
+19519	Human Statue
+19520	Paladin Statue
+19521	Priest Statue
+19522	Cauldron
+19523	Cracked Ice
+19524	Gnomeragan Door
+19525	Sunken Temple Portcullis
+19526	Uldaman Door
+19527	Instance Portal
+19528	Instance Portal Green
+19529	Instance Portal Red
+19530	Instance Portal White
+19531	Mage Portal
+19532	Meeting Stone
+19533	Meeting Stone 2
+19534	Antons Belobigungsschreiben
+19535	Schlangenflaum
+19536	Knisterndes Lagerfeuer
+19537	Gem Rock
+19538	Kleines Büschel
+19539	Mittleres Büschel
+19540	Großes Büschel
+19541	Deepmoss Eier
+19542	Deepmoss Eier
+19543	Dark Iron Mural 2
+19544	Jin'Zils Rauch
+19545	Die Lichtung des Orakels
+19546	Dolanaar
+19547	Venture Co. Sprengstoffwagen
+19548	Auge von Azora
+19549	Shadowglen-Mondbrunnen
+19550	Starbreeze-Mondbrunnen
+19551	Teiche von Arlithrien-Mondbrunnen
+19552	Die Lichtung des Orakels-Mondbrunnen
+19553	Greatwoodtal
+19554	Der Steinkrallengipfel
+19555	Die Scherwindklippe
+19556	Das verbrannte Tal
+19557	Willkommen
+19564	Greatwoodtal
+19565	Sun Rock
+19566	Desolace
+19567	Der Steinkrallengipfel
+19568	Das Brachland
+19572	Desolace
+19573	Der Steinkrallengipfel
+19574	Die Scherwindklippe
+19575	Greatwoodtal
+19576	Das Brachland
+19577	Das verbrannte Tal
+19578	Die Scherwindklippe
+19579	Desolace
+19580	Greatwoodtal
+19581	Der Steinkrallengipfel
+19582	Sun Rock
+19583	Sun Rock
+19584	Deadmines Door 2
+19585	Venture Co. Steinkrallengebirge Projekt
+19586	Der toxische Nebelwerfer
+19587	Toxischer Nebel
+19588	Monestary Secret Door
+19589	Portcullis Active
+19590	Venture Co. Wagen-Falle
+19591	Venture Co. Wagen (Blau)
+19592	NG-5 Ladung (Rot)
+19593	Wrought Iron Door
+19594	Venture Co.-Hubschrauberlandeplatz
+19595	Torhüter-Unterstand
+19596	Schläferversteck
+19597	Druidenversteck
+19598	Schweine-Lager
+19599	Talon Den Hoard
+19600	Venture Co. Wagen (Rot)
+19601	NG-5 Ladung (Blau)
+19602	Venture Co.-Konstruktionspläne
+19603	Venture Co.-Dokumente
+19604	Undead Campfire
+19605	Undead Fire Large
+19606	Undead Fire Small
+19607	Plagued Fountain
+19608	Snow Fountain
+19609	Human Fountain
+19610	Undead Fountain
+19611	Gryphon Roost
+19612	Mortar
+19613	Rifle
+19614	Bomb
+19615	Dynamite
+19616	Mortar Shell
+19617	Rifle 2
+19618	Tripod
+19619	Gypsy Wagon
+19620	General Outpost
+19621	General Outpost 2
+19622	Sarcophagus
+19623	Shack
+19624	Shop Counter
+19625	Shop Counter 2
+19626	Human Sign Post
+19627	Alleria Statue
+19628	Danath Statue
+19629	Khadgar Statue
+19630	Kurdran Statue
+19631	Lion Statue
+19632	Turalyon Statue
+19633	Uther Statue
+19634	Iron Maiden
+19635	Rack
+19636	Stocks
+19637	Human Vendor Tent
+19638	Great Wall Portcullis
+19639	Pick Axe
+19640	Crimson Wall Shield
+19641	Human Arrow
+19642	Human Arrows
+19643	Axe
+19644	Axe 2
+19645	Bow
+19646	Bow 2
+19647	Hammer
+19648	Hammer 2
+19649	Mace
+19650	Mace 2
+19651	Spear
+19652	Spear 2
+19653	Staff
+19654	Staff 2
+19655	Sword
+19656	Sword 2
+19657	Arrow
+19658	Wall Shield
+19659	Wall Sword
+19660	Wooden Stairs
+19661	Wooden Stairs 2
+19662	Prison Cell
+19663	Brass Doors
+19664	Night Elf Owl Banner
+19665	Night Elf Tree Banner
+19840	Der Posten von Freewind
+19841	Die schimmernde Ebene
+19842	Feralas
+19844	Der große Aufzug
+19847	Thalanaar
+19850	Tanaris
+19856	Das Brachland
+19857	Die schimmernde Ebene
+19859	Feralas
+19861	Henrik Lonebrows Tagebuch
+19862	Leuchtender Seelenkristall
+19863	Maestras Posten
+19868	Raketenwagentrümmer
+19869	Raketenwagentrümmer
+19870	Raketenwagentrümmer
+19871	Raketenwagentrümmer
+19872	Raketenwagentrümmer
+19873	Raketenwagentrümmer
+19875	Frisches Löwengerippe
+19876	Flamme von Uzel
+19877	Velindes Spind
+19878	Ersatzteilkiste
+19879	Roter Seelenkristall
+19897	Fass mit Fools Starkbier
+19901	Bannkreis
+19903	Indurium-Mineralvorkommen
+19904	Mok'Morokks Schnupftabak
+19905	Mok'Morokks Grog
+19906	Mok'Morokks Stahlschränkchen
+20351	Blauer Seelenkristall
+20352	Bannkreis
+20356	Lagerfeuer
+20358	Weißer-Rauch-Emitter - Maßstab 0,2
+20359	Ei von Onyxia
+20447	Harpyien-Nahrungsmittel
+20649	Untervator
+20650	Obere Level-Tür
+20651	Untere Level-Tür
+20652	Untervator
+20653	Obere Level-Tür
+20654	Untere Level-Tür
+20655	Undervator
+20656	Obere Level-Tür
+20657	Untere Level-Tür
+20691	Cozzles Schließkiste
+20694	Lagerfeuer
+20724	Säule von Dor'Danil
+20725	Das Vermächtnis der Aspekten
+20726	Anfänge der Bedrohung durch die Untoten
+20737	Geschickt verkleidetes Fass
+20805	Rizzles Pläne
+20806	Ashenvale-Mondbrunnen
+20807	Uralte Kohlenpfanne
+20808	Schiff
+20811	Grube
+20812	Orc Turm
+20816	Wachturm
+20817	Holding Pen
+20818	Nachtelfen Mondbrunnen
+20819	Mondbrunnen 2
+20820	Gigantische Seeschildkröte
+20821	Gigantische Schildkröte
+20822	Landing Pad
+20823	Spielerbehausung
+20824	Orc Turm
+20827	Stormwind
+20849	Freudenfeuer
+20850	Knisterndes Lagerfeuer
+20869	Kessel
+20870	Kessel
+20871	Kessel
+20881	Flackerndes Lagerfeuer
+20898	Stapel brennender Knochen
+20899	Venture Co. Sprengstoffwagen
+20917	Blaue Aura, kurze Säule, Level 3
+20920	Blaublattknolle
+20923	Gedenkstein
+20925	Schließkiste des Captains
+20939	Sumpfbohnenpflanze
+20969	Plage-Lagerfeuer
+20975	Kohlenpfanne
+20977	Troll Freudenfeuer
+20985	Loser Dreck
+20992	Schwarzer Schild
+21004	
+21015	Hufabdrücke
+21016	Hufabdrücke
+21042	Abzeichen der Theramore-Wache
+21052	Defias Geldkasette
+21053	Sentry Point
+21054	Northpoint-Turm
+21055	Das Brachland
+21056	Insel Theramore
+21057	Foothold-Zitadelle
+21058	Die Docks
+21059	Die Marschen von Dustwallow
+21077	Gasthaus Zur süßen Ruh
+21082	Brackenwall
+21084	Stonemaul
+21088	VORSICHT!
+21089	Ihr betretet das Drachendüster
+21099	Gewahrsam
+21117	Portal von Aku'Mai
+21118	Feuer von Aku'mai
+21128	Orc Spy Report
+21277	Kiste mit Löchern
+21327	Lagerfeuer
+21509	Gasthaus Zur süßen Ruh
+21530	Schnüffelnases Bedienanleiteung
+21581	Folgen des Zweiten Krieges
+21582	Hinter dem dunklen Portal
+21583	Die Kaldorei und der Brunnen der Ewigkeit
+21653	unk
+21654	unk
+21655	unk
+21656	unk
+21680	Duell-Flagge
+21701	Amboss
+22205	Zwergenfeuer
+22234	Signalfackel
+22245	Sack Fleisch
+22246	Träne von Theradras
+22248	Händlerstuhl
+22249	Schreibtischstuhl
+22253	Hochstuhl
+22257	Kriegsraumstuhl
+22550	Draenethyst Kristall
+22590	Hoher Lehnstuhl
+22706	Faustins Alchemie-Set
+22707	Gemütliches Feuer
+22708	Gemütliches Feuer
+22709	Gemütliches Feuer
+22710	Gemütliches Feuer
+22712	Gemütliches Feuer
+22737	Hoher Lehnstuhl
+22772	Gemütliches Feuer
+22836	Gemütliches Feuer
+23295	Schneiderei und Ausstatterei am Kanal
+23296	Konfektionsgeschäft Larson
+23299	Der Park
+23302	Amboss
+23303	Amboss
+23304	Schmiede
+23305	Schmiede
+23505	Gizmorium Shipping Crate
+24388	Steinbank
+24390	Hoher Lehnstuhl
+24392	Steinbank
+24538	Holzbank
+24568	Hoher Lehnstuhl
+24613	Steinbank
+24635	Holzstuhl
+24715	Der Park
+24745	Schmiede
+24746	Schmiede
+24758	Warmes Feuer
+24759	Warmes Feuer
+24776	Yurivs Grabstein
+24798	Sonnengetrocknetes Treibholz
+25328	Pestles Apotheke
+25329	Kurdran Wildhammer
+25330	General Turalyon
+25331	Waldläufer-Captain Alleria Windrunner
+25332	Danath Trollbane
+25333	Erzmagier Khadgar von den Kirin Tor
+25334	Industrie Distrikt
+25336	Altstadt
+25338	Kathedralenplatz
+25339	Kathedralenplatz
+25341	Der Park
+25342	Der Park
+25348	Das Magierviertel
+26449	Rekombobulator
+26480	Craghelms Platte & Kette
+26482	Goldfurys Jagdzubehör
+26483	Fizzlespinners Gemischtwaren
+26485	Thundershot Gewehr & Munition
+26486	Die Steinfeuer Taverne
+26487	Barim's Reagentien
+26488	Timberline-Waffen
+26489	Bruuks Ecke
+26490	Ironforge Besucherzentrum
+26491	Pithwicks Taschen & Zubehör
+26492	Farmountain Landkarten
+26493	Stonebranch Kräuterkundiger
+26496	Zwergen-Kohlenpfanne
+26497	Deep-Mountain Minengesellschaft
+26498	Der Bronzene Kessel
+28024	Karawanen-Kiste
+28027	Zwergendistrikt
+28033	Zwergendistrikt
+28034	Zwergendistrikt
+28035	Stormwind-Tor
+28044	Zwergendistrikt
+28047	Zwergendistrikt
+28604	Zerschlagene Kiste
+28611	Hoher Zwergen-Lehnstuhl
+29784	Einfaches Lagerfeuer
+30854	Atal'ai Artefakt
+30855	Atal'ai Artefakt
+30856	Atal'ai Artefakt
+31407	Loderndes Freudenfeuer
+31408	Freudenfeuer
+31409	Tosendes Freudenfeuer
+31410	Freudenfeuer
+31411	Tosendes Freudenfeuer
+31442	Einfaches Lagerfeuer
+31511	Leuchtendes Lagerfeuer
+31572	Mittlere Kohlepfanne
+31573	Mittlere Kohlepfanne
+31574	Rauchständer
+31575	Große Kohlenpfanne
+31577	Große Kohlenpfanne
+31579	Große Kohlenpfanne
+32056	IronForge Fahrstuhl
+32057	IronForge Fahrstuhl
+32107	Loderndes Feuer
+32109	Loderndes Feuer
+32110	Freudenfeuer
+32348	Flinthammers Rüstung & Bekleidung
+32349	Briefkasten
+32350	Finespindles Lederwaren
+32351	Stonebrows Bekleidungen
+32352	Umherziehender Fischer
+32353	Springspindles Schnickschnack
+32354	DINGE DIE BUMS MACHEN!
+32355	Ironforge-Haupttor
+32356	Halle der Forscher
+32357	Der Verkaufs-Bezirk
+32359	Der Militär-Bezirk
+32362	Der Mystiker-Bezirk
+32364	Markt-Promenade
+32372	Die Große Schmiede
+32377	Teesorraum von Ironforge
+32381	Das düstere Viertel
+32383	Das düstere Viertel
+32386	Halle der Mysterien
+32390	Halle der Waffen
+32419	Gnome
+32569	Galens Stahlkasten
+32878	Freudenfeuer
+32881	Loderndes Freudenfeuer
+32882	Wildes Feuer
+32883	Freudenfeuer
+32884	Loderndes Feuer
+32885	Tosendes Freudenfeuer
+33998	Die Abwasserkanäle
+33999	Die Abwasserkanäle
+34357	BerryFizz Heilmittel & Mixgetränke
+34571	Schmiede
+35251	Karnitols Truhe
+35252	Antikes Relikt
+35591	Schwimmer
+35593	Loderndes Feuer
+36070	Kriegsviertel
+36071	Kriegsviertel
+36072	Das Apothekarium
+36073	Schurkenviertel
+36077	Das Apothekarium
+36078	Handwerksviertel
+36082	Magieviertel
+36090	Magieviertel
+36091	Handwerksviertel
+36126	Königsviertel
+36397	Königsviertel
+36727	Beschwörungsportal
+36738	Das Buch von Ur
+36990	Essens-Tafel
+37097	Beschwörungskreis
+37098	Perrines Truhe
+37099	Atal'ai Tablet
+37118	Galens Käfig
+38019	Dicker Ofen
+38495	Amboss
+38927	Newman's Landung
+40198	Feuer
+40199	Feuer
+40201	Feuer
+41186	Lagerfeuer
+41191	Lagerfeuer
+41193	Lagerfeuer
+41195	Rathaus von Southshore
+43116	Knochenfeuer
+43117	Knochenfeuer
+43118	Knochenfeuer
+43119	Knochenfeuer
+43121	Knochenfeuer
+47296	Mesa-Fahrstuhl
+47297	Mesa-Fahrstuhl
+48403	Kleiner Holzsitz
+48404	Zwergen-Lagerfeuer
+48411	Zwergen-Lagerfeuer
+48414	Zwergen-Lagerfeuer
+48443	Zwergen-Lagerfeuer
+48451	Zwergen-Lagerfeuer
+48455	Zwergen-Lagerfeuer
+48460	Zwergen-Lagerfeuer
+48471	Zwergen-Lagerfeuer
+48516	Hauptkontrollprogramm
+48518	Zwergen-Lagerfeuer
+48519	Zwergen-Lagerfeuer
+48520	Kurzer Holzsitz
+48543	Lagerfeuer
+48556	Zwergen-Lagerfeuer
+48568	Kurzer Holzsitz
+49485	Warmes Feuer
+49487	Brennende Glutspäne
+50447	Brennende Glutspäne
+50469	Thunder Bluff-Schmiede
+50484	Cloudweavers Körbe
+50485	Dawnstrider-Verzauberer
+50486	Benas Alchimie
+50487	Ganzheitliche Kräuterkunde
+50488	Thunder Bluff-Rüstungsschmiede
+50489	Thunderhorns Bogenschießen
+50490	Obst und Gemüse
+50491	Brot und Getreide
+50492	Thunder Bluff-Bank
+50493	Karns Schmiede
+50494	Anhöhe der Jäger
+50495	Anhöhe der Geister
+50496	Fahrstuhl nach Mulgore
+50503	Thunder Bluff-Waffen
+50504	Stonehoof-Geologie
+50505	Informationen der Stadtverwaltung Thunder Bluff
+50507	Anhöhe der Ältesten
+50520	'Anhöhe der Ältesten'-Trommeln
+50521	Kodo-Steaks und -Rippchen
+50522	Mountaintop Köder und Ausrüstung
+50523	Winterhoof-Totems
+50524	Askas Küche
+50525	Thunderhoofs Feuerwaffen
+50535	Regenstecken
+50536	Jägerhalle
+50537	Halle der Ältesten
+50538	Halle der Geister
+50830	Stein Amboss
+50910	Freudenfeuer
+50935	Sack Mais
+50936	Sack Gerste
+50937	Sack Roggen
+50961	Malem Truhe
+50982	Die verbrannte Eiche
+50983	Geheizte Schmiede
+50987	Freudenfeuer
+50988	Freudenfeuer
+51708	Elizas Graberde
+52175	Schmiede
+55615	Lagerfeuer
+55616	Freudenfeuer
+55774	Ragetotem-Waffen
+56898	Platte & Kette
+56901	Gerberei und Lederarbeiten
+56903	Leckeres Essen
+56905	Schnelle Flüge
+56910	Taverne Zum salzigen Seemann
+56911	Treuhandbank von Stranglethorn
+57708	Laternenmast
+57748	Laternenmast
+58369	Gestohlene Eisentruhe
+58388	Kohlenpfanne
+58595	Burningblade-Geheimlager
+58596	Waffen
+58597	Fledermausführer
+58598	Gemischtwaren
+58600	Leichte Rüstung
+58601	Bank
+58605	Schwere Rüstung
+58606	Kochkunst
+58607	Wämser
+58608	Gildengründung
+58609	Ingenieurskunst
+58610	Alchimist
+58611	Reliktverkäufer
+58612	Reagenzienverkäufer
+58614	Verzauberung
+58615	Kräuterkundiger
+58616	Waffenhändler
+58617	Schmied
+58618	Bogenhändler
+58619	Schusswaffenschmied
+58620	Bergbau
+58621	Dolche
+58622	Lederarbeiten
+58623	Erste Hilfe
+58624	Taschenverkäufer
+58625	Gift
+58626	Kartografie
+58627	Buchanbieter
+58629	Stabhändler
+59517	Die Gesamte Welt der Pflanzen
+59518	Nautische Notwendigkeiten
+59529	Kessel
+59845	Die alte Hafenbehörde
+59846	Kalimdor Airlines
+59847	Blaue-Augen-und-Flecken KG
+59848	Plattform zu südlichen Himmeln
+59850	Bouchers Kessel
+59851	Das tapfere Schneiderlein
+59852	Der fröhliche Blinker
+59853	Herd
+60395	Holzstuhl
+61095	Mechanischer Stuhl
+61918	Gerberei Südland
+61927	Freudenfeuer
+61928	Freudenfeuer
+61929	Freudenfeuer
+61934	Kohlenpfanne der schlafenden Flamme
+61935	Regulatorventil
+61936	Treibstoffzufuhrventil
+61952	Lagerfeuer
+61953	Kohlenpfanne
+63195	Besucherzentrum von Stormwind
+63196	Freudenfeuer
+63674	Schamanen-Schrein 2
+65407	Graznabs Maschine
+66780	Löwenherz Rüstkammer
+67234	Feuer-Totem
+68865	Schnüffelnasenleitstecken
+69422	Freudenfeuer
+69426	Freudenfeuer
+69427	Freudenfeuer
+69432	Lagerfeuer
+69435	Lagerfeuer
+70517	Laternenmast
+73940	Schlammbedecktes Silbervorkommen
+73941	Schlammbedecktes Goldvorkommen
+74075	Kessel
+74078	Kessel
+74091	Taverne Zum salzigen Seemann
+74138	Kohlenpfanne
+74439	Kohlenpfanne
+74440	Kohlenpfanne
+74444	Kohlenpfanne
+74447	Große eisenbeschlagene Truhe
+74448	Große robuste Truhe
+74731	Noggle's Satchel
+75293	Große ramponierte Kiste
+75295	Große eisenbeschlagene Truhe
+75296	Große eisenbeschlagene Truhe
+75297	Große eisenbeschlagene Truhe
+75298	Große robuste Kiste
+75299	Große robuste Kiste
+75300	Große robuste Kiste
+77813	Amboss
+80022	Saugpumpe
+80023	Kabine
+80024	Schiene
+82136	Laternenmast
+82137	Laternenmast
+82138	Laternenmast
+82139	Laternenmast
+82140	Laternenmast
+83763	Gestohlene Bücher
+85556	Kabine 2
+85562	Ironbands Geldkassette
+85563	Dead-tooths Stahlkasten
+86492	Kiste mit Elunit
+89634	Eisenkoralle
+89635	Sonnenverbrannte Schale
+89931	Bath'rahs Kessel
+90566	Werkstatttür
+90567	Hebel
+90858	Werkstatttür
+91138	Jordans Hammer
+91672	Holzstuhl
+91673	Herd
+91692	Schießeisen-Importe Ost
+91737	Lagerfeuer
+92011	Grimands Amboss
+92013	Foliant der Kabale
+92015	Beschwörungskreis
+92252	Strahads Beschwörungskreis
+92388	Summoning Circle
+92420	Bailors Erz
+92423	Beschädigte Truhe
+92425	Dampfendes Gebräu
+92426	Eingelegter Schlamm
+92427	Rauchfleischständer
+92524	Gilde
+92525	Argentumdämmerung
+92526	Alchimie
+92527	Taschen
+92528	Gemischtwaren
+92529	Verzauberkunst
+92531	Robe
+92532	Stab
+92533	Lederverarbeitung
+92534	Schneiderei
+92535	Allgemeines Handwerk
+92537	Erste Hilfe
+92538	Kochkunst
+92539	Waffen
+92543	Wurfwaffen
+92544	Pfeilmacher
+92545	Panzerrüstung
+92546	Schilde
+92549	Stoffrüstung
+92550	Lederrüstung
+92551	Zweihändige Waffen
+92703	Bank
+93192	Kernholz
+94039	Schrein von Gelihast
+94040	Altar der Tiefen
+94186	Freudenfeuer
+94189	Freudenfeuer
+94190	Freudenfeuer
+97700	Geheimtür
+97701	Fackel
+97801	Vornehmer Stuhl
+100028	Schamanenschrein
+100035	Shaman Shrine
+101850	Kathedralentür
+101851	Waffenkammertür
+101854	Herods Tür
+102413	Verigans Faust
+102984	Binks Werkzeugkasten
+102985	Balnir Drachenmäulchen
+102986	Ju-Ju Haufen
+103015	Schrein von Gelihast
+103016	Altar der Tiefen
+103574	Gefüllter Kapsel-Behälter
+103600	Androns Bücherregal
+103628	Urs Abhandlung über Schattenmagie
+103661	Witherbark Totem Bundle TRAP
+103662	Blitzgeladenes Bündel
+103663	Kessel
+103664	Rituale der Macht
+103680	Mana Spalt
+103694	Lagerfeuer
+103695	Lagerfeuer
+103774	Stanardmäßige Wekzeuge
+103795	Greifenhorst
+103811	Holzstuhl
+103813	Mausoleumssiegel
+103815	Ambermill Stahlkasten
+103820	Rote Rakete
+103821	Doans Geldkassette
+104555	Amboss
+104564	Bingles' Werkzeugeimer
+104569	Bingles' Werkzeugeimer
+104574	Bingles' Werkzeugeimer
+104575	Bingles Sprengstoffstube
+104591	Kapellen-Tür
+104592	Rituals of Power
+104593	Mausoleums-Auslöser
+104600	Tür des Großinquisitors
+105168	Knochenschlüssel
+105169	Agamand-Waffenregal
+105170	Agamand-Waffenregal
+105171	Agamand-Waffenregal
+105172	Agamand-Waffenregal
+105174	Truhe mit Verwahrungskästen
+105175	Inkantation der Manifestation
+105176	Geldkassette der Venture Co.
+105188	Trias' Käse
+105568	Landarbeiter Holzstapel
+105570	Allianz-Stahlkiste
+105576	Beschwörungskreis
+105578	Horden-Truhe
+105579	Allianz-Truhe
+105581	Allianz-Truhe
+106318	Ramponierte Truhe
+106319	Ramponierte Truhe
+106325	Loderndes Feuer
+106528	Wassermanifestationseffekt
+106529	Wassersäuberungs-Aura
+109515	Nachtelfen Bärenfalle
+110233	Freudenfeuer
+110235	Lagerfeuer
+110236	Lagerfeuer
+111094	Weingut Gallina
+111095	Allianz-Truhe
+111148	Nachtelfen Bärenfalle
+112068	Holzstuhl
+112192	Stuhl
+112214	Stuhl
+112877	Talvashs Wahrsagebecken
+112888	Staubiges Regal
+112898	Die güldene Rose
+112948	Verschlossene Geldkassette der INTREPID
+113528	Spirituelle Heilung
+113529	Arathi-Kanonenfeuer
+113531	Kanone
+113568	Schurkenviertel
+113570	Das Apothekarium
+113572	Kriegsviertel
+113574	Kriegsviertel
+113575	Schurkenviertel
+113576	Magieviertel
+113752	Gasthaus
+113757	Shadowforge-Cache
+113769	Osterei
+113771	Osterei
+113791	Kohlenpfanne von Everfount
+121264	Lucius' Schließkassette
+122088	Kapselbehälter
+123207	Goblin-Verhüttungstiegel
+123211	Gießerei Amboss
+123214	Duskwood Truhe
+123215	Diesen Weg
+123216	Den anderen Weg
+123217	Jenen Weg
+123309	Schlammbedeckte Echtsilberablagerung
+123310	Schlammbedecktes Mithrilvorkommen
+123329	Baelogs Kiste
+123330	Bukanier-Geldkassette
+123331	Bukanier-Geldkassette
+123332	Bukanier-Geldkassette
+123333	Bukanier-Geldkassette
+123334	Der Prügler (DND)
+123355	Ratten-Bombe Falle
+123462	Das Juwel der südlichen Meere
+123463	Baelogs Tagebuch
+123848	Schlammbedecktes Thoriumvorkommen
+124072	Duskwood Kiste
+124367	Tempeltür
+124368	Tempeltür
+124369	Die uralte Gruft
+124370	Echomok-Tür
+124371	Hauptstein
+124372	Siegel von Khaz'Mul
+124374	Dr. Horatio Montgomery
+124388	Garrett Familienschatz
+124389	Krom Stoutarms Truhe
+125477	Auffällige Urne
+126049	Magenta Kappengruppen
+126050	Bank
+126158	Tallonkais Kommode
+126260	Antike Truhe
+126312	Freudenfeuer
+128196	Magenta Mütze Ansammlungen Falle
+128293	Magenta Kappengruppen
+128308	Flaches Grab
+128403	Flaches Grab
+129127	Gallywix's Geldkasette
+130125	Die fünf tödlichen Giftstoffe
+130126	Gallywix's Geldkasette
+130358	Chemische Bombe
+130511	Altar der Beschützer
+130667	Amboss
+131474	Die Scheiben von Norgannon
+131978	Große mithrilbeschlagene Truhe
+131979	Große Darkwood-Truhe
+133234	Altar von Archaedas
+133466	Bank
+133467	Bank
+136101	Schneider
+136929	Stuhl
+136930	Stuhl
+136931	Bank
+136945	Bank
+136947	Feuer
+136957	Freudenfeuer
+136959	Freudenfeuer
+136962	Freudenfeuer
+137167	Nether Rift
+138492	Splitter von Myzrael
+138493	Türen
+138496	Horn-Hülle
+138497	Halterung des Mundstücks
+138498	Tempel des Mondes Brunnen
+139852	Ehrenmal für Sully Balloo
+140105	Wilde Lohe
+140106	Wilde Lohe
+140213	Lagerfeuer
+140358	Glühende Kohlen
+140372	Bank
+140908	Ironforge Briefkasten
+140911	Spule des Lichts Chartreuse Seidenfaden
+140971	Gahz'ridian
+141069	Lagerfeuer
+141070	Trollkäfig
+141071	Trollkäfig
+141076	Sun Rock Abbau
+141077	Greatwood Tal
+141596	Hexendoktors Truhe
+141612	[PH] Weeglis beschlagenes Fass
+141812	Bindungsstein
+141832	Gong von Zul'Farrak
+141844	Lagerfeuer
+141853	Violetter Tragan
+141860	Kanone
+141869	Tempeltür
+141891	Razelikhss Träne
+141931	Hippogryphen-Ei
+141979	Antiker Schatz
+141980	Regenbogenfarbige Kasette
+141981	Regenbogenfarbige Kasetten-Teile
+142036	Rin'jis Käfig
+142071	Ei-O-Mat
+142075	Briefkasten
+142076	Claras frische äpfel
+142088	Schrifttafel des Willens
+142091	Freudenfeuer
+142095	Briefkasten
+142102	Briefkasten
+142109	Briefkasten
+142111	Briefkasten
+142122	GESUCHT: Kaliph Scorpidsting
+142127	Rin'jis Geheimnis
+142140	Lila Lotus
+142141	Arthas' Tränen
+142142	Sonnengras
+142143	Blindkraut
+142144	Geisterpilz
+142145	Gromsblut
+142151	Versiegeltes Fass
+142172	Transpolyporter BB
+142175	Transpolyporter
+142176	Transpolyporter
+142179	Solarsal Gazebo
+142181	Gestohlene Fracht
+142184	Captains Kiste
+142185	Flamme von Byltan
+142186	Flamme von Lahassa
+142187	Flamme von Imbel
+142188	Flamme von Samha
+142189	Inconspicuous Landmark
+142191	Horde Vorratskiste
+142194	Pirate's Treasure!
+142195	Woodpaw Schlachtplan
+142207	Die finale Abschluß-Kammer
+142211	Gnomgesicht 01
+142214	Knopf
+142219	Knopf
+142341	Maevas mystische Bekleidung
+142343	
+142344	Künstlicher Extrapolator
+142345	Matrix Punchograph 3005-A
+142475	Matrix Punchograph 3005-B
+142476	Matrix Punchograph 3005-C
+142477	Thermapluggs Safe
+142487	Der Funkelmat 5200
+142488	Trogg-Hologram
+142696	Matrix Punchograph 3005-D
+142697	Nimboyas Spitze
+142702	Giftstoff-Flasche
+142703	Giftstoff-Flasche
+142704	Giftstoff-Flasche
+142705	Giftstoff-Flasche
+142706	Giftstoff-Flasche
+142707	Giftstoff-Flasche
+142708	Giftstoff-Flasche
+142709	Giftstoff-Flasche
+142710	Giftstoff-Flasche
+142711	Giftstoff-Flasche
+142712	Giftstoff-Flasche
+142713	Giftstoff-Flasche
+142714	Giftstoff-Flasche
+142715	Schrifttafel von Theka
+142874	Bei Stoneblades
+142947	Stein-Stuhl
+142958	Feralas: Ein historischer Abriss
+142972	Rauchfleischständer
+143230	Transpolyporter DRBB
+143254	Timberline-Waffen
+143256	Der kämpfende Hexer
+143324	Steelfurys Waffenkaufhaus
+143336	Ironforge - Arzt
+143338	Arkanarien Thistlefuzz
+143398	Herd
+143399	Taverne Zum geborstenen Kiel
+143979	Käfigtür
+143980	Gordunni Schriftrolle
+143981	Briefkasten
+143982	Briefkasten
+143983	Briefkasten
+143984	Briefkasten
+143988	Briefkasten
+143989	Briefkasten
+144050	Gordunni Falle
+144053	Scrimshanks Überlebens-Kit
+144054	Shays Kiste
+144063	Equinex Monolith
+144064	Gordunni Dreckhaufen
+144065	Explosive Ladung
+144066	Erster Käfig der Witherbark
+144067	Zweiter Käfig der Witherbark
+144068	Dritter Käfig der Witherbark
+144069	Grimshades Vision
+144070	Sharpbeaks Käfig
+144071	Highvale-Aufzeichnungen
+144072	Highvale-Notizen
+144073	Highvale-Bericht
+144111	Smites Truhe
+144112	Briefkasten
+144125	Briefkasten
+144126	Briefkasten
+144162	Gerätehandel Springspindle
+144179	Briefkasten
+144181	Schwert des Barbarenkönigs
+144570	Briefkasten
+146080	Undercity
+146082	Equinex Monolith Lights 1
+146083	Equinex Monolith Lights 2
+146084	Ausgangstür
+146085	Einsturz
+146088	Freudenfeuer
+146096	Schildwachenbaracke
+147136	Horn von Margol dem Wütenden
+147435	Bank
+147516	Dunkeleisen
+147517	Dunkeleisen
+147537	Frischer Zhevra-Kadaver
+147557	Gestohlenes Silber
+147742	Unbearbeitete Kohlenpfanne
+147762	Unbearbeitete Kohlenpfanne
+148418	Ewige Flamme
+148423	Gasthaus
+148424	Kuruks Güter
+148425	Handwerkswaren und -bedarf
+148426	Hewas Waffenkammer
+148498	Altar von Suntara
+148499	Felix' Kasten
+148503	Feuerfedergrat - Heiße Stelle
+148504	Ein verdächtiger Grabstein
+148506	Twilight-Artefakt
+148512	Essenz Brunnen
+148513	Tablet von Jin'yael
+148514	Tablet von Markri
+148515	Tablet von Sael'hai
+148516	Tablet von Beth'Amara
+148830	Atal'ai Statue
+148831	Atal'ai Statue
+148832	Atal'ai Statue
+148833	Atal'ai Statue
+148834	Atal'ai Statue
+148835	Atal'ai Statue
+148836	Altar von Hakkar
+148837	Atal'ai Statue
+148838	Götzenbild von Hakkar
+148842	Roland's Mana Gem
+148843	Feuer
+148846	Feuer
+148850	Feuer
+148857	Feuer
+148883	Atal'ai Licht SMALL (DND)
+148937	Atal'ai Licht BIG (DND)
+148976	Feuer
+148996	Turmfeuer
+148997	Turmrauch
+148998	Anrufungskreis des bösen Gottes
+149024	Der Gol'bolar Steinbruch
+149025	Wachposten-Kohlenpfanne
+149027	Fleischständer
+149030	Wachposten-Kohlenpfanne
+149031	Wachposten-Kohlenpfanne
+149032	Wachposten-Kohlenpfanne
+149036	Marvons Truhe
+149038	Tischkocher
+149045	Gerüst-Wagen
+149046	Gerüst-Wagen
+149047	Fackel der Vergeltung
+149048	Holzbank
+149410	Licht der Vergeltung
+149419	Fleisch-Räucherofen
+149420	Ani
+149431	Kraftfeld
+149432	Tür
+149433	Tür
+149480	Rune von Jin'yael
+149481	Rune von Beth'Amara
+149482	Rune von Markri
+149483	Rune von Sael'hai
+149502	Hort des Schwarzdrachenschwarms
+150075	Wanted Poster: Vile Aggressors
+150086	Makeshift-Helikopterlandeplatz
+150087	Burbiks Laden
+150137	Tür
+150138	Tür
+150140	Arkaner Fokuskristall
+151286	Kaldorei Buch der Beschwörung
+151951	Götzen-Ofen-Feuer
+151952	Götzen-Schalen-Feuer
+151953	Holzbank
+151973	Götzen-Mund-Feuer
+151974	Gadgetzan
+151975	Steamwheedle
+151976	Die schimmernde Ebene
+151981	Steamwheedle
+152034	Schmiede
+152080	Kadrak's Flag
+152093	Kadrak, Flagge, Zauber-Fokus (DND)
+152094	Hyazinth-Pilz
+152095	Mondblütenlilie
+152097	Belnistrasz's Kohlenpfanne
+152098	Magus Rimtoris Tagebuch
+152325	Feurige Kohlepfanne
+152574	Die Zwillings-Kolossale
+152575	Desolace
+152576	Feathermoon Feste
+152577	High Wilderness
+152578	Lower Wilds
+152579	Thousand Needles
+152580	Ravenwind
+152584	High Wilderness
+152585	Die Zwillingskolosse
+152586	Desolace
+152614	Aufzug
+152620	Azsharit Formation
+152621	Azsharit Formation
+152622	Azsharit Formation
+152631	Azsharit Formation
+153123	Kim'jaels Ausrüstung
+153124	Kessel
+153125	Kessel
+153157	Verkohlte Dunkeleisen-Überreste
+153158	Verstümmelte Dunkeleisen-Überreste
+153159	Verstümmelte Dunkeleisen-Überreste
+153160	Verkohlte Dunkeleisen-Überreste
+153203	Rune des Entweihers
+153204	Rune des Entweihers
+153205	Altar des Entweihers
+153239	Wildekin-Feder
+153359	Rune der Wiederkehr
+153360	Rune der Wiederkehr
+153451	Robuste Truhe
+153453	Robuste Truhe
+153454	Robuste Truhe
+153462	Große robuste Truhe
+153463	Große robuste Truhe
+153464	Große robuste Truhe
+153468	Große mithrilbeschlagene Truhe
+153469	Große mithrilbeschlagene Truhe
+153470	Lebensmittelkiste
+153471	Lebensmittelkiste
+153472	Lebensmittelkiste
+153473	Lebensmittelkiste
+153556	Thauris-Relikt
+153576	Kessel
+153577	Kessel
+153578	Briefkasten
+153723	Freudenfeuer
+154357	Glitzernder Matsch
+156561	"GESUCHT" Poster
+157636	Lagerfeuer
+157816	Haltestift
+157817	Haltestift
+157818	Haltestift
+157819	Haltestift
+157820	Haltestift
+157923	Riesige Türflügel
+157936	Un'Goro-Erdhaufen
+158545	Bank
+158580	Stuhl
+160411	Herd
+160445	Sha'ni Proudtusks sterbliche Überreste
+160836	Reliquienbehälter
+160839	Gor'teshs abgeschnittener Kopf
+160840	Lockerer Schmutzhügel
+160845	Dunkler Behälter
+160866	Gestühl
+161456	Dunkelbewahrer-Porträt
+161460	Das Shadowforge Schloß
+161461	Riesiger-Tür-Mechanismus
+161462	Riesiger-Tür-Stopper
+161488	Freudenfeuer
+161495	Geheimer Geldschrank
+161504	Ein kleines Pack
+161505	Ein havariertes Floß
+161513	Farm Chicken Egg
+161516	BigDoorDummyCollision02
+161521	Forschungsausrüstung
+161525	Arena-Tor
+161526	Kiste mit Lebensmitteln
+161527	Dinosaurierknochen
+161536	Steinbruchtor
+161557	Millys Ernte
+161752	Werkzeugkiste
+162024	Samophlang
+164638	Feuerbrandfalle
+164639	Eiskältefalle
+164658	Blauer Machtkristall
+164659	Grüner Machtkristall
+164660	Roter Machtkristall
+164661	Gelber Machtkristall
+164662	Ausrüstungskästen
+164688	Ironfel
+164689	Denkmal von Franclorn Forgewright
+164690	Krom'zars Banner
+164699	Loderndes Feuer
+164725	Großdrachenrückgrattür
+164726	PortcullisActive01
+164729	Miblons Tür
+164758	Miblons Köder
+164778	Blauer Machtkristall
+164779	Grüner Machtkristall
+164780	Roter Machtkristall
+164781	Gelber Machtkristall
+164798	Evo-Wurzel
+164820	Dunkelbewahrer-Namensschild
+164821	Dunkelbewahrer-Namensschild
+164822	Dunkelbewahrer-Namensschild
+164823	Dark Keeper Nameplate
+164824	Dunkelbewahrer-Namensschild
+164825	Dunkelbewahrer-Namensschild
+164826	Aura 1 - Linken
+164827	Aura 2 - Linken
+164838	JD Roter Kristall 1
+164839	Explosivfalle
+164867	GESUCHT
+164868	SOFORT TÖTEN
+164869	Spektral Kelch
+164870	Rauch-Emitter 02
+164871	Zeppelin - Orgrimmar nach Undercity
+164872	Feuerbrandfalle II
+164873	Feuerbrandfalle III
+164874	Feuerbrandfalle IV
+164875	Feuerbrandfalle V
+164876	Eiskältefalle II
+164877	Eiskältefalle III
+164879	Explosivfalle II
+164880	Explosivfalle III
+164881	Gesäuberter Nachtdrache
+164882	Gesäuberte Liedblume
+164883	Gesäuberte Peitscherwurzel
+164884	Gesäuberte Windblüte
+164885	Verderbter Nachtdrache
+164886	Verderbte Liedblume
+164887	Verderbte Windblüte
+164888	Verderbte Peitscherwurzel
+164908	Thanes Stiefel
+164909	Abgewrackter Kahn
+164910	Verschnörkelte Truhe
+164911	Thunderbrew Lager-Fässchen
+164927	JD Gelber Kristall 1
+164953	Große Lederrucksäcke
+164954	Zukk'ash Topf
+164955	Nördlicher Kristallpylon
+164956	Westlicher Kristallpylon
+164957	Östlicher Kristallpylon
+164958	Bloodpetal-Sprössling
+165549	MAIDEN'S FANCY - Rundreisen nach Booty Bay
+165554	Das Herz des Berges
+165557	Zeppelinlandeturm
+165558	Zeppelinlandeplatz
+165559	Muigins Schössling
+165578	Dunkeleisen-Bier FALLE
+165618	Klosterstuhl
+165658	Dunkeleisenablagerung
+165738	Dunkeleisen-Bierfass
+165739	Grim Guzzler Eber
+166863	Frisches Dreschadongerippe
+166872	Vorratskiste
+169216	Konservierter Dreschadon Kadaver
+169217	Flacher Un'Goro-Fels
+169243	Kiste der SIEBEN
+169294	Schrifttafel der Sieben
+169967	Booty Bay-Schmiede
+170033	GeneralsstuhlLoEnd26
+170047	Holzstuhl
+170353	Zwerg-Hologram
+170439	Bank
+170453	Stuhl
+170524	Bank]
+170555	BurningGiantWheel01
+170556	Black Rock-Tür
+170557	Black Rock-Tür
+170558	Das Lyzeum
+170559	Shadowforge-Tor
+170561	Versorgungsraum-Tür
+170562	Zellentür
+170563	Zellentür
+170570	Ostgarnisions-Tür
+170571	Bar Tür
+170572	Black Rock-Eisentür
+170573	Golem Raum Nord
+170574	Golem Raum Süd
+170575	Thronsaal-Türen
+170576	Black Rock-Tür
+170577	Black Rock-Tür
+170578	Dunkeleisen-Rune (Zwerge)
+170579	Dunkeleisen-Rune (Zwerge)
+170580	Dunkeleisen-Rune (Zwerge)
+170581	Dunkeleisen-Rune (Zwerge)
+170582	Dunkeleisen-Rune (Zwerge)
+170583	Dunkeleisen-Rune (Zwerge)
+170584	Dunkeleisen-Rune (Zwerge)
+170592	Kaiserlicher Thron
+170607	Dunkeleisen-Fassbüchse
+171524	Tüftlerstadt
+171531	Die Bibliothek
+171552	Heiße Kohlen
+171674	Stein-Stuhl
+171704	Ironforge-Waffenkammer
+171709	Der Hohe Sitz
+171715	Der große Amboss
+171716	Schmiede
+171717	Schmiede
+171742	Dicker Ofen
+171770	Longberrys Reagenzien
+171938	Kaktusapfel
+171939	Verderbte Liedblume
+171940	Gesäuberte Liedblume
+171941	Fässchen-Falle
+171942	Verderbte Liedblume
+171943	Gesäuberte Liedblume
+172911	Der Schwarze Amboss
+172943	Mächtige Lohe
+172950	Mächtige Lohe
+172957	Tal der Weisheit
+172958	Tal der Ehre
+172960	Die Kluft der Schatten
+172961	Tal der Geister
+172971	Krallentor
+172978	Thralls Festung
+172982	Tal der Kraft
+172983	Die Kluft der Schatten
+172986	Orgrimmar-Haupttor
+172992	Die Gasse
+172994	Orgrimmar-Haupttor
+172998	Mächtige Lohe
+173000	Mächtige Lohe
+173005	Darkfire Enclave
+173006	Spiritfury-Reagenzien
+173008	Mächtige Lohe
+173014	Fleischständer
+173016	Borstans Feuergrube
+173017	Gotris Reiseausstattung
+173018	Magars Tuchwaren
+173020	Jandis Arboretum
+173021	Yelmaks Alchimie und Tränke
+173022	Godans Runenarbeiten
+173024	Droffers und Sohn Bergungen
+173025	Obstimport Stranglethorn
+173044	Kodobalg-Lederer
+173056	Asorans Markt
+173063	Schmiede
+173064	Schmiede
+173065	Amboss
+173078	Legendäre Waffen
+173079	Kiros Harnische
+173080	Orgrimmar-Bogenmacher
+173081	Roter Canyon-Bergbau
+173082	Noggs Meistermaschinen
+173083	Der Brennende Amboss
+173084	Halle der Kriegerhelden
+173085	Jägerhalle
+173086	Lumaks Angeln
+173089	Mächtige Lohe
+173094	Amboss
+173095	Schmiede
+173107	Orc-Kocher
+173123	Mächtige Lohe
+173124	Mächtige Lohe
+173143	Mächtige Lohe
+173157	Skyfury-Stäbe
+173160	Geister-Lodge
+173161	Dunkeldornen-Lodge
+173162	Der Stärkste überlebt
+173168	Die langsame Klinge
+173169	Rekkuls Gifte
+173170	Shadowswift-Bruderschaft
+173171	Mächtige Lohe
+173173	Shadowdeep-Reagenzien
+173174	Dunkelerde - Fungi und Pilze
+173177	Eisenholz - Stäbe und Zauberstäbe
+173197	Mächtige Lohe
+173200	Mächtige Lohe
+173201	Mächtige Lohe
+173202	Sorans Leder- und Stahlrüstungen
+173203	Gemischtwaren Orgrimmar
+173207	Mächtige Lohe
+173215	Die zerborstene Axt
+173216	Bank von Orgrimmar
+173217	Mampf und mehr
+173218	Schießeisen-Importe
+173219	Der Himmelsturm
+173220	Botschaft der Horde
+173222	Auktionshaus Orgrimmar
+173232	Schmiede-Vorlagen
+173234	Schmiede-Vorlagen
+173265	Hölzernes Plumpsklo
+173266	Goodsteel Konto
+173284	Verderbte Peitscherwurzel
+173324	Verderbter Nachtdrache
+173325	Gesäuberter Nachtdrache
+173326	Gesäuberte Windblüte
+173327	Verderbte Windblüte
+174045	Die Schwarze Schmiede
+174553	Geheimtür
+174554	Reliquienkasetten-Tür
+174559	Reliquienkasetten-Tür
+174565	Dunkle Kasette
+174594	Verderbte Liedblume
+174595	Verderbte Liedblume
+174596	Verderbte Liedblume
+174597	Verderbte Liedblume
+174598	Verderbte Liedblume
+174599	Verderbte Windblüte
+174600	Verderbte Windblüte
+174601	Verderbte Windblüte
+174602	Verderbte Windblüte
+174603	Verderbte Windblüte
+174604	Verderbte Windblüte
+174605	Verderbte Peitscherwurzel
+174606	Verderbte Peitscherwurzel
+174607	Verderbte Peitscherwurzel
+174608	Gesäuberter Nachtdrache
+174609	Gesäuberter Nachtdrache
+174610	Gesäuberte Liedblume
+174612	Gesäuberte Liedblume
+174613	Gesäuberte Liedblume
+174614	Gesäuberte Liedblume
+174615	Gesäuberte Liedblume
+174616	Gesäuberte Windblüte
+174617	Gesäuberte Windblüte
+174618	Gesäuberte Windblüte
+174619	Gesäuberte Windblüte
+174620	Gesäuberte Windblüte
+174621	Gesäuberte Windblüte
+174622	Gesäuberte Peitscherwurzel
+174623	Gesäuberte Peitscherwurzel
+174624	Gesäuberte Peitscherwurzel
+174625	Gesäuberte Peitscherwurzel
+174626	Scholomance-Tür
+174682	Vorsicht, Pterrordax!
+174683	J.D.s Handbuch
+174684	Verderbter Nachtdrache
+174685	Gesäuberter Nachtdrache
+174686	Verderbte Peitscherwurzel
+174687	Gesäuberte Peitscherwurzel
+174698	Stuhl
+174708	Verderbte Windblüte
+174709	Verderbte Windblüte
+174710	Gesäuberte Windblüte
+174711	Gesäuberte Windblüte
+174712	Verderbte Liedblume
+174713	Verderbte Liedblume
+174714	Gesäuberte Liedblume
+174715	Gesäuberte Liedblume
+174728	Beschädigte Kiste
+174744	Shadowforge-Kohlenpfanne
+174746	Geätzte Notiz
+174764	Witherbark Totem Bündel
+174792	Gorishi-Silithid-Kristall
+174793	Gorishi Hive Hatchery
+174794	Mirror Lake Waterwall
+174795	Auberdine Moonwell
+174796	Sandsorrow Watch
+174797	Xavian Waterfall
+174848	Testausrüstung
+174857	Jazziks Gemischtwaren
+174858	Ironzars Importwaffen
+174863	Herd
+174872	Herd
+175075	Kohlenpfanne
+175080	Zeppelin - Grom'Gol-Orgrimar
+175087	The Sparklematic 5200
+175124	Krähenhorstei
+175146	Koch-Kohlenpfanne
+175153	Glutseher AUS
+175165	Schließkassette der SILVER DAWNING
+175166	Schließkassette der MIST VEIL
+175167	Aussichtsraum-Tür
+175185	Drachenreiter Portal
+175186	Portal
+175187	Dunkeleisen-Rune (Zwerge)
+175194	Rune, Raum 7
+175195	Rune, Raum 3
+175196	Rune, Raum 6
+175197	Rune, Raum 1
+175198	Rune, Raum 5
+175199	Rune, Raum 2
+175200	Rune, Raum 4
+175207	Gestrandete Meereskreatur
+175226	Gestrandete Meereskreatur
+175227	Gestrandete Meereskreatur
+175230	Gestrandete Meereskreatur
+175244	Glutseher EIN
+175245	Vater Flamme
+175246	Kiblers Käfig
+175247	Kiblers Käfig
+175248	Kiblers Käfig
+175249	Kiblers Käfig
+175264	Brodelnde Essenz
+175265	Testausrüstung
+175266	Dunkeleisen-Rune (Zwerg)
+175267	Dunkeleisen-Rune (Zwerg)
+175268	Dunkeleisen-Rune (Zwerg)
+175269	Dunkeleisen-Rune (Zwerg)
+175270	Dunkeleisen-Rune (Zwerg)
+175271	Dunkeleisen-Rune (Zwerg)
+175272	Dunkeleisen-Rune (Zwerg)
+175284	Lagerfeuer
+175285	Lagerfeuer
+175294	OrcSign_DarkfireEnclave
+175302	Das Slow Blade-Zeichen
+175307	OrcSign_ShadowdeepReagents
+175308	OrcSign_DarkEarth
+175319	Darkfire-Enklave
+175320	GESUCHT: Murkdeep!
+175321	Ungeschmiedetes Siegel der Auferstehung
+175322	Geschmiedetes Siegel der Auferstehung
+175324	Frosthammer-Splitter
+175329	Blackwood-Nusslager
+175330	Blackwood-Obstlager
+175331	Blackwood-Getreidelager
+175334	Bijous Bedarfsgegenstände
+175336	Gereinigtes Essen
+175350	Kleines Fallgatter
+175351	Kleines Fallgatter
+175352	Königsplatztor
+175354	Kleines Fallgatter
+175355	Kleines Fallgatter
+175356	Handschuhständer
+175358	Schlächterplatztor
+175359	Kleines Fallgatter
+175368	Dienstboteneingang
+175369	Dienstboteneingang am Ältestenplatz
+175370	Kleines Fallgatter
+175372	Großes Fallgatter
+175373	Großes Fallgatter
+175374	Großes Fallgatter
+175375	Großes Fallgatter
+175376	Großes Fallgatter
+175377	Großes Fallgatter
+175380	Tür
+175382	Doomriggers Kasette
+175384	Highperch-Flügeldrachen-Ei
+175385	Darkstone-Schrifttafel
+175404	Reiches Thoriumvorkommen
+175405	Tür
+175406	Freudenfeuer
+175407	Mondbestrahlte Feder
+175424	Kohlenpfanne
+175433	Feststraße
+175434	Kreuzritterplatz
+175435	Königsplatz
+175438	Marktgasse
+175440	Ältestenplatz
+175444	Haupttor
+175449	Schlachterplatz
+175459	Zum Stranglethorn Tal
+175461	Dienstboteneingang
+175462	Der Spießrutenlauf
+175466	Kirtonos Bros. Begräbnisinstitut
+175467	Goodmans Gemischtwaren
+175469	Pierces Pistolen
+175470	Angelistas Boutique
+175471	Taverne "Zur Steinernen Krähe"
+175472	Leekas Schilde & Keulen
+175474	Gasthaus Bayberry
+175477	Enoyl Maschinenbau AG
+175478	Chiltons Magieladen
+175479	Vermächtnis in Stahl - Edle Waffen
+175481	Cash & Söhne - Pfandleiher
+175483	Das Waisenhaus
+175484	Fras Siabis Premium Tobacco
+175487	Drittes Mosh'aru Tablet
+175488	Viertes Mosh'aru Tablet
+175490	Ogerkacke 2
+175491	Ogerkacke 1
+175524	Geheimnisvoller roter Kristall
+175537	Stratholme Kistenfalle - Pesthauch
+175539	Ozzie Runter
+175544	Kugel mit Kette
+175564	Kohlenpfanne der Herald
+175565	Fremdartiges Ei
+175566	Düsterkraut
+175567	Fremdartiges Ei
+175570	Tor
+175571	Oger Beschwörungskreis
+175584	Wanderung nach Urok
+175586	Jarons Wagen
+175587	Kaputte Kiste
+175588	Spitzes Spinnenei
+175589	Wanderung nach Urok Falle
+175591	Loderndes Feuer
+175592	Koch-Feuer
+175593	Lagerfeuer
+175594	Freudenfeuer
+175595	Lagerfeuer
+175596	Kleines Feuer
+175597	Lagerfeuer
+175598	Lagerfeuer
+175599	Tosendes Feuer
+175600	Koch-Feuer
+175601	Kleines Feuer
+175602	Freudenfeuer
+175603	Lagerfeuer
+175604	Koch-Feuer
+175605	Koch-Feuer
+175606	Spitzes Spinnenei
+175607	Dunkeleisen-Zwergenkadaver
+175608	Dunkeleisen-Zwergenkadaver
+175609	Dunkeleisen-Zwergenkadaver
+175610	Tür
+175611	Eisentor
+175616	Eisentor
+175619	Tür
+175621	Uroks Tributhaufen
+175628	Jarons Lieferungen
+175629	Jarons Lieferungen
+175644	RuinedSign02
+175654	Ruiniertes Zeichen
+175655	Ruiniertes Zeichen
+175656	Hölzernes Hinweisschild
+175657	Hölzernes Hinweisschild
+175658	Die Rüstung von Mannoroth
+175659	Hier ruht König Terenas Menethil II.
+175663	Ingenieur
+175665	Feuerwerk
+175668	Postkasten
+175670	Kleines Feuer
+175671	Freudenfeuer
+175672	Lagerfeuer
+175673	Lagerfeuer
+175674	Tosendes Feuer
+175675	Koch-Feuer
+175679	Der Schädel des Tyrannistrasz
+175680	Fossiles Ei
+175681	Kralle von Roc
+175682	Geruschreiter
+175683	Toothgnasher-Skelett
+175684	Saurier-Ei
+175685	Pteradon-Skelett
+175686	Hochgeborenen-Astrolabium
+175687	Uldaman-Relikte
+175688	Horden-Katapult
+175689	Uldaman-Relieffs
+175704	Siegelbrief
+175705	Türen
+175706	Blackrock-Altar
+175708	Crossroads Vorratskisten
+175724	Sargeras und der Verrat
+175725	Die Alten Götter und die Ordnung von Azeroth
+175726	Angriff der Großdrachenschwärme
+175727	Der Krieg der Urtume
+175729	Der Berg Hyjal und Illidans Geschenk
+175730	Der Weltbaum und der Smaragdgrüne Traum
+175731	Die Verbannung der Hochelfen
+175732	Die Schildwachen und die lange Wacht
+175733	Die Gründung von Quel'Thalas
+175734	Arathor und die Trollkriege
+175735	Die Wächter von Tirisfal
+175736	Ironforge - das Erwachen der Zwerge
+175737	Die sieben Königreiche
+175738	Aegwynn und die Drachenjagd
+175739	Krieg der drei Hämmer
+175740	Der letzte Wächter
+175741	Kil'jaeden und der Schattenpakt
+175742	Aufstieg der Horde
+175743	Amboss
+175744	Amboss
+175745	Das Dunkle Portal und der Untergang von Stormwind
+175746	Die Allianz von Lordaeron
+175747	Die Invasion von Draenor
+175748	Die Geburt des Lich-Königs
+175749	Eiskrone und Frost-Thron
+175750	Die Schlacht von Grim Batol
+175751	Die Lethargie der Orks
+175752	Die neue Horde
+175753	Der Krieg der Spinne
+175754	el'Thuzad und das Entstehen der Geißel
+175756	Die Geißel von Lordaeron
+175757	Sonnenbrunnen - Der Fall von Quel'Thalas
+175758	Archimondes Rückkehr und die Flucht nach Kalimdor
+175759	Der aufstrebende Verräter
+175760	Aufstieg der Blutelfen
+175761	Bürgerkrieg in den Pestländern
+175762	Der Triumpf des Lich Königs
+175763	Alter Hass - Die Kolonialisierung von Kalimdor
+175764	Lagerfeuer
+175771	Arellas Feuerblatt
+175772	Admiral Barean Westwind
+175773	Dorgar Stoenbrow
+175774	Fellari Swiftarrow
+175775	Ferren Marcus
+175776	Harthal Truesight
+175777	Holia Sunshield
+175778	Invar One-Arm
+175779	Orman of Stromgarde
+175780	Valea Twinblades
+175781	Yana Bloodspear
+175784	Holzstoß
+175785	Unscheinbare Dokumente
+175787	Ungezierter Pflock
+175789	Rend Kopf Ereignis Timer
+175791	Born der Macht
+175795	Andorhal Silo Temporalriss
+175796	Tür
+175802	Kleine Kasette
+175803	Bank
+175844	Lagerfeuer
+175854	Die Zwillingsimperien
+175855	Der Falls des Imperiums
+175856	Der Zorn des Seelenschinders
+175885	Horde, Glocke
+175886	Roughshod Pike
+175887	Finkle Falle
+175888	Fragment eines Hochgeborenenrelikts
+175889	Uraltes Ei
+175890	Uraltes Ei-Aura
+175891	Fragment eines Hochgeborenenrelikts
+175892	Fragment eines Hochgeborenenrelikts
+175893	Fragment eines Hochgeborenenrelikts
+175894	Janices Päckchen
+175924	Verschlossener Aktenschrank
+175925	Plumpsklo
+175926	Mrs. Dalsons Tagebuch
+175927	Malyfous' Katalog
+175928	Brandpulveragave
+175933	Geschmückter Grabstein
+175944	Hochheiliges Feuer des Lebens
+175946	Boss-Tor
+175949	Fünftes Mosh'aru Tablet
+175950	Sechstes Mosh'aru Tablet
+175964	Haut der Schatten
+175965	Frostwhispers Einbalsamierlotion
+175966	Verzauberter scharlachroter Faden
+175967	Die Bastionstür
+175968	Hort-Tür
+175969	Zwergen-Tunnel-Fallgatter
+175970	Ungeschmiedete runenverzierte Brustplatte
+176004	U-Bahn-Bank
+176080	U-Bahn
+176081	U-Bahn
+176082	U-Bahn
+176083	U-Bahn
+176084	U-Bahn
+176085	U-Bahn
+176086	Subway
+176087	Geißel Banner
+176089	Ungehärtete Plattenhandschuhe
+176090	Menschliche Überreste
+176091	Deadwood Kessel
+176092	Kasten mit Anzündern
+176093	Leuchtfeuer
+176112	Malors Schließkasette
+176115	STECKBRIEF: Arnak Grimtotem
+176116	Pamelas Puppe: Kopf
+176142	Pamelas linke Puppenhälfte
+176143	Pamelas rechte Puppenhälfte
+176145	Joseph Redpath Monument
+176146	Ahn Qiraj-Tür
+176147	Ahn Qiraj-Tür
+176148	Ahn Qiraj-Tür
+176150	Modriger Foliant
+176151	Modriger Foliant
+176158	Kohlenpfanne der Qual
+176159	Kohlenpfanne der Bosheit
+176160	Kohlenpfanne des Leidens
+176161	Kohlenpfanne des Hasses
+176163	Rune von Mazthoril
+176164	Rune von Mazthoril LT
+176165	Rune von Mazthoril UT
+176184	der verderbte Mondbrunnen von Jaedenar
+176186	Lagerfeuer
+176187	Lagerfeuer
+176188	Ritualkerze
+176189	Skelettierte Meeresschildkröte
+176190	Gestrandete Meeresschildkröte
+176191	Überreste einer gestrandeten Meeresschildkröte
+176192	Verzeichnis der Abtrünnigen
+176194	Halle des Oberkommandos
+176195	Pantherkäfig
+176196	Gestrandete Meeresschildkröte
+176197	Gestrandete Meeresschildkröte
+176198	Gestrandete Meeresschildkröte
+176206	Davils Libram
+176207	Redpaths Schild
+176208	Horgus' Schädel
+176209	Schartiges Schwert des Marduk
+176210	Kommandozelt
+176211	Kanoneball
+176213	Blut von Helden
+176214	Blut von Helden
+176215	Kanonenkugelhaufen
+176216	Scharlachrote-Kanone
+176224	Vorratskiste
+176225	Truhe von Arko'nirans
+176227	Lagerfeuer
+176231	Proudmores Schatz
+176244	Mondgischt
+176245	Scharlachrotes-Archiv
+176247	Pamelas Puppe
+176248	Premium Siabi Tabak
+176249	Geißel-Daten
+176264	Lagerfeuer
+176265	Lagerfeuer
+176266	Lagerfeuer
+176272	Lagerfeuer
+176274	Lagerfeuer
+176280	Freudenfeuer
+176281	Freudenfeuer
+176283	Freudenfeuer
+176284	
+176285	Freudenfeuer
+176286	Freudenfeuer
+176288	Freudenfeuer
+176289	Freudenfeuer
+176290	Lagerfeuer
+176292	Lagerfeuer
+176295	Archiv-Feuer
+176296	Portal nach Stormwind
+176304	Vorratskiste
+176306	Käfig
+176310	Ufer der Beschaulichkeit
+176311	Gestühl
+176317	Der Argentumtresor
+176325	Schmiedekunstpläne
+176327	Schmiedekunstpläne
+176344	Dokumententruhe
+176346	Marktgassen-Postkasten
+176348	Styleens Wagen
+176349	Kreuzritterplatz-Postkasten
+176350	Feststraße-Postkasten
+176351	Ältestenplatz-Postkasten
+176352	Königsplatz-Postkasten
+176353	Fras Siabis Postkasten
+176356	Verfluchte Hochgeborenen-Schriften
+176360	Postkasten-Paket
+176361	Geißel-Kessel
+176364	Schiff nach Menethil
+176365	Schiff nach Teldrassil
+176369	Schiff nach Theramore
+176370	Schiff nach Auberdine
+176389	Lagerfeuer
+176390	Lagerfeuer
+176392	Geißel-Kessel
+176393	Geißel-Kessel
+176404	Briefkasten
+176424	Gildeninstanz Blocker
+176425	Freudenfeuer
+176427	Feuer
+176447	Freudenfeuer
+176448	Freudenfeuer
+176449	Freudenfeuer
+176451	Freudenfeuer
+176452	Freudenfeuer
+176454	Fleischständer
+176455	Fleischständer
+176460	Feuer
+176461	Fleischständer
+176463	Koch-Tisch
+176484	Die Urkunde von Brill
+176485	Die Urkunde von Caer Darrow
+176486	Die Urkunde von Southshore
+176487	Die Urkunde von Tarren Mill
+176489	Kohlenpfanne
+176495	Zeppelin - Grom'Gol nach Undercity
+176496	Kohlenpfanne
+176497	Portal nach Ironforge
+176498	Portal nach Darnassus
+176499	Portal nach Orgrimmar
+176500	Portal nach Thunder Bluff
+176501	Portal nach Undercity
+176504	Lagerfeuer
+176511	Onyxia-Ei
+176513	Lavafelsspalt
+176544	Überreste von Eva Sarkhoff
+176545	Überreste von Lucien Sarkhoff
+176546	Eva: Überreste in Flammen
+176547	Lucien: Überreste in Flammen
+176557	Mörser
+176561	Krastinovs Werkbank
+176562	Tür des Offiziers
+176573	Allianz, Glocke
+176575	Tür des Offiziers
+176576	Tür des Offiziers
+176577	Tor
+176578	Tür
+176579	Tür
+176581	Hand von Iruxos Kristall
+176582	Krabbenfalle
+176583	Goldener Sansam
+176584	Traumblatt
+176586	Bergsilberweisling
+176587	Pestblüte
+176588	Icecap
+176589	Schwarzer Lotus
+176591	Horgus' Schädel-Falle
+176594	Türen
+176630	Andenken der Erinnerung
+176631	Menethils Geschenk
+176632	Tür
+176634	Kerlonians Truhe
+176635	Krabbenfalle
+176694	Tor
+176705	Freudenfeuer
+176745	Caer Darrow-Skelett
+176746	Große Kasernenflamme
+176747	Kleine Kasernenflamme
+176748	Sitzbank
+176751	Kodo-Knochen
+176752	Kodo-Knochen
+176753	Verdammniskraut
+176767	Fackel
+176784	Freudenfeuer
+176785	Munitionskiste
+176790	Koch-Tisch
+176792	Lagerfeuer
+176793	Kleinholzbündel
+176794	Die Scherwindklippe
+176795	Der Steinkrallengipfel
+176797	Das verbrannte Tal
+176798	Sun Rock
+176810	Lavafelsspalt
+176843	Fallender Felsen
+176865	Schwert des Marduk Falle
+176897	Kochstelle
+176898	Feuergrube
+176901	Fallgatter (Aktiviert)
+176905	Glühende Kohlenpfanne
+176907	Konservatoriumstür
+176944	Alte Schatztruhe
+176945	Camp Mojache
+176946	Shadowprey
+176947	Geistwandlerposten
+176948	Die Nijelspitze
+176951	Rune von Koro
+176952	Rune von Zeth
+176953	Rune von Mazj
+176954	Rune von Theri
+176955	Rune von Blaz
+176956	Rune von Kress
+176957	Rune von Mohn
+176959	Das Steinkrallengebirge
+176964	Portcullis
+176965	Portcullis
+176967	Stratholme
+176968	Terrordale
+176969	Quel'Thalas
+176970	Corins Kreuzung
+176973	Tyrs Hand
+176981	Darrowshire
+176982	Andorhol
+176985	Stratholme
+176987	Hearthglen
+176988	Andorhal
+176989	Tirisfal Lichtung
+176991	Tirisfal
+176996	Höhlentür
+177000	Heiße Kohle
+177002	Freudenfeuer
+177003	Freudenfeuer
+177008	Freudenfeuer
+177009	Freudenfeuer
+177011	Freudenfeuer
+177013	Freudenfeuer
+177014	Freudenfeuer
+177015	Freudenfeuer
+177017	Freudenfeuer
+177020	Freudenfeuer
+177021	Freudenfeuer
+177023	Freudenfeuer
+177044	Briefkasten
+177045	Jägerfalle
+177047	Fallgatter (Aktiviert)
+177048	Fallgatter (Aktiviert)
+177049	Fallgatter (Aktiviert)
+177064	Mordans Reagenzien
+177105	Jaedenar
+177106	Nachtlaublichtung
+177109	Moonglade
+177112	Winterspring
+177116	Stormrage Schlupfwinkel
+177117	Schrein von Remulos
+177118	Nighthaven
+177119	Winterspring
+177131	Kel'Theril
+177132	Starfall
+177133	Everlook
+177135	Felwood
+177140	Frostsäblerfelsen
+177145	Hyjal
+177164	
+177184	Zul'Gurub Haupteingang
+177185	Ihr, die Ihr hier eintretet, lasst alle Hoffnung hinter Euch.
+177186	Kehrt um!
+177187	Tharnaruns Heilmittel
+177188	Tür
+177193	Schicksalsportal
+177194	Lagerfeuer
+177198	Tür
+177199	Erzbischof Alonsus Faol
+177200	König Llane I. aus dem Hause Wrynn
+177201	Großadmiral Daelin Proudmoore
+177202	Fürstin Mara Fordragon
+177203	Tor
+177204	Trauer der Erdenmutter
+177205	Waldlord und die ersten Druiden
+177207	Nebel der Dämmerung
+177208	Der weiße Hirsch und der Mond
+177209	Hass der Zentauren
+177211	DireMaulSmallInstanceDoor01
+177212	
+177213	
+177215	
+177217	Gordok innere Tür
+177219	Gordok-Hoftür
+177220	Eingestürzte Mauer
+177221	Tür
+177222	Pteradon-Skelett
+177223	Ahn'Qiraj Gong
+177224	Trolltrommel-Soundobjekt
+177226	Buch "Wahrsagen für Anfänger"
+177227	Couch
+177233	Feathermoon Fähre
+177237	Gewölbetür
+177238	Gewölbetür
+177239	Tirion Fordrings Grab
+177240	Lockerer Erdhaufen
+177241	Araj's Phylakterie
+177243	Dämonenportal
+177246	Gehämmerte Eisentür
+177254	Geöffnete Tür
+177259	DireMaulCrystalGenerator
+177261	Kohlenpfanne
+177264	Symbol der verlorenen Ehre
+177265	Brücke zur Anhöhe der Geister
+177266	Brücke zur Anhöhe der Ältesten
+177268	Brücke zur Anhöhe der Jäger
+177270	Corrupted Moonwell
+177271	Orange Crystal Pool
+177272	Mondbrunnen
+177287	Unvollendete Zeichnung
+177289	Geißel-Kessel
+177290	Kohlenpfanne
+177304	Dawn's Gambit
+177307	HyjalGate01
+177364	Stuhl
+177371	Tor
+177385	Fackel
+177387	Alchimielabor
+177388	Brühschlammbedecktes reiches Thoriumvorkommen
+177404	Altar von Elune
+177414	Edelstein von Elune
+177415	Licht von Elune
+177416	Aura von Elune
+177417	Feuer von Elune
+177418	Licht von Elune
+177419	Licht von Elune
+177444	Stein-Tür
+177464	Großer Termitenhügel
+177484	Atal'ai Statue
+177485	Atal'ai Statue
+177486	Aura von Elune (Groß)
+177490	Northridge Sägemühlen-Kiste
+177491	Termitenfass
+177505	Holzbank
+177524	Blubbernder Felsspalt
+177525	Moonkin-Stein
+177526	Reliquienbündel
+177527	Reliquienbündel Aura
+177544	Josephs Truhe
+177564	Menschlicher Totenschädel
+177586	Brodelnde Essenz Aura
+177604	Knochenhaufen
+177606	Vater Flamme-Aura
+177624	Xabraxxis' Dämonenbeutelchen
+177644	Moonkin Stein Aura
+177664	Ranziges Fleischstück
+177665	Großes ranziges Fleischstück
+177667	Zerrissene Rolle
+177668	Detonationsmarkierung
+177669	Plaguewood Feuer
+177670	Plaguewood Feuer
+177671	Plaguewood Rauch
+177672	Smokeys Spezialgemisch
+177673	Schlangenstatue
+177675	Erdhaufen
+177677	Flaches Grab
+177681	Gordunni Schmutzhaufen
+177683	Gordunni Kobaltschaukasten
+177684	Stein von Shy-Rotam
+177704	Lavabombe
+177705	Naga Balken
+177706	Melizzas Käfig
+177724	Dredans Tisch
+177725	Dredans Alchemiewerkzeuge
+177726	Werkzeugkästchen
+177727	Dredans Schmiede
+177746	Geist-Magnet
+177747	Quel'Thalas Registrierung
+177749	Geist-Magnet Aura
+177750	Lunarfungusblüte
+177764	Inferno
+177784	Riesen-Weichpanzermuschel
+177785	Bauble-Behälter
+177786	Rackmores Truhe
+177787	Rackmores Logbuch
+177789	Augustus' Rezeptbuch
+177790	Fremdartige Kasette
+177791	Anker
+177792	Merkwürdige Schließkassette
+177793	Merkwürdige Schließkassette-Gewandtheitsfalle
+177804	Zerfleischte menschliche Überreste
+177805	Zerfleischte menschliche Überreste
+177806	Zerfleischte menschliche Überreste
+177807	Schwarzes Drachenei
+177808	Kugel der Herrschaft
+177824	Altar
+177884	Undercity-Wurm
+177904	STECKBRIEF: Besseleth
+177905	Mercutio-Posten
+177926	Gaea-Samenkorn
+177927	Tammra Gaea-Schössling
+177928	Onyxias Tor
+177929	Gaea-Erdhügel
+177964	Fathom-Stein
+177984	Doodad_OnyziasLairLavaTrap51
+177985	Doodad_OnyziasLairLavaTrapMirror20
+178084	Felix' Truhe
+178085	Felix' Bolzeneimer
+178087	Thazz'rils Hacke
+178088	Ragnaros
+178089	Thazz'rils Hacke-Aura
+178090	Marlas Grab
+178104	Resonite Crystal
+178105	Resonit Kristall
+178106	Resonit Kristall
+178107	Lava Steam
+178108	Lava Splash
+178125	Lotharian-Lotus
+178144	Troll-Truhe
+178145	Resonite Cask
+178146	Gurdas Schredder
+178147	Ruul Snowhoof, Käfig
+178164	Heiße Kohle
+178184	Saphir von Aku'Mai
+178185	Saphir von Aku'Mai
+178186	Saphir von Aku'Mai
+178187	Geschmolzener Kernkreis SULFURON
+178190	Geschmolzener Kernkreis GOLEMAGG
+178191	Geschmolzener Kernkreis GARR
+178192	Geschmolzener Kernkreis MAGMADAR
+178193	Geschmolzener Kernkreis GEHENNAS
+178194	Lavasfelspalte
+178195	Warsong-Öl
+178204	Warsongaxtlieferung
+178205	Karangs Banner
+178207	Karangs Banner-Aura
+178224	Düsterteich
+178226	Krankenhausbett
+178227	Murguts Totem Beutelchen
+178228	Murguts Totem Beutelchen Aura
+178229	Aurora's Book
+178230	Aurora's Aura
+178244	Übungsschließkassette
+178245	Übungsschließkassette
+178246	Übungsschließkassette
+178247	Naga Kohlenpfanne
+178304	Kasten mit Eichhörnchen
+178324	GEFAHR! Nicht öffnen! Geht weiter!
+178325	Öffnen, um erwachsen zu werden.
+178364	Banner der Horde
+178365	Banner der Allianz
+178386	Zentauren Teleporter
+178388	Banner der Horde
+178394	Banner der Allianz
+178404	Portal nach Inner Maraudon
+178425	Großer Weihnachtsbaum
+178426	Weihnachtsbaum
+178427	Springbrunnen von Elune
+178428	Geschenk
+178429	Geschenk
+178430	Geschenk
+178431	Geschenk
+178432	Geschenk
+178433	Geschenk
+178434	Socken
+178435	Socken
+178436	Socken
+178437	Kranz
+178438	Lichter
+178442	Horde Supply Crate
+178443	Kleine Schiedeflamme
+178444	Schrein der Sha'gri
+178464	Dunkler Kleriker Salems Truhe
+178465	Altar of Summoning
+178484	Träne im Jenseits
+178504	Gestohlene Truhe
+178526	James' Tagebuch
+178551	Lichter, Zerbrochen
+178553	Kapsel des Ashischwarms
+178554	Mistelzweig
+178556	Kranz Maßstab 1.20
+178557	Weihnachtsbaum
+178559	Larvenspucker
+178560	Maraudon Stab-Hersteller
+178561	Sporenbaum
+178562	Sporenbaum
+178563	Sporenbaum
+178564	Sporenbaum
+178565	Sporenbaum
+178568	Sporenbaum
+178569	Sporenbaum
+178570	Verderbnis-Spucker
+178571	Freudenfeuer
+178573	Kessel
+178584	Ryson's All Seeing Eye
+178605	Ryson's Beacon
+178609	Urlaubs-Schnee
+178645	Lichter x3
+178646	Allianz-Vorratskiste
+178647	Weihnachtsbaum
+178649	Kranz Maßstab 0.75
+178664	Dampfsäge
+178665	Dampfsäge
+178666	Zigeunerwagen
+178670	Kreis des Rufens
+178671	Großvätercherchen Frosts Stuhl
+178722	Allianz - Schmied - Rauch
+178745	Lichter x3, Zerbrochen
+178746	Smokywood Weiden
+178764	Abgrenzungsseil
+178765	Abgrenzungsseilpfosten
+178784	Coldtooth Supplies
+178785	Irondeep-Vorräte
+178806	Allianz-Überschuss-Niveau 1
+178807	Allianz-Überschuss-Niveau 2
+178808	Allianz-Überschuss-Niveau 3
+178824	Versammlungsstein
+178825	Versammlungsstein
+178826	Versammlungsstein
+178827	Versammlungsstein
+178828	Versammlungsstein
+178829	Versammlungsstein
+178831	Versammlungsstein
+178832	Versammlungsstein
+178833	Versammlungsstein
+178834	Versammlungsstein
+178844	Versammlungsstein
+178845	Versammlungsstein
+178884	Versammlungsstein
+178904	Geheilte Zelebrations-Ranke
+178905	Vylestem-Ranke
+178908	Vylestem-Ranke
+178909	Frostwolf-Vorräte
+178910	Frostwolf-Vorräte
+178911	Frostwolf-Vorräte
+178925	Banner der Allianz
+178927	[PH] Allianz - A1 Turm - Großes Banner
+178929	Banner der Allianz
+178932	[PH] Allianz - A2 Turm - Großes Banner
+178940	Umkämpftes Banner
+178943	Banner der Horde
+178947	[PH] Allianz - A3 Turm - Großes Banner
+178948	[PH] Allianz - A4 Turm - Großes Banner
+178955	[PH] Horde - H1 Turm - Großes Banner
+178956	[PH] Horde - H2 Turm - Großes Banner
+178957	[PH] Horde - H3 Turm - Großes Banner
+178958	[PH] Horde - H4 Turm - Großes Banner
+178964	Celebras Blaue Aura
+178965	Inkantation der Celebras
+178984	Bauble Aura
+179004	Drek'Thar's Scrolls
+179005	Drek'Thar's Scrolls
+179006	Vanndar's Documents
+179007	Vanndar's Documents
+179008	Vanndar's Documents
+179024	Stormpike-Banner
+179025	Frostwolf Banner
+179044	[PH] Alliance Graveyard Mid Banner BIG
+179064	[PH] Horde Graveyard Mid Banner BIG
+179065	Bunkerflammenfalle
+179066	Rauch Emitter, Große AOI, Größe 2
+179109	Stuhl
+179115	Fallgatter
+179116	Fallgatter
+179119	Feuer
+179125	Izzys Besitztümer
+179144	GEFAHR! Crystalvein Mine geschlossen!
+179147	Lagerfeuer
+179148	Hebel
+179224	Crystalvein Mine - Betreten verboten!
+179264	Riesenmuschel
+179286	Umkämpftes Banner
+179287	Umkämpftes Banner
+179304	Umkämpftes Banner
+179305	Umkämpftes Banner
+179306	Umkämpftes Banner
+179324	Frostwolf-Landmine
+179325	Stormpike-Landmine
+179344	Freudenfeuer
+179345	Deeprun Truhe
+179365	Fallgatter
+179419	Kohlebecken
+179424	[PH] Alliance Graveyard Mid Pre-Banner BIG
+179425	[PH] Horde Graveyard Mid Pre-Banner BIG
+179426	Gri'lek der Wanderer
+179435	Umkämpftes Banner
+179436	[PH] Horde - A1 Turm - Großes Zwischen-Banner
+179437	GESUCHT: ORCS!
+179438	GESUCHT: ZWERGE!
+179439	Umkämpftes Banner
+179440	[PH] Horde - A2 Turm - Großes Zwischen-Banner
+179441	Umkämpftes Banner
+179442	[PH] Horde - A3 Turm - Großes Zwischen-Banner
+179443	Umkämpftes Banner
+179444	[PH] Horde - A4 Turm - Großes Zwischen-Banner
+179446	[PH] Allianz - A1 Turm - Großes Zwischen-Banner
+179450	[PH] Allianz - A2 Turm - Großes Zwischen-Banner
+179454	[PH] Allianz - A3 Turm - Großes Zwischen-Banner
+179458	[PH] Allianz - A4 Turm - Großes Zwischen-Banner
+179465	Banner der Allianz
+179467	Banner der Horde
+179468	Umkämpftes Banner
+179469	Arena-Tür
+179485	Kaputte Falle
+179486	Ramponierter Schließkiste
+179487	Durchnässte Schließkiste
+179488	Ramponierte Schließkiste
+179489	Durchnässte Schließkiste
+179490	Ramponierte Schließkiste
+179491	Durchnässte Kasette
+179492	Verbeulter Kasten
+179493	Moosbewachsene Schließkiste
+179494	Verbeulte Schließkiste
+179496	Verbeulte Schließkiste
+179497	Bemooste Schließkiste
+179498	Scharlachrote Schließkiste
+179499	Oger Tannin-Korb
+179501	Knot Thimblejack's Cache
+179502	CorruptedCrystalVine01
+179503	
+179506	
+179511	Knot's Ball and Chain
+179512	Fixed Trap
+179516	Fenguss Truhe
+179517	Shen'dralar Schatz
+179526	Warpwood Topf
+179528	Warpwood Topf
+179532	Warpwood Topf
+179533	Warpwood Topf
+179544	Die sterblichen Überreste von Kariel Winthalus
+179545	Die Truhe des Prinzen
+179547	A Dusty Tome
+179548	Ein staubiger Foliant
+179549	Tür
+179551	Hydraxis' Kiste
+179552	Bauplan: Feldreparatur Bot 74A
+179553	Kern Fragment
+179554	
+179555	Versammlungsstein
+179556	Der abgeschlagene Kopf der Onyxia
+179557	Sammel-Ruf
+179558	Der abgeschlagene Kopf der Onyxia
+179559	Felvine Shard
+179560	Sammel-Ruf
+179561	Unbefeuerte Uralte Klinge
+179563	Truhe des Prinzen Aura
+179564	Gordok-Tribut
+179565	Staubige Reliquie
+179584	Versammlungsstein
+179585	Versammlungsstein
+179586	Versammlungsstein
+179587	Versammlungsstein
+179588	Verliestür
+179595	Versammlungsstein
+179596	Versammlungsstein
+179597	Versammlungsstein
+179664	Earth Elemental Rift
+179665	Water Elemental Rift
+179666	Fire Elemental Rift
+179667	Air Elemental Rift
+179668	Warlock Mount Ritual Circle
+179669	Warlock Mount Quest Symbol 1
+179670	Warlock Mount Quest Symbol 2
+179671	Warlock Mount Quest Symbol 3
+179672	Wheel of the Black March
+179673	Doomsday Candle
+179674	Bell of Dethmoora
+179681	Dreadsteed Portal
+179693	Peasant Light Trap
+179694	Death Post
+179695	Slain Peasant
+179696	Slain Peasant
+179697	Arena Treasure Chest
+179698	Slain Peasant
+179699	Slain Peasant
+179703	Cache of the Firelord
+179706	A Treatise on Military Ranks
+179708	Divination Scryer
+179725	Die Halle der Champions
+179727	Die Halle der Champions
+179729	Kommandozentrale
+179731	Kommandozentrale
+179732	SI:7
+179733	SI:7
+179735	Militärische Ränge der Allianz
+179736	Die Halle der Champions
+179737	SI:7
+179738	Kommandozentrale
+179739	Halle der Legenden
+179741	Militärische Ränge der Horde
+179742	Halle der Legenden
+179745	Divination Scryer Aura
+179747	Terrordale Haunting Spirit
+179757	Generals-Stuhl
+179767	Doodad_GeneralChurchPew01
+179782	Alchemie-Set
+179784	Suppression Device
+179785	Silverwing-Flagge
+179786	Warsong-Flagge
+179826	Geheimpläne: Feuriger Fluxus
+179827	Gesucht/Vermisst/Verloren & Gefunden
+179828	Dark Iron Pillow
+179830	Allianz-Flagge
+179831	Horden-Flagge
+179871	Tempo-Stärkungszauber
+179874	Kleine Kohlenpfanne
+179879	Befehlskugel
+179880	Drakkisaths Brandzeichen
+179881	The Severed Head of Nefarian
+179885	Lagerfeuer
+179888	Rizzles bewachte Pläne
+179895	Briefkasten
+179899	Tempo-Stärkungszauber
+179904	Nahrungsmittel-Stärkungszauber
+179905	Berserker-Stärkungszauber
+179906	Nahrungsmittel-Stärkungszauber
+179908	Slagtrees verlorene Werkzeuge
+179909	Rock of Durotan
+179910	Lards Picknickkorb
+179911	Botschaft an die Wildhammer
+179912	Botschaft an die Wildhammer-Zauberfokus
+179913	Zu den Waffen!
+179914	Knochenhaufen
+179915	Schädelhaufen
+179916	Razorfen-Tür
+179917	Razorfen-Tür
+179918	PortcullisActive01
+179919	PortcullisActive02
+179920	PortcullisActive03
+179921	PortcullisActive04
+179922	Gefäß mit besudelten Blut
+179963	OUT OF ORDER! Use Postman instead - your GM's
+179964	Dunkelmond-Jahrmarkt - Schon bald hier!
+179965	Fahne des Dunkelmond-Jahrmarkts
+179967	Fass
+179968	Heuhaufen
+179969	Ersatzkiste
+179970	Ersatzkiste
+179972	Stormwind-Kiste
+179973	Gasthausfass
+179975	Water Trough Small
+179976	Bierfässchen
+179977	Handelsübliche Laterne
+179984	Kohlenpfanne
+180005	Beladener Wagen des Dunkelmond-Jahrmarkts
+180006	Plumpsklo
+180007	Ausgrabungsbannerpfosten
+180025	Geheimnisvoller Heuhaufen aus Eastvale
+180026	Dunkelmond-Jahrmarkt Wegweiser
+180029	Dunkelmond-Jahrmarkt
+180030	Zelt der Wahrsagerin
+180031	Imbiss-Zelt
+180032	Souvenir-Zelt
+180034	Zelt des Losverkäufers
+180035	Zaun
+180036	Dunkelmond-Jahrmarktwagen unbeladen
+180037	Heuballen
+180038	Heuballen
+180039	Zelt des Tierausbilders
+180040	G_Cage
+180041	G_Cage
+180042	Übungsziel-Zelt
+180043	Freistehende Fackel
+180044	Sprechkiste
+180045	Stormwind-Zigeunerwagen
+180047	Westfall-Stuhl
+180048	Becherschaum
+180049	Becher
+180050	Halbes französisches Brot
+180051	Französisches Brot
+180052	Todesminen-Frachtkisten
+180056	Geheimnisvoller Baumstumpf
+180057	Bubbly Fissure
+180100	Aura des Allianzbanners
+180101	Aura des Hordebanners
+180102	Aura des neutralen Banners
+180104	Zandalar Cage
+180125	Liquid Fire
+180164	Sungrass
+180165	Purple Lotus
+180166	Mountain Silversage
+180167	Golden Sansam
+180168	Dreamfoil
+180184	Fischschwarm
+180215	Hakkari Thorium Vein
+180228	Jinxed Hoodoo Pile
+180229	Jinxed Hoodoo Pile
+180244	Jinxed Hoodoo Pile
+180247	Jinxed Hoodoo Pile
+180322	Geistertor
+180323	Gates of Zul'Gurub
+180327	Brazier of Madness
+180358	Gri'lek, with the Iron Blood
+180364	Hazza'rah, the Dreamweaver
+180365	Renataki, of the Thousand Blades
+180366	Battered Tackle Box
+180369	Muddy Churning Waters
+180386	Gong
+180392	Full Jug
+180396	PVP HOLIDAY HORDE ARATHI
+180397	PvP Holiday Standart-Wegweiser
+180398	PvP Holiday Allianz Arathi
+180400	PvP Holiday Allianz CTF
+180405	Kürbis
+180406	Kürbis
+180407	Kürbis
+180408	Hexenhut
+180409	Hexenbesen
+180410	Hängendes Skelett
+180411	Geist
+180412	Bonboneimer
+180415	Schwarze Kerze
+180417	Lagerfeuer
+180421	Alliance Banner Aura, Large
+180422	Banner der Horde Aura, groß
+180423	Neutraler Banner Aura, groß
+180424	Tor zum Alteractal
+180425	Schädelkerze
+180426	Fledermaus
+180427	Fledermaus
+180428	Hexenbesen - Skala 0.5
+180429	Hexenhut - Skala 0.5
+180431	Kürbis - Skala 4.0
+180432	Forsaken Banner
+180433	Weidenmann der Schlotternächte
+180434	Freudenfeuer
+180435	Noggle's Satchel
+180442	Freudenfeuer
+180448	Steckbrief: Totenstachel
+180451	Briefkasten
+180471	Hängende Schädellampe
+180472	Hängende Schädellampe
+180497	Forcefield
+180502	Kultistenfalle
+180503	Sandiges Kochbuch
+180514	Glyphed Crystal Prism
+180523	Apfelbottich
+180526	Gong of Bethekk
+180529	Geringer Windstein
+180534	Windstein
+180632	Alchimielabor
+180633	Crystalline Tear
+180655	Floating Debris
+180656	Sagefish School
+180657	Firefin Snapper School
+180658	School of Deviate Fish
+180663	Sagefish School
+180664	Oily Blackmouth School
+180666	Draconic for Dummies
+180667	Draconic for Dummies
+180682	Oily Blackmouth School
+180683	Firefin Snapper School
+180684	Greater Sagefish School
+180712	Stonescale Eel Swarm
+180728	Firework, Show, Type 1 White
+180750	Oily Blackmouth School
+180788	AQDOORSOUND
+180866	Event Generator Saurfang Pre-War
+180898	AQRUNE
+180899	AQROOT
+180904	Ancient Door
+180913	Forge
+180915	Cooking Brazier
+181056	Naxxramas
+181075	Table
+181076	Inigo's Chair
+181077	Rug
+181078	Marjhan's Chair
+181079	Eligor's Chair
+181080	Angela's Chair
+181081	Map of the Eastern Plaguelands
+181082	Candelabra
+181098	Volcanic Ash
+181102	Light Well
+181103	Flower
+181104	Small Dirt Mound
+181105	Light Well
+181106	Light Well
+181119	Deathknight Door
+181120	Gluth - Exit Door
+181121	Thaddius - Entrance Door
+181123	Patchwork - Exit Door
+181124	Vaccuum - Enter Gate
+181125	Vaccuum - Exit Gate
+181126	Anub'Rekhan Door
+181130	Forge
+181131	Anvil
+181143	Fish of the Day
+181144	Bowl of Fruit
+181145	Roast Boar Platter
+181167	Grand Widow Faerlina Door
+181168	Icebellow Furnace
+181169	Icebellow Furnace
+181170	Vaccuum - Combat Gate
+181195	Anub'Rekhan Gate
+181197	Maexxna - Inner Web Door
+181198	Doodad_Nox_door_slime01
+181199	Doodad_Nox_door_slime02
+181200	Noth - Entry Door
+181201	Noth - Exit Door
+181202	Heigan the Unclean - Entry Door
+181203	Heigan the Unclean - Exit Door
+181209	Maexxna - Outer Web Door
+181210	Deathknight Wing Eye Portal Ramp
+181211	Plague Wing Eye Portal Ramp
+181212	Spider Wing Eye Portal Ramp
+181213	Abom Wing Eye Portal Ramp
+181229	Portal
+181231	Plague Wing Eye Portal Boss
+181232	Abom Wing Eye Portal Boss
+181233	Spider Wing Eye Portal Boss
+181234	Icebellow Anvil
+181235	Grand Widow Faerlina - Web
+181236	Mailbox
+181240	Loatheb Fight Door 01 (not used)
+181241	Loatheb - Entrance Door
+181242	Loatheb Fight Door 02 (not used)
+181243	Loatheb Fight Door 03 (not used)
+181257	Argent Dawn Banner
+181287	Frozen Rune
+181355	Standing, Medium, Exterior
+181476	Nox Portal Plaguewood
+181478	Doodad_nox_tesla06
+181496	Heigan - Exit Door
+181575	Naxxramas Portal
+181598	Silithyst Geyser
+181618	Towow - Flag Cap Counter, Alliance
+181619	Towow - Flag Cap Counter, Horde
+181899	Doodad_BattlefieldBanner_State_Base_Plaguelands01
+181955	Lordaeron Shrine
+182075	ElvenWoodenTable
+182076	Elf Crate
+182077	Night Elf Stool
+182078	Nightelf Glowing Bowl
+182079	Nightelf Stone Rune
+182080	Nightelf Stone Rune
+182081	Nightelf Stone Rune
+182096	Doodad_BattlefieldBanner_State_Base_Plaguelands02
+182097	Doodad_BattlefieldBanner_State_Base_Plaguelands03
+182106	Tower Banner
+193010	Troll Hut Desert Small
+193011	Cannon
+210312	Ahn'Qiraj Ossirian Crystal
+210313	Ahn'Qiraj Ossirian Crystal
+210327	Communication Crystal
+210328	Communication Crystal
+210329	Communication Crystal
+210330	Communication Crystal
+210331	Communication Crystal
+210332	Communication Crystal
+210334	Ahn'Qiraj Gong
+210335	Twilight Tablet
+210336	Twilight Tablet
+210337	Glyphed Crystal
+210338	Gorishi Silithid Crystal
+210339	Ahn'Qiraj Sand Trap
+210341	Hive Fireflies 01
+210342	Glyphed Crystal
+210343	Sand Worm Rock Base
+210344	Silithus Crystal Formation 03
+210345	Floating Red Crystal Broken 03
+210346	Floating Red Crystal Broken 01
+210347	Ahn'Qiraj Door 01
+210348	Floating Purple Crystal Broken 01
+210349	Gastric Exit
+400001	Foulweald Totem Mound

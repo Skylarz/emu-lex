@@ -1,0 +1,30 @@
+Befehl   ID    Typ
+__________________________________________________________
+
+.addgo 200002 Portal nach Ratchet ( kein Normales )
+_________________________________________________________
+
+.addgo 176501 Unterstadt
+.addgo 176500 Donnerfles
+.addgo 182351 Exodar
+.addgo 181146 Karazhan
+.addgo 182352 Silbermond
+.addgo 183384 Shattrath
+.addgo 184594 Shattrath ( ? )
+.addgo 184604 Socrethar's Seat
+.addgo 184605 Nethersturm
+.addgo 176497 Eisenschmiede
+.addgo 176296 Sturmwind
+.addgo 176499 orgrimmar
+.addgo 176498 Darnassus
+.addgo 200001 Portal zu den Allianz-Schlachtfeldern
+______________________________________________________________
+
+.addgo 183317 Darnassus           ( Schattrathportal )
+.addgo 183321 Exodar              ( Schattrathportal )
+.addgo 183322 Eisenschmiede       ( Schattrathportal )
+.addgo 183323 orgrimmar           ( Schattrathportal )
+.addgo 183324 Silbermond          ( Schattrathportal )
+.addgo 183325 Sturmwind           ( Schattrathportal )
+.addgo 183326 Donnerfels          ( Schattrathportal )
+.addgo 183327 Unterstadt          ( Schattrathportal )

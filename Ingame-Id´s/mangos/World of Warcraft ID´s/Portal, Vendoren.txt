@@ -1,0 +1,111 @@
+
+Objekte :
+
+-Zaun 180035
+-Tisch 181305
+-Stuhl 24592
+-platte 178670
+-wand 164729
+-Lagerfeuer 176230
+-Thron 179118
+-Fallgatter 179117
+-Kessel 179704
+
+{(Portale)}]
+
+
+-->Ein Portal zu Shattrath   183384 1
+-->Ein Portal zu Darnassus 183317 1
+-->Ein Portal zu Exodar      183321 1
+-->Ein Portal zu Ironforge    183322 1
+-->Ein Portal zu Stormwind 183325 1
+
+
+-->Ein Portal zu Orgrimmar     183323 1
+-->Ein Portal zu Silvermoon     183324 1
+-->Ein Portal zu Thunder Bluff  183326 1
+-->Ein Portal zu Undercity       183327 1
+
+
+[{(Rüstung`s ID`S)}]
+
+--->Zum Platten tragen 750
+--->Zum Leder tragen 9077
+--->Zum Schwererüstung tragen 8737
+--->Zum Stoff tragen 9078
+
+
+
+[{(Waffen ID`S)}]
+
+--->Für das Einhandschwert 201
+--->Für das Zweihandschwer 202
+--->Für die Einhandaxt 196
+--->Für die Zweihandaxt 197
+--->Für den Einhandstreitkolben 198
+--->Für den Zweihandstreitkolben 199
+--->Für den Dolch 1180
+--->Für die Stangenwaffe 200
+--->Für den Stab 227
+--->Für den Zauberstab 6057
+--->Für den Bogen 264
+--->Für die Armbrust 5757
+--->Für die Wurfwaffe 2567
+--->Für die Schusswaffe 266
+--->Für das Schild 9116
+--->Für die Beidhändigkeit 674
+--->Für die Verteidigung 204
+--->Für das Unbewaffnet 203
+
+
+
+[{(Klassen)}]
+
+
+
+{(Allianz)}]
+ --->Priester= 376
+--->Paladin= 928
+--->Schamane= 20407
+--->Druide= 4218
+--->Magier= 331
+--->Hexenmeister= 5496
+--->Dämonenausbilder= 5520
+--->Schurke= 918
+--->Krieger= 914
+--->Jäger= 5516
+--->Tierausbilderin= 2879
+--->Waffenmeister= 50034
+
+
+[{(Horde)}]
+
+--->Priester = 4607
+--->Paladin = 16681
+--->Schamane = 3032
+--->Druide = 3034
+--->Magier = 16653
+--->Hexenmeister = 16646
+--->Dämonenausbilder = 16649
+--->Schurke = 16684
+--->Giftlieferantin = 16683
+--->Krieger = 4594
+--->Jäger = 16674
+--->Tierausbilderin = 16675
+--->Waffenmeister= 50034
+
+{(Berufe)}]
+
+--->Verzauberkunst= 19540 
+--->Alchimie= 16588
+--->Kräuterkunde= 18776
+--->Bergbau= 3001
+--->Shcmiedekunst= 2998
+--->Ingenieur= 16668
+--->Juwelenschleifen= 18751
+--->Lederverarbeitung: 18754
+--->Kürschnerei= 7089
+--->Schneider= 3704
+--->Erste Hilfe= 3373
+--->Kochkunst= 3399
+--->Angeln= 3332

@@ -1,0 +1,185 @@
+Ein paar gute Rüstungsteile!
+
+RÜSTUNGEN:
+
+wie oben .Additem xxxx dafür eingeben
+alles ist wie immer komplett in deutsch 
+
+
+Kopf-Stoff:
+Kapuze des Schlachtenzaubers-24267
+Kappe des scharlachroten Wissenden-12752
+Reif der Flamme-11808
+Halsband von Cho'gall-28804
+
+Kopf-Leder:
+Malornes Geweih-29093
+Kobraschuppenkapuze-29502
+Kutte der Herausforderung-28732
+Kutte des Naturodems-28803
+
+Kopf-Schwere Rüstung:
+Helm von Narv-2245
+Helm des Himmelszorns-20134
+Eisschuppenhelmkappe-23033
+Verstärkter Helm des Vorarbeiters-23839
+
+Kopf-Platte:
+Löwenherzhelm-12640
+Helm der unendlichen Rage-19372
+Dunkeleisenhelm-19148
+Helm der Seelenschmiede-22091
+
+<------------------------------------------->
+
+
+Schultern-Stoff:
+Flimmerkernmantel-16980
+Mantel der Pechschwingenkabale-19370
+Schreckenszwirnmantel des Gladiators-24554
+Reifbedeckter Mantel-22983
+
+Schultern-Leder:
+Schiftung des wilden Wachstums-18810
+Unnatürliche Lederschiftung-20633
+Schulterstücke der Knochensense-22479
+Polarschulterpolster-22941
+
+Schultern-Schwere Rüstung:
+Tiefenerdschiftung-18829
+Eisschuppenschiftung-22967
+Sperrfeuerschultern-21699
+Mantel des Wüstenzorns-21684
+
+Schultern-Platte:
+Drachenkrallenschulterstücke-19394
+Eisfluchschulterstücke-22940
+Mantel von Horusath-21453
+Säurebeschriebene Schulterstücke-20637
+
+<----------------------------------------->
+Brust-Stoff:
+Gletscherweste-22652
+Goldgewebte Tunika-28052
+->ist nichs gutes dabei!
+
+Brust-Leder:
+Brustplatte des Blutdurstes-12757
+Malfurions gesegnetes Bollwerk-19405
+Geflochtener Schattenwams-19439
+Weste des Todesboten-21364
+
+Brust-Schwere Rüstung:
+Unverwundbarer Panzer-12641
+Blutbefleckte runenverzierte Halsberge-19904
+Traumschuppenbrustplatte-20380
+Eisschuppenbrustplatte-22664
+
+Brust-Platte:
+Brustplatte des chromatischen Drachenschwarms-12895
+Brustschutz aus Silithidenknochenpanzer-21652
+Brustplatte der Vernichtung-21814
+Gepanzerter Monstrositätenbrustkorb-23000
+
+<------------------------------------------------>
+
+Gütel-Stoff:
+Gürtel des Erzmagiers-18405
+Schärpe der geflüsterten Geheimnisse-18809
+Mana entfachende Kordel-19136
+Feuerschwingens Griff-19400
+
+Gütel-Leder:
+Schärpe der Gnade-14553
+Lavagürtel-19149
+Kernhundgürtel-19162
+Geschmolzener Gürtel-19163
+
+Gürtel-Schwere Rüstung:
+Feuriger Kettengurt-16989
+Gekettelter Taillenschutz des Primalisten-19393
+Therazanes Zusammenhalt-19380
+Griff des gefallenen Imperators-21607
+
+Gürtel-Platte:
+Gurt des Ansturms-19137
+Gurt des gefallenen Kreuzfahrers-19392
+Königlicher Qirajigürtel-21598
+Gurt des Mentors-23219
+
+<------------------------------------------>
+
+Armschinen-Stoff:
+Flimmerkernwickeltücher-18263
+Schwarzflammenarmschienen-19135
+Armschienen der arkanen Präzision-19374
+Handgelenksschoner der Dryade-19595
+
+Armschinen-Leder:
+Armschienen des Waldpirschers-19590
+Drachenspitzwickeltücher-20615
+Polararmschienen-22663
+Armschienen der Täuschung-22668
+
+Armschinen-Schwere Rüstung:
+Handgelenksschutz des wahren Flugs-18812
+Handgelenksschutz des Windsprechers-19584
+Eisschuppenarmschienen-22665
+
+Armschinen-Platte:
+Dunkeleisenarmschienen-17014
+Berserkerarmschienen-19578
+Drachenknochenhandgelenksschutz-20616
+Tiefsteinarmschienen-21184
+
+<---------------------------------------------->
+
+Hose-Stoff:
+Gamaschen des Manasturms-18872
+Beinlinge der Arkanen Überlegenheit-18545
+Teufelserfüllte Gamaschen-19133
+Energieerfüllte Gamaschen-19385
+
+Hose-Leder:
+Beinkleider der Genesis-21356
+Gamaschen der bodenlosen Tiefe-21698
+Gamaschen der Apokalypse-23071
+Echsenlederhose der Schildwache-22750
+
+Hose-Schwere Rüstung:
+Beinschützer des chromatischen Widersetzers-12903
+Gekettelter Beinschützer des Primalisten-19401
+Sandzwirngamaschen-19433
+Uralte zerfressene Gamaschen-20617
+
+Hose-Platte:
+Beinplatten des Wolkenbehüters-14554
+Feuerschuppenbeinplatten-18861
+Beinschützer des gefallenen Kreuzfahrers-19402
+Blutgetränkte Beinplatten-19855
+
+<------------------------------------------------->
+
+Stiefel-Stoff:
+Stiefel des reinen Gedankens-19437
+Ringos Blizzardstiefel-19438
+Schneeblindschuhe-19131
+Stiefel des Verräters-19897
+
+Stiefel-Leder:
+Kernhundstiefel-16982
+Stiefel der Schattenflamme-19381
+Stiefel des Schreckens-20634
+Zwangsarbeiterstiefel-21532
+
+Stiefel-Schwere Rüstung:
+Sabatons des Flammenwandlers-19144
+Stiefel des endlosen Moors-20621
+Heimtückische Fußschützer-20629
+Stiefel des gefallenen Propheten-21705
+
+Stiefel-Platte:
+Stiefel des gefallenen Helden-21688
+Stiefel der widerrufenen Prophezeiung-21704
+Stiefel des standhaften Willens-21706
+Schienbeinschützer des Eroberers-21333

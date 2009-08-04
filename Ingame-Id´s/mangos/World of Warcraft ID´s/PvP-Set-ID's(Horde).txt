@@ -1,0 +1,69 @@
+-Krieger-
+
+Feldherren-Set: 537
+Kriegsfürsten-Set: 383
+Oberstes-Kriegsfürsten-Set: 588
+Die Entweihten Set: 487
+
+-Paladin-
+
+Oberstes-Kriegsfürsten-Set(1): 587
+Oberstes-Kriegsfürsten-Set(2): 608
+Oberstes-Kriegsfürsten-Set(3): 694
+
+-Jäger-
+
+Feldherren-Set: 543
+Kriegsfürsten-Set: 396
+Oberstes-Kriegsfürsten-Set: 596
+Die Entweihten Set: 483
+
+-Schurke-
+
+Feldherren-Set: 522
+Kriegsfürsten-Set: 393
+Oberstes-Kriegsfürsten-Set: 606
+Die Entweihten Set: 486
+
+-Prister-
+
+Feldherren-Set: 540
+Kriegsfürsten-Set: 390
+Oberstes-Kriegsfürsten-Set(1): 598
+Oberstes-Kriegsfürsten-Set(2): 692
+Die Entweihten Set: 485
+
+-Schamane-
+
+Feldherren-Set: 538
+Kriegsfürsten-Set: 386
+Oberstes-Kriegsfürsten-Set(1): 594
+Oberstes-Kriegsfürsten-Set(2): 604
+Oberstes-Kriegsfürsten-Set(3): 696
+Die Entweihten Set: 484
+
+
+-Magier-
+
+Feldherren-Set: 542
+Kriegsfürsten-Set: 387
+Oberstes-Kriegsfürsten-Set: 600
+Die Entweihten Set: 485
+
+-Hexenmeister-
+
+Feldherren-Set: 541
+Kriegsfürsten-Set: 391
+Oberstes-Kriegsfürsten-Set: 592
+Die Entweihten Set: 485
+
+-Druide-
+
+
+Feldherren-Set: 551
+Kriegsfürsten-Set: 397
+Oberstes-Kriegsfürsten-Set(1): 601
+Oberstes-Kriegsfürsten-Set(2): 610
+Oberstes-Kriegsfürsten-Set(3): 689
+Die Entweihten Set: 488
+
