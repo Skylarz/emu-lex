@@ -1,0 +1,310 @@
+^^ Tier Set´s 1-6 ^^
+-KRIEGER-
+
+Tier 1: 209
+Tier 2: 218
+Tier 3: 523
+Tier 4(1): 654
+Tier 4(2): 655
+Tier 5(1): 656
+Tier 5(2): 657
+Tier 6(1): 672
+Tier 6(2): 673
+
+-PALADIN-
+
+Tier 1: 208
+Tier 2: 217
+Tier 3: 528
+Tier 4(1): 624
+Tier 4(2): 625
+Tier 4(3): 626
+Tier 5(1): 627
+Tier 5(2): 628
+Tier 5(3): 629
+Tier 6(1): 627
+Tier 6(2): 680
+Tier 6(3): 681
+
+-JÄGER-
+
+Tier 1: 206
+Tier 2: 215
+Tier 3: 530
+Tier 4: 651
+Tier 5: 652
+Tier 6: 669
+
+-SCHURKE-
+
+Tier 1: 204
+Tier 2: 213
+Tier 3: 524
+Tier 4: 621
+Tier 5: 622
+Tier 6: 668
+
+-PRIESTER-
+
+Tier 1: 202
+Tier 2: 211
+Tier 3: 525
+Tier 4(1): 663
+Tier 4(2): 664
+Tier 5(1): 665
+Tier 5(2): 666
+Tier 6(1): 674
+Tier 6(2): 675
+
+-SCHAMANE-
+
+Tier 1: 207
+Tier 2: 216
+Tier 3: 527
+Tier 4(1): 631
+Tier 4(2): 632
+Tier 4(3): 633
+Tier 5(1): 634
+Tier 5(2): 635
+Tier 5(3): 636
+Tier 6(1): 682
+Tier 6(2): 683
+Tier 6(3): 684
+
+-MAGIER-
+
+Tier 1: 201
+Tier 2: 210
+Tier 3: 526
+Tier 4: 648
+Tier 5: 649
+Tier 6: 671
+
+-HEXENMEISTER-
+
+Tier 1: 203
+Tier 2: 212
+Tier 3: 529
+Tier 4: 645
+Tier 5: 646
+Tier 6: 670
+
+-DRUIDE-
+
+Tier 1: 205
+Tier 2: 214
+Tier 3: 521
+Tier 4(1): 638
+Tier 4(2): 639
+Tier 4(3): 640
+Tier 5(1): 641
+Tier 5(2): 642
+Tier 5(3): 643
+Tier 6(1): 676
+Tier 6(2): 677
+Tier 6(3): 678
+
+ 
+^^ Dungeon Set´s 1-3 ^^
+-Krieger-
+
+Dungeon Set 1: 189
+Dungeon Set 2: 511
+Dungeon Set 3(1): 653
+Dungeon Set 3(2): 661
+
+-Paladin-
+
+Dungeon Set 1: 188
+Dungeon Set 2: 516
+Dungeon Set 3: 623
+
+-Jäger-
+
+Dungeon Set 1: 186
+Dungeon Set 2: 515
+Dungeon Set 3: 650
+
+-Schurke-
+
+Dungeon Set 1: 184
+Dungeon Set 2: 512
+Dungeon Set 3: 620
+
+-Priester-
+
+Dungeon Set 1: 182
+Dungeon Set 2: 514
+Dungeon Set 3: 662
+
+-Schamane-
+
+Dungeon Set 1: 187
+Dungeon Set 2: 519
+Dungeon Set 3: 630
+
+-Magier-
+
+Dungeon Set 1: 181
+Dungeon Set 2: 517
+Dungeon Set 3: 647
+
+-Hexenmeister-
+
+Dungeon Set 1: 184
+Dungeon Set 2: 518
+Dungeon Set 3: 644
+
+-Druide-
+
+Dungeon Set 1: 185
+Dungeon Set 2: 513
+Dungeon Set 3: 637
+
+ 
+^^ PvP-Set-ID's(Horde) ^^
+
+ 
+
+ 
+-Krieger-
+
+Feldherren-Set: 537
+Kriegsfürsten-Set: 383
+Oberstes-Kriegsfürsten-Set: 588
+Die Entweihten Set: 487
+
+-Paladin-
+
+Oberstes-Kriegsfürsten-Set(1): 587
+Oberstes-Kriegsfürsten-Set(2): 608
+Oberstes-Kriegsfürsten-Set(3): 694
+
+-Jäger-
+
+Feldherren-Set: 543
+Kriegsfürsten-Set: 396
+Oberstes-Kriegsfürsten-Set: 596
+Die Entweihten Set: 483
+
+-Schurke-
+
+Feldherren-Set: 522
+Kriegsfürsten-Set: 393
+Oberstes-Kriegsfürsten-Set: 606
+Die Entweihten Set: 486
+
+-Prister-
+
+Feldherren-Set: 540
+Kriegsfürsten-Set: 390
+Oberstes-Kriegsfürsten-Set(1): 598
+Oberstes-Kriegsfürsten-Set(2): 692
+Die Entweihten Set: 485
+
+-Schamane-
+
+Feldherren-Set: 538
+Kriegsfürsten-Set: 386
+Oberstes-Kriegsfürsten-Set(1): 594
+Oberstes-Kriegsfürsten-Set(2): 604
+Oberstes-Kriegsfürsten-Set(3): 696
+Die Entweihten Set: 484
+
+
+-Magier-
+
+Feldherren-Set: 542
+Kriegsfürsten-Set: 387
+Oberstes-Kriegsfürsten-Set: 600
+Die Entweihten Set: 485
+
+-Hexenmeister-
+
+Feldherren-Set: 541
+Kriegsfürsten-Set: 391
+Oberstes-Kriegsfürsten-Set: 592
+Die Entweihten Set: 485
+
+-Druide-
+
+
+Feldherren-Set: 551
+Kriegsfürsten-Set: 397
+Oberstes-Kriegsfürsten-Set(1): 601
+Oberstes-Kriegsfürsten-Set(2): 610
+Oberstes-Kriegsfürsten-Set(3): 689
+Die Entweihten Set: 488
+
+^^ PvP-Set-ID's(Allianz) ^^
+
+ 
+
+ 
+-Krieger-
+
+Feldkommandanten-Set: 545
+Feldmarschall-Set: 384
+Großmarschall-Set: 590
+Bund von Arathor Set: 467
+
+-Paladin-
+
+Feldkommandanten-Set: 544
+Feldmarschall-Set: 402
+Großmarschall-Set(1): 589
+Großmarschall-Set(2): 607
+Großmarschall-Set(3): 693
+Bund von Arathor Set: 468
+
+-Jäger-
+
+Feldkommandanten-Set: 550
+Feldmarschall-Set: 395
+Großmarschall-Set: 595
+Bund von Arathor Set: 469
+
+-Schurke-
+
+Feldkommandanten-Set: 522
+Feldmarschall-Set: 394
+Großmarschall-Set: 605
+Bund von Arathor Set: 471
+
+-Prister-
+
+Feldkommandanten-Set: 549
+Feldmarschall-Set: 389
+Großmarschall-Set(1): 597
+Großmarschall-Set(2): 691
+Bund von Arathor Set: 473
+
+-Schamane-
+
+Großmarschall-Set(1): 593
+Großmarschall-Set(2): 603
+Großmarschall-Set(3): 695
+
+-Magier-
+
+
+Feldkommandanten-Set: 546
+Feldmarschall-Set: 388
+Großmarschall-Set: 599
+Bund von Arathor Set: 473
+
+-Hexenmeister-
+
+Feldkommandanten-Set: 547
+Feldmarschall-Set: 392
+Großmarschall-Set: 591
+Bund von Arathor Set: 473
+
+-Druide-
+
+Feldkommandanten-Set: 551
+Feldmarschall-Set: 397
+Großmarschall-Set(1): 601
+Großmarschall-Set(2): 609
+Großmarschall-Set(3): 688
+Bund von Arathor Set: 472
