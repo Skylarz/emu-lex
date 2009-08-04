@@ -1,0 +1,42 @@
+^^ Pflanzen und Gesteine ^^
+ 
+
+1610    Pyrophor Mineralvorkommen
+1617    Silberblatt
+1618    Friedensblume
+1619    Erdwurzel
+1620    Maguskönigskraut
+1621    Wilddornrose
+1622    Beulengras
+1623    Wildstahlblume
+1624    Königsblut
+1628    Grabmoos
+1723    blau-weiße Pilze groß
+1731    Kupfervorkommen
+1732    Zinnvorkommen
+1733    Silbervorkommen
+1734    Goldvorkommen
+1735    Eisenvorkommen
+2040    Mithrilablagerung
+2041    Lebenswurz
+2042    Blassblatt
+2043    Khadgars Schnurrbart
+2044    Winterbiss
+2045    Würgetang
+2046    Golddorn
+2047    Echtsilberablagerung
+2084    Musquash Wurzel
+2653    Geringe Blutsteinablagerung
+2872    Verzauberter Seetang
+2883    Reifer Kürbis
+2866    Feuerblüte
+11713    Todes-Kappe
+11714    Scaber Stengel
+164881    Gesäuberter Nachtdrache
+164882    Gesäuberte Liedblume
+164883    Gesäuberte Peitscherwurzel
+164884    Gesäuberte Windblüte
+164885    Verderbter Nachtdrache
+164886    Verderbte Liedblume
+164887    Verderbte Windblüte
+164888    Verderbte Peitscherwurzel
