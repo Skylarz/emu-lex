@@ -1,0 +1,1224 @@
+~Spell Liste~~
+ 
+Spell´s (Erstellt) (beta)
+
+Hand des Todes               : 35354
+Finger des Todes             : 31984
+Sofortige Heilung            : 23965
+Windzorn                     : 38229
+100% Blocken                 : 10021
+Feuerball                    : 41484
+Pyroschlag                   : 31263
+Feuerschlag                  : 20679
+Blizzard                     : 26607
+Flammenschlag                : 40836
+Feuerkegel                   : 36876
+Todesberührung               :     5
+Feuriges Starren             : 36417
+Heimtückischer Strahl        : 40861
+Dunkles Starren              : 41937
+Augenstrahl                  : 26134
+Dämonische Bluthülle         : 30858
+Sphärenbruch                 : 37079
+Mal von Sturmgrimm           : 41526
+Reflektierender Magieschild  : 35158
+Schwelle des Todes           : 37383
+Dämonenketten                : 30206
+Smokey                       : 16715
+Blauer Rauch                 : 39143
+Tod durch Arbeiter           : 18308
+Reflexion von Sechs-Uhr      : 35381
+Warpsturm                    : 36577
+Ketten von Kel'Thuzad        : 28410
+Ketten des Naberius          : 36145
+Kettensägenklinge            : 36228
+Wirbelnde Klinge          : 41053
+Kettenarkanatem                 : 38906
+Permanenter Umgebungsschaden : 30879
+Mine der Todesschmiede       : 38107
+Schattenblitzvortex          :  6963
+Automatischer Festhaltezauber: 39258
+Zauberabsorption             : 41034
+Schmelzstrahl                : 35919
+X-51 Netherrakete X-TREM     : 46199
+Runenschild                  : 41431
+Lebenslinie             : 40671
+Haltungen
+
+
+Berserkerhaltung          : 2458
+Verteidigungshaltung      : 71
+Kampfhaltung              : 2457
+
+Script Spell´s
+
+Zauberschaden erhöhen 959 : 35844
+Angriffskraft 1296        : 35786
+Angriffskraft 880         : 35866
+Heilung erhöhen 978       : 54184
+Verteidigung +1000        : 17178
+
+Spell´s 2
+
+1 Word of Recall (OLD)
+3 Word of Mass Recall (OLD)
+4 Word of Recall Other
+5 Death Touch
+7 Suicide
+10 Blizzard
+11 Frostbolt of Ages
+12 Hot Foot (TEST)
+13 Swim Speed (TEST)
+14 Mana Drain
+15 Leech (TEST)
+16 Fear (NYI)
+17 Power Word: Shield
+18 Heal Self (TEST)
+22 Super Food (TEST)
+24 Major Heal Self (TEST)
+25 Stun
+26 Bind Self (TEST)
+27 Goldshire Portal
+31 Teleport Goldshire
+33 Teleport Westfall
+34 Teleport Duskwood
+35 Teleport Elwynn
+43 Berserk
+45 War Stomp
+47 Sprint (TEST)
+49 Healing Touch (TEST)
+50 Zone Recall (OLD)
+53 Backstab
+56 Stun
+58 Magic Missile (TEST)
+59 Normal bow shot (TEST)
+60 Long bow shot (TEST)
+61 Really Long bow shot (TEST)
+65 Haste
+66 Invisibility
+67 Vindication
+68 Editor Test Spell
+71 Defensive Stance
+72 Shield Bash
+75 Auto Shot
+77 Turtle's Shell
+78 Heroic Strike
+81 Dodge
+87 Automation Mechanic Immunity
+89 Cripple
+91 Savage Assault
+96 Dismember
+99 Demoralizing Roar
+100 Charge
+101 Trip
+107 Block
+108 Evade (DND)
+110 Spell Deflection (NYI)
+111 Time Step
+112 Reflect Magic (TEST)
+113 Chains of Ice
+116 Frostbolt
+118 Polymorph
+120 Cone of Cold
+122 Frost Nova
+126 Eye of Kilrogg
+128 Spellstone
+130 Slow Fall
+131 Water Breathing
+132 Detect Invisibility
+133 Fireball
+134 Fire Shield
+136 Mend Pet
+139 Renew
+142 New Magic Missile (Test)
+143 Fireball
+145 Fireball
+168 Frost Armor
+172 Corruption
+184 Fire Shield II
+196 One-Handed Axes
+197 Two-Handed Axes
+198 One-Handed Maces
+199 Two-Handed Maces
+200 Polearms
+201 One-Handed Swords
+202 Two-Handed Swords
+203 Unarmed
+204 Defense
+205 Frostbolt
+227 Staves
+228 Polymorph: Chicken
+246 Slow
+260 Charm (TEST)
+261 Summon Skeleton
+264 Bows
+265 Area Death (TEST)
+266 Guns
+269 Walk of Fire Trigger (DNC)
+271 Call of the Void
+284 Heroic Strike
+285 Heroic Strike
+302 Savage Assault II
+324 Lightning Shield
+325 Lightning Shield
+331 Healing Wave
+332 Healing Wave
+339 Entangling Roots
+348 Immolate
+355 Taunt
+370 Purge
+379 Earth Shield
+403 Lightning Bolt
+408 Kidney Shot
+409 Shadowskin
+410 Shadowskin II
+411 Shadowskin III
+421 Chain Lightning
+427 Teleport Monastery
+428 Teleport Moonbrook
+430 Drink
+431 Drink
+432 Drink
+433 Food
+434 Food
+435 Food
+436 Restore Mana
+437 Restore Mana
+438 Restore Mana
+439 Healing Potion
+440 Healing Potion
+441 Healing Potion
+442 Teleport Northshire Abbey
+443 Teleport Barracks
+444 Teleport Lighthouse
+445 Teleport Darkshire
+446 Teleport Cemetary
+447 Teleport Treant
+448 Editor test spell 2
+450 Fast Cast (NYI)
+453 Mind Soothe
+454 Gallop (TEST)
+455 Replenish Spirit
+456 SHOWLABEL Only OFF
+457 Feeblemind
+458 Brown Horse
+459 Gray Wolf
+461 Righteous Flame On
+463 Aura Overlap TEST 1
+464 Aura Overlap TEST 2
+465 Devotion Aura
+467 Thorns
+468 White Stallion
+469 Commanding Shout
+470 Black Stallion
+471 Palamino Stallion
+472 Pinto Horse
+474 Fumble
+475 Remove Lesser Curse
+476 Frost Shield
+477 Polymorph: Pig
+478 Frostbolt
+479 Beast Claws
+481 Water Elemental
+483 Fireball
+484 Frost Armor
+485 Chains of Ice
+486 Remove Curse
+487 Slow
+488 Water Breathing
+490 Frost Shield
+491 Khadgar's Unlocking
+493 Khadgar's Unlocking
+494 Frostbolt
+495 Polymorph: Sheep
+496 Drain Mana
+497 Frost Nova
+498 Divine Protection
+499 Cat Form
+502 Fireball
+504 Seal of Protection
+506 Ice Armor
+507 Fumble II
+509 Feeblemind II
+512 Chains of Ice
+514 Wyatt Test
+517 Blink
+518 Summon Worm
+519 Ghost Wolf
+520 Chains of Ice
+521 Moonfire
+522 SPELLDEFENSE (DND)
+526 Cure Poison
+527 Dispel Magic
+528 Cure Disease
+529 Lightning Bolt
+530 Charm (Possess)
+531 Lightning Bolt
+532 Lightning Shield
+533 Unyielding Will
+534 Molten Blast
+535 Shadow Ward
+536 Cure Poison
+537 Undying Strength
+538 Healing Wave
+539 Moonfire
+540 Nullify Disease
+541 Fire Resistance
+543 Fire Ward
+546 Water Walking
+547 Healing Wave
+548 Lightning Bolt
+550 Nullify Poison
+552 Abolish Disease
+553 Wavestorm 2
+555 Feral Spirit
+556 Astral Recall
+557 Lightning Shield
+558 Purge
+559 Exorcism
+560 Spirit Armor
+561 Molten Blast
+562 Water Walking
+563 Moonfire
+565 Healing Wave
+566 Lightning Bolt
+567 Undying Strength
+568 Arcane Burst
+569 Nullify Poison
+570 Far Sight
+571 Nullify Disease
+573 Moonfire
+574 Redemption
+575 Unyielding Will
+577 Astral Recall
+578 Black Wolf
+579 Red Wolf
+580 Large Timber Wolf
+581 Winter Wolf
+585 Smite
+586 Fade
+587 Conjure Food
+588 Inner Fire
+589 Shadow Word: Pain
+591 Smite
+592 Power Word: Shield
+594 Shadow Word: Pain
+595 Prayer of Protection
+596 Prayer of Healing
+597 Conjure Food
+598 Smite
+600 Power Word: Shield
+601 Sword Mastery
+602 Inner Fire
+603 Curse of Doom
+604 Dampen Magic
+605 Mind Control
+606 Mind Rot
+607 Create Firestone
+608 Conjure Food
+609 Inner Fire
+610 Shadow Word: Pain
+612 Holy Smite
+613 Lesser Heal
+615 Dispel Magic
+616 Shadow Word: Pain
+618 Prayer of Healing
+619 Conjure Food
+620 Holy Smite
+622 Lesser Heal
+624 Inner Fire
+625 Curse of Archimonde
+626 Seal of Might
+627 Mind Control
+628 Mind Rot
+633 Lay on Hands
+635 Holy Light
+639 Holy Light
+642 Divine Shield
+643 Devotion Aura
+647 Holy Light
+650 Blood Boil
+651 Holy Word: Shield
+652 Sap
+653 Seal of Might
+654 Fear
+655 Blood Boil
+656 Holy Light
+657 Create Greater Healthstone
+659 Divine Shield
+661 Blood Boil
+662 Seal of Might
+663 Fear
+664 Holy Light
+665 Teleport: Stormwind
+668 Language Common
+669 Language Orcish
+670 Language Taurahe
+671 Language Darnassian
+672 Language Dwarven
+673 Lesser Armor
+674 Dual Wield
+676 Disarm
+685 Holy Wrath
+686 Shadow Bolt
+687 Demon Skin
+688 Summon Imp
+689 Drain Life
+690 Firebolt II
+691 Summon Felhunter
+692 Terror (TEST)
+693 Create Soulstone
+694 Mocking Blow
+695 Shadow Bolt
+696 Demon Skin
+697 Summon Voidwalker
+698 Ritual of Summoning
+699 Drain Life
+700 Sleep
+701 Firebolt
+702 Curse of Weakness
+703 Garrote
+704 Curse of Recklessness
+705 Shadow Bolt
+706 Demon Armor
+707 Immolate
+709 Drain Life
+710 Banish
+711 Hellfire
+712 Summon Succubus
+713 Turn Undead
+714 Drain Life
+719 Create Soulstone
+720 Entangle
+721 Shadow Bolt
+722 Demon Skin
+724 Lightwell
+725 Drain Life
+726 Sleep
+727 Cripple
+729 Curse of Weakness
+730 Health Funnel
+731 Entangle
+732 Shadow Bolt
+733 Demon Armor
+734 Immolate
+735 Divine Protection
+736 Drain Life
+739 Debuff Fire Resist (TEST)
+740 Tranquility
+741 Dwarven
+742 Pulverize
+744 Poison
+745 Web
+746 First Aid
+747 Summon Images
+748 Staff Strike II (Disabled)
+749 Firestaff
+750 Plate Mail
+751 Staff Strike (Disabled)
+752 Staff Strike IV (Disabled)
+753 Firestaff II
+755 Health Funnel
+758 Firestone Passive
+759 Conjure Mana Agate
+766 Water Elemental
+768 Cat Form
+769 Swipe
+770 Faerie Fire
+771 Charm Beast
+772 Rend
+774 Rejuvenation
+775 Tree Form
+778 Faerie Fire
+779 Swipe
+780 Swipe
+781 Disengage
+782 Thorns
+783 Travel Form
+784 Faerie Fire
+785 True Fulfillment
+786 Thorns
+788 Rejuvenation
+789 Divine Escape
+790 Entangling Roots
+791 Abolish Magic
+792 Tranquility
+793 Faerie Fire
+795 Thorns
+796 Mend Pet
+797 Cleave
+798 Challenging Shout
+799 Twin Teleport
+800 Twin Teleport
+802 Mutate Bug
+804 Explode Bug
+806 Fervor
+812 Periodic Mana Burn
+813 Language Thalassian
+814 Language Draconic (NYI)
+815 Language Demon Tongue
+816 Language Titan (NYI)
+817 Language Old Tongue (NYI)
+818 Basic Campfire
+819 Toughness
+820 Regeneration
+821 Meditation
+822 Magic Resistance
+823 Natural Resistance
+824 Horse Riding
+825 Wolf Riding
+826 Ram Riding
+827 Nightmare Riding
+828 Tiger Riding
+829 Thickskull
+830 Fearless
+831 Swimming (NYI)
+833 Green Tea
+834 Lesser Armor
+835 Tidal Charm
+836 LOGINEFFECT
+837 Frostbolt
+838 Frostbolt
+839 Haste II
+842 Ethereal Form
+844 Ice Armor
+845 Cleave
+846 Flamestrike
+848 Nature Resistance
+849 Elemental Armor
+850 Savage Pummel
+851 Polymorph: Sheep
+852 Polymorph: Chicken
+853 Hammer of Justice
+854 Fireball
+855 Feeblemind III
+857 Khadgar's Unlocking
+858 Khadgar's Unlocking
+860 Renew
+862 Drain Mana
+864 Seal of Righteousness
+865 Frost Nova
+866 Frost Nova
+867 Fumble III
+870 Renew
+871 Shield Wall
+872 Flamestrike
+874 Fire Ward
+877 Elemental Fury
+879 Exorcism
+880 Moonfire
+882 Holy Smite
+883 Call Pet
+890 Renew
+894 Blink
+895 Fire Elemental
+897 Summon Angry Programmer
+898 Create Fervor Potion
+900 Molten Blast
+902 Spirit Armor
+905 Lightning Shield
+906 Lightning Shield
+908 Thunderbolt
+910 Unyielding Will
+913 Healing Wave
+914 Healing Wave
+915 Lightning Bolt
+918 Create Spellstone
+920 Chain Lightning
+921 Pick Pocket
+922 Sense Undead
+924 Molten Blast
+926 Thunderclap
+928 Eye of Kilrogg
+930 Chain Lightning
+931 Exorcism
+932 Replenish Spirit II
+935 Spirit Armor
+936 Holy Ward
+939 Healing Wave
+940 Greater Healing Wave
+943 Lightning Bolt
+944 Lightning Bolt
+945 Lightning Shield
+946 Lightning Shield
+950 Mind Bomb
+952 Molten Blast
+956 Curse of Tongues
+959 Healing Wave
+960 Greater Healing Wave
+962 Moonfire
+964 Heal
+967 Group Astral Recall
+968 Feral Spirit II
+970 Shadow Word: Pain
+971 Shadow Word: Pain
+973 Holy Protection
+974 Earth Shield
+976 Shadow Protection
+977 Shadow Protection
+979 Corruption
+980 Curse of Agony
+981 Curse of Agony
+982 Revive Pet
+983 Heal
+984 Smite
+985 Holy Smite
+988 Dispel Magic
+989 Dispel Magic
+990 Conjure Food
+991 Conjure Food
+992 Shadow Word: Pain
+993 Shadow Word: Pain
+994 Prayer of Protection II
+996 Prayer of Healing
+997 Prayer of Healing
+1002 Eyes of the Beast
+1004 Smite
+1005 Holy Smite
+1006 Inner Fire
+1007 Inner Fire
+1008 Amplify Magic
+1009 Savage Pummel
+1010 Curse of Idiocy
+1011 Turn Undead
+1012 Sword Mastery
+1013 Heroic Strength
+1014 Curse of Agony
+1015 Curse of Agony
+1017 Sense Demons
+1020 Divine Shield
+1021 Divine Shield
+1022 Blessing of Protection
+1023 Seal of Protection
+1025 Corruption
+1026 Holy Light
+1027 Holy Light
+1029 Curse of Agony
+1031 Curse of Weakness
+1032 Devotion Aura
+1033 Fire Shot
+1035 Fire Ward
+1037 Seal of Fury
+1038 Blessing of Salvation
+1039 Seal of Salvation
+1042 Holy Light
+1043 Holy Light
+1044 Blessing of Freedom
+1045 Fear
+1049 Create Healthstone
+1050 Sacrifice
+1053 Counterspell
+1055 Shield Wall
+1056 Slow Poison II
+1058 Rejuvenation
+1059 Rejuvenation
+1062 Entangling Roots
+1063 Entangling Roots
+1064 Chain Heal
+1065 Demoralizing Shout
+1066 Aquatic Form
+1070 Faerie Fire
+1075 Thorns
+1076 Thorns
+1079 Rip
+1082 Claw
+1084 Firebolt III
+1086 Demon Armor
+1087 Demon Armor
+1088 Shadow Bolt
+1089 Shadow Bolt
+1090 Sleep
+1091 Sleep
+1094 Immolate
+1095 Immolate
+1096 Firebolt IV
+1098 Enslave Demon
+1101 Mana Funnel
+1105 Seal of Wisdom
+1106 Shadow Bolt
+1107 Corruption
+1108 Curse of Weakness
+1109 Curse of Weakness
+1112 Shadow Nova II
+1114 Dodge Mastery
+1117 Mend Pet
+1120 Drain Soul
+1121 Entangle
+1122 Inferno
+1123 Ritual of Doom
+1124 Hellfire II
+1126 Mark of the Wild
+1127 Food
+1129 Food
+1130 Hunter's Mark
+1131 Food
+1132 Critical Strike
+1133 Drink
+1135 Drink
+1137 Drink
+1138 Crystal Protection
+1139 Cold Eye
+1140 Blur
+1141 Brilliance Aura
+1142 Frostbolt
+1146 Regeneration
+1147 Regeneration
+1148 Regeneration
+1149 Regeneration
+1150 Mind Vision
+1151 Dash
+1152 Purify
+1153 Heal
+1159 First Aid
+1160 Demoralizing Shout
+1161 Challenging Shout
+1163 Toughness
+1164 Toughness
+1165 Toughness
+1166 Toughness
+1167 Fire Shield
+1168 Polymorph
+1169 Feeblemind
+1171 Fumble
+1172 Conjure: Torch
+1173 Fireball
+1174 Frost Armor
+1175 Chains of Ice
+1176 Remove Lesser Curse
+1178 Bear Form (Passive)
+1179 Beast Claws
+1180 Daggers
+1181 Regeneration
+1182 Regeneration
+1183 Regeneration
+1185 Resist Fire
+1186 Conjure: Lockpick
+1187 Haste
+1188 Fire Shield II
+1189 Shadow Resist
+1191 Frostbolt
+1192 Polymorph
+1193 Shadow Word: Silence
+1194 Frost Nova
+1195 Brilliance Aura II
+1196 Blizzard
+1197 Create Firestone (Lesser)
+1198 Fireball
+1199 Blur II
+1200 Frost Armor
+1201 Fumble II
+1202 Invisibility
+1203 Feeblemind II
+1206 REUSE
+1208 Chains of Ice
+1210 Conjure Mana Agate
+1211 Frostbolt
+1212 Haste II
+1213 Resist Fire
+1214 Ice Armor
+1217 Resist Frost
+1218 Elemental Armor
+1219 Polymorph
+1220 Brilliance Aura III
+1223 Shadow Word: Silence
+1224 Blur III
+1225 Frost Nova
+1227 Fumble III
+1228 Ice Armor
+1229 Elemental Fury
+1231 Feeblemind III
+1233 Ice Storm II
+1234 Brilliance Aura IV
+1236 Revive Pet
+1241 Cone of Cold
+1242 Fire Elemental
+1243 Power Word: Fortitude
+1244 Power Word: Fortitude
+1245 Power Word: Fortitude
+1246 Holy Word: Might
+1247 Holy Word: Might
+1248 Holy Word: Might
+1249 Conjure Food
+1250 Conjure Food
+1251 Conjure Food
+1252 Inner Fire
+1253 Inner Fire
+1254 Inner Fire
+1255 Power Word: Fortitude
+1256 Power Word: Fortitude
+1257 Power Word: Fortitude
+1258 Shadow Word: Pain
+1259 Shadow Word: Pain
+1260 Shadow Word: Pain
+1261 Shadow Word: Pain
+1262 Holy Word: Protect
+1263 Holy Word: Protect
+1264 Holy Word: Protect
+1265 Fade
+1266 Dampen Magic
+1267 Amplify Magic
+1268 Cure Disease
+1269 Abolish Disease
+1275 Smite
+1276 Smite
+1277 Power Word: Shield
+1278 Power Word: Shield
+1279 Shadow Protection
+1280 Shadow Protection
+1281 Shadow Word: Fumble
+1282 Shadow Word: Fumble
+1283 Dispel Magic
+1284 Dispel Magic
+1285 Prayer of Protection
+1286 Prayer of Protection II
+1287 Prayer of Healing
+1288 Prayer of Healing
+1290 Basic Campfire
+1291 Curse of Archimonde
+1292 Curse of Idiocy
+1293 Mind Control
+1295 Mind Rot
+1296 Curse of Agony
+1297 Curse of Agony
+1298 Power Word: Shield
+1299 Frost Resist
+1300 Smite
+1301 Smite
+1302 Damage Immunity Test
+1303 Lightning Shield
+1304 Lightning Shield
+1305 Lightning Shield
+1306 Unyielding Will
+1307 Unyielding Will
+1308 Unyielding Will
+1312 Spirit Armor
+1313 Spirit Armor
+1314 Spirit Armor
+1315 Cure Poison
+1316 Nullify Poison
+1318 Undying Strength
+1319 Undying Strength
+1320 Undying Strength
+1321 Spirit Burn
+1322 Spirit Burn II
+1323 Spirit Burn III
+1324 Lightning Bolt
+1325 Lightning Bolt
+1326 Healing Wave
+1327 Healing Wave
+1328 Flashburn
+1329 Mutilate
+1330 Garrote - Silence
+1331 Nature Resistance
+1332 Resist Nature II
+1333 Purge
+1338 Water Walking
+1339 Chain Lightning
+1340 Chain Lightning
+1341 Replenish Spirit
+1342 Replenish Spirit II
+1343 Thunder Clap
+1344 Thunder Clap
+1345 Far Sight
+1348 Earthquake
+1349 Earthquake II
+1350 Feral Spirit
+1351 Feral Spirit II
+1352 Astral Recall
+1353 Group Astral Recall
+1354 Healing Wave
+1355 Healing Wave
+1356 Healing Wave
+1357 Lightning Bolt
+1358 Lightning Bolt
+1361 Spirit Burn IV
+1362 Spirit Burn V
+1363 Lightning Shield
+1364 Unyielding Will
+1365 Undying Strength
+1366 Summon Imp
+1367 Drain Life
+1368 Drain Life
+1369 Drain Life
+1370 Firebolt
+1371 Firebolt II
+1372 Firebolt III
+1373 Teach Summon Felhunter
+1374 Immolate
+1375 Immolate
+1376 Immolate
+1377 Create Soulstone (Minor)
+1378 Unholy Armor
+1379 Unholy Armor II
+1380 Unholy Armor III
+1381 Shadow Bolt
+1382 Shadow Bolt
+1383 Demon Skin
+1384 Demon Armor
+1385 Summon Voidwalker
+1386 Echoes of Lordaeron
+1387 Unholy Frenzy II
+1388 Unholy Frenzy III
+1391 Cripple
+1393 Curse of Weakness
+1394 Curse of Weakness
+1395 Shadow Nova
+1396 Shadow Nova II
+1397 Fear
+1398 Fear II
+1399 Anti-Magic
+1401 Hellfire
+1402 Hellfire II
+1403 Summon Succubus
+1404 Demon Armor
+1406 Shadow Bolt
+1407 Shadow Bolt
+1408 Sunder Soul
+1409 Sunder Soul II
+1410 Firebolt IV
+1411 Firebolt V
+1412 Chaos Shield
+1413 Inferno
+1414 Faerie Fire
+1415 Faerie Fire
+1416 Faerie Fire
+1417 Slumber
+1418 Slumber II
+1419 Slumber III
+1420 Thorns
+1421 Thorns
+1422 Thorns
+1423 Rend
+1424 Dual Wield
+1425 Shackle Undead
+1426 Slow Poison
+1427 Slow Poison II
+1428 Rejuvenation
+1429 Rejuvenation
+1430 Rejuvenation
+1431 Rejuvenation
+1432 Swipe
+1433 Swipe
+1434 Tree Form
+1435 Entangling Roots
+1436 Entangling Roots
+1437 Abolish Magic
+1439 Tranquility
+1441 Travel Form
+1444 Chain Heal
+1445 Rip
+1446 Aquatic Form
+1448 Claw
+1449 Arcane Explosion
+1454 Life Tap
+1455 Life Tap
+1456 Life Tap
+1459 Arcane Intellect
+1460 Arcane Intellect
+1461 Arcane Intellect
+1462 Beast Lore
+1463 Mana Shield
+1464 Slam
+1467 Arcane Explosion
+1468 Arcane Spirit II
+1469 Arcane Spirit III
+1470 Arcane Spirit IV
+1471 Arcane Spirit V
+1472 Arcane Intellect
+1473 Arcane Intellect
+1474 Arcane Intellect
+1475 Arcane Intellect
+1476 Life Tap
+1477 Life Tap
+1478 Life Tap
+1479 Burning Spirit
+1481 Mana Shield
+1482 Slam
+1483 Burning Intellect III
+1484 Burning Intellect IV
+1485 Metawheel Boulder
+1490 Curse of the Elements
+1494 Track Beasts
+1495 Mongoose Bite
+1499 Freezing Trap
+1509 GM Only OFF
+1510 Volley
+1513 Scare Beast
+1515 Tame Beast
+1516 Quick Shot
+1522 Pet Upgrade (NYI)
+1523 Pet Upgrade II (NYI)
+1524 Pet Upgrade III (NYI)
+1525 Major Pet Upgrade (NYI)
+1526 Major Pet Upgrade II (NYI)
+1527 Major Pet Upgrade III (NYI)
+1528 Free Master
+1535 Fire Nova Totem
+1536 Longshot II
+1538 Charging
+1539 Feed Pet Effect
+1540 Volley
+1543 Flare
+1544 Critical Shot
+1545 Critical Shot
+1547 Track Beasts
+1549 Mongoose Bite
+1552 Freezing Trap
+1557 Full Speed
+1558 Wounding Shot II
+1559 Wounding Shot III
+1560 Wounding Shot IV
+1561 Wounding Shot V
+1563 Trueshot Aura
+1564 Volley
+1567 Scare Beast
+1568 Free Master
+1571 Soul Fire
+1572 Death Coil
+1573 Intervene
+1574 Shadow Mend
+1579 Tame Beast
+1580 Quick Shot
+1581 Quick Shot
+1582 Quick Shot
+1583 Auto Shot
+1584 Feed Pet
+1588 Pet Upgrade
+1589 Pet Upgrade II
+1590 Pet Upgrade III
+1591 Major Pet Upgrade I
+1592 Major Pet Upgrade II
+1593 Major Pet Upgrade III
+1598 Volley
+1599 Fire Resist
+1602 Hunter's Will
+1603 Flare
+1604 Dazed
+1605 Heroic Strike
+1606 Heroic Strike
+1607 Heroic Strike
+1608 Heroic Strike
+1609 Ashbringer Buzzsaw
+1610 Heroic Strike
+1611 Heroic Strike
+1612 Defensive Stance
+1630 Two-Hand Strike
+1631 Two-Hand Strike II
+1632 Two-Hand Strike IV
+1633 Two-Hand Strike V
+1634 Two-Hand Strike III
+1640 Enrage
+1646 Disarm
+1647 Slowing Strike II
+1650 Slowing Strike III
+1663 Savage Assault III
+1664 Savage Assault IV
+1665 Savage Assault V
+1666 Savage Assault
+1667 Savage Assault II
+1668 Savage Assault III
+1669 Savage Assault IV
+1670 Savage Assault V
+1671 Shield Bash
+1672 Shield Bash
+1675 Shield Bash
+1676 Shield Bash
+1677 Shield Bash
+1680 Whirlwind
+1685 Whirlwind
+1698 Shockwave
+1702 Shockwave
+1706 Levitate
+1708 Mighty Blow III
+1709 Mighty Blow IV
+1710 Summon Felsteed
+1711 Mighty Blow II
+1712 Mighty Blow III
+1713 Mighty Blow IV
+1714 Curse of Tongues
+1715 Hamstring
+1716 Hamstring
+1719 Recklessness
+1722 Recklessness
+1725 Distract
+1728 Distract
+1731 Defensive Strike
+1732 Defensive Strike II
+1733 Defensive Strike
+1734 Defensive Strike II
+1735 Demoralizing Roar
+1736 Demoralizing Roar
+1737 Demoralizing Roar
+1738 Charge
+1740 Battle Shout
+1741 Rally Troops
+1742 Cower
+1747 Cower
+1748 Cower
+1749 Cower
+1750 Cower
+1751 Cower
+1752 Sinister Strike
+1753 Cower
+1754 Cower
+1755 Cower
+1756 Cower
+1757 Sinister Strike
+1758 Sinister Strike
+1759 Sinister Strike
+1760 Sinister Strike
+1761 Sinister Strike
+1762 Sinister Strike
+1763 Sinister Strike
+1764 Sinister Strike
+1765 Sinister Strike
+1766 Kick
+1767 Kick
+1768 Kick
+1769 Kick
+1771 Kick
+1772 Kick
+1773 Kick
+1774 Kick
+1775 Kick
+1776 Gouge
+1777 Gouge
+1780 Gouge
+1781 Gouge
+1784 Stealth
+1785 Stealth
+1786 Stealth
+1787 Stealth
+1789 Stealth
+1790 Stealth
+1791 Stealth
+1792 Stealth
+1794 Disheartening Blow
+1795 Disheartening Blow II
+1796 Disheartening Blow III
+1797 Disheartening Blow IV
+1798 Disheartening Blow V
+1799 Disheartening Blow
+1800 Disheartening Blow II
+1801 Disheartening Blow III
+1802 Disheartening Blow IV
+1803 Disheartening Blow V
+1804 Pick Lock
+1809 Lockpicking
+1810 Lockpicking
+1811 Scorch
+1817 Evasive Slash
+1818 Evasive Slash II
+1819 Evasive Slash III
+1820 Evasive Slash IV
+1821 Evasive Slash V
+1822 Rake
+1823 Rake
+1824 Rake
+1825 Lend Pet (NYI)
+1827 Rake
+1828 Rake
+1829 Rake
+1830 Pyroblast
+1831 Blast Wave
+1833 Cheap Shot
+1834 Gathering Speed
+1837 Holy Resist
+1838 Cheap Shot
+1842 Disarm Trap
+1844 Disarming Fury Effect
+1845 Disarm Trap
+1846 Detect Traps
+1847 One-Handed Swords
+1848 Divining Chant
+1849 Beast Claws II
+1850 Dash
+1851 Portal: Stormwind
+1852 Silenced
+1853 Growl
+1856 Vanish
+1857 Vanish
+1858 Vanish
+1859 Vanish
+1860 Safe Fall
+1862 Safe Fall
+1864 Torpor
+1865 Torpor
+1872 Holy Light
+1873 Holy Light
+1874 Holy Light
+1875 Devotion Aura
+1876 Devotion Aura
+1877 Devotion Aura
+1878 Lay on Hands
+1881 Summon Hive'Zara Hatchling
+1885 Seal of Fortitude (NSE)
+1886 Seal of Fortitude II (NSE)
+1887 Seal of Fortitude III (NSE)
+1893 Seal of Shadow
+1894 Seal of Shadow II
+1895 Seal of Fire * (NSE)
+1896 Seal of Fire II * (NSE)
+1897 Divine Shield
+1898 Divine Shield
+1900 Holy Flurry
+1901 Holy Flurry II
+1902 Holy Flurry IV
+1904 Holy Flurry III
+1906 Debilitating Charge
+1907 Righteous Aura III
+1908 Uber Heal Over Time
+1909 Blessing of Freedom
+1911 Blessing of Protection
+1912 Blessing of Salvation
+1913 Holy Light
+1914 Holy Light
+1916 Sacrifice (NSE)
+1918 Staff Strike III (Disabled)
+1920 Firestaff III
+1921 Firestaff IV
+1922 Firestaff V
+1923 Firestaff
+1924 Firestaff II
+1925 Firestaff III
+1926 Firestaff IV
+1927 Firestaff V
+1928 Staff Strike
+1929 Staff Strike II
+1930 Staff Strike III
+1931 Staff Strike IV
+1932 Staff Strike V
+1936 Teleport Anvilmar
+1937 Purify
+1938 Strength of the Bear
+1940 Rocket Blast
+1942 Fire Imp
+1943 Rupture
+1944 Shadow Imp
+1946 Greater Imp
+1948 Greater Fire Imp
+1949 Hellfire
+1950 Greater Shadow Imp
+1952 Nether Imp
+1953 Blink
+1954 Greater Nether Imp
+1966 Feint
+1978 Serpent Sting
+1980 Bombard
+1981 Fire II
+1982 Fire III
+1983 Fire IV
+1984 Fire V
+1985 Sniper Shot
+1988 Scatter Shot
+1989 Scatter Shot II
+1990 Scatter Shot III
+1991 Scatter Shot IV
+1992 Scatter Shot V
+1993 Dizzy Shot
+1994 Dizzy Shot II
+1995 Dizzy Shot III
+1996 Hip Shot
+1997 Hip Shot II
+1998 Hip Shot III
+2000 Head Shot
